@@ -1,0 +1,46 @@
+{
+  "countries": [
+    "France",
+    "Belgique",
+    "Suisse",
+    "Maroc",
+    "Émirats (Dubaï)",
+    "Royaume-Uni",
+    "États-Unis",
+    "Espagne",
+    "Canada"
+  ],
+  "languages": [
+    {
+      "code": "fr",
+      "label": "Français"
+    },
+    {
+      "code": "en",
+      "label": "Anglais"
+    },
+    {
+      "code": "ar",
+      "label": "Arabe"
+    },
+    {
+      "code": "es",
+      "label": "Espagnol"
+    }
+  ],
+  "themes": [
+    "Marché résidentiel",
+    "Immobilier commercial / bureaux / retail",
+    "Immobilier de luxe / haut de gamme",
+    "Construction & promotion",
+    "Financement & crédit",
+    "Réglementation & fiscalité",
+    "Investissement",
+    "PropTech & innovation",
+    "Immobilier durable / ESG",
+    "Foncier & urbanisme",
+    "Location & gestion locative",
+    "Tourisme & résidences",
+    "Non classé"
+  ]
+}

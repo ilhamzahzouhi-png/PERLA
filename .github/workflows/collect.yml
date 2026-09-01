@@ -1,0 +1,41 @@
+name: Collecte quotidienne
+
+on:
+  schedule:
+    # Tous les jours a 05h30 UTC (~06h30 / 07h30 heure du Maroc selon la saison)
+    - cron: "30 5 * * *"
+  workflow_dispatch: {}  # bouton "Run workflow" pour lancer a la demande
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collecte
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Recuperer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Lancer la collecte
+        run: python build.py
+
+      - name: Publier les nouvelles donnees
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/articles.json docs/data/filters.json docs/data/meta.json
+          if git diff --staged --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Collecte automatique $(date -u +%Y-%m-%d)"
+            git push
+          fi

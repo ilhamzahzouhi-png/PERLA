@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Perla Group — Veille Immobilier</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <img class="logo" src="perla-logo.svg" alt="Perla Group">
+      <div class="brand-text">
+        <span class="brand-sub">Veille Immobilier</span>
+        <p class="subtitle">Revue de presse internationale — presse écrite &amp; publicitaire</p>
+      </div>
+    </div>
+    <div class="actions">
+      <span id="lastUpdated" class="last-updated"></span>
+    </div>
+  </header>
+
+  <section class="stats" id="stats"></section>
+
+  <section class="featured" id="featuredSection">
+    <div class="featured-head">
+      <h2>À la une</h2>
+      <span class="featured-sub">Les articles les plus marquants du moment</span>
+    </div>
+    <div id="featured" class="featured-grid"></div>
+  </section>
+
+  <main class="layout">
+    <aside class="filters">
+      <h2>Filtres</h2>
+      <label>Recherche
+        <input type="search" id="searchInput" placeholder="mot-clé…">
+      </label>
+      <div class="field">
+        <span class="field-label">Pays</span>
+        <div id="countryChecks" class="checks"></div>
+      </div>
+      <label>Langue
+        <select id="languageSelect"><option value="">Toutes les langues</option></select>
+      </label>
+      <label>Thématique
+        <select id="themeSelect"><option value="">Toutes les thématiques</option></select>
+      </label>
+      <label>Période
+        <select id="periodSelect">
+          <option value="">Toutes les dates</option>
+          <option value="today">Aujourd'hui</option>
+          <option value="7">7 derniers jours</option>
+          <option value="30">30 derniers jours</option>
+          <option value="custom">Personnalisée…</option>
+        </select>
+      </label>
+      <label>Du
+        <input type="date" id="dateFrom">
+      </label>
+      <label>Au
+        <input type="date" id="dateTo">
+      </label>
+      <button id="resetBtn" class="btn btn-ghost">Réinitialiser</button>
+    </aside>
+
+    <section class="results">
+      <div class="results-head">
+        <span id="resultCount" class="count">—</span>
+        <span id="loading" class="loading hidden">Chargement…</span>
+        <label class="toggle">
+          <input type="checkbox" id="groupToggle" checked> Grouper par pays
+        </label>
+      </div>
+      <div id="articles" class="cards"></div>
+      <div id="empty" class="empty hidden">
+        <p>Aucun article ne correspond à ces filtres.</p>
+        <p>Essayez d'élargir la recherche ou de <strong>réinitialiser</strong> les filtres.</p>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
