@@ -1,9 +1,9 @@
-name: Collecte quotidienne
+name: Collecte quotidienne + envoi de la veille
 
 on:
   schedule:
-    # Tous les jours a 05h30 UTC (~06h30 / 07h30 heure du Maroc selon la saison)
-    - cron: "30 5 * * *"
+    # Tous les jours a 07h30 UTC = 08h30 heure du Maroc (UTC+1)
+    - cron: "30 7 * * *"
   workflow_dispatch: {}  # bouton "Run workflow" pour lancer a la demande
 
 permissions:
@@ -39,3 +39,13 @@ jobs:
             git commit -m "Collecte automatique $(date -u +%Y-%m-%d)"
             git push
           fi
+
+      - name: Envoyer la veille du jour par e-mail
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+        run: |
+          if [ -z "$BREVO_API_KEY" ]; then
+            echo "Cle Brevo absente — envoi ignore (a configurer dans Settings > Secrets)."
+            exit 0
+          fi
+          python send_digest.py
