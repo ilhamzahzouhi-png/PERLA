@@ -1,10 +1,11 @@
 {
-  "sender_name": "Veille Immobilier — Perla Group",
+  "sender_name": "Veille Immobilière — Perla Group",
   "sender_email": "izahzouhi@groupeperla.com",
   "recipients": [
     "obenkirane@groupeperla.com",
     "mjennane@groupeperla.com"
   ],
   "site_url": "https://ilhamzahzouhi-png.github.io/PERLA/",
-  "hours": 24
+  "hours": 24,
+  "top_per_country": 5
 }

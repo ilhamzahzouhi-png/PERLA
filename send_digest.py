@@ -54,7 +54,8 @@ def main():
     cfg = load_config()
     articles = store.load_articles()
     subject, html, text, count = digest.build_digest(
-        articles, site_url=cfg.get("site_url", ""), hours=cfg.get("hours", 24)
+        articles, site_url=cfg.get("site_url", ""), hours=cfg.get("hours", 24),
+        top_per_country=cfg.get("top_per_country", 5),
     )
 
     if count == 0:

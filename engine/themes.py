@@ -4,9 +4,12 @@
 THEMES = {
     "Marché résidentiel": [
         "logement", "résidentiel", "prix immobilier", "maison", "appartement",
+        "marché immobilier", "marché de l'immobilier", "marché de l’immobilier",
+        "secteur immobilier", "marché du logement", "immobilier neuf", "villa",
         "housing", "residential", "home price", "house price", "apartment",
-        "vivienda", "residencial", "precio de la vivienda",
-        "سكن", "سكني", "منازل", "شقق", "أسعار العقارات",
+        "real estate market", "housing market", "property market", "home sales",
+        "vivienda", "residencial", "precio de la vivienda", "mercado inmobiliario",
+        "سكن", "سكني", "منازل", "شقق", "أسعار العقارات", "سوق العقارات",
     ],
     "Immobilier commercial / bureaux / retail": [
         "bureaux", "commercial", "commerce", "entrepôt", "logistique", "retail",
@@ -70,8 +73,10 @@ THEMES = {
     ],
     "Tourisme & résidences": [
         "tourisme", "hôtel", "résidence secondaire", "airbnb", "saisonnière",
+        "vacances", "destination", "hors saison", "villégiature", "balnéaire",
         "tourism", "hotel", "resort", "short-term rental", "vacation rental",
-        "turismo", "hotel", "vacacional", "alquiler turístico",
+        "holiday", "vacation", "seaside", "getaway",
+        "turismo", "hotel", "vacacional", "alquiler turístico", "vacaciones",
         "سياحة", "فندق", "منتجع", "عطلة",
     ],
 }

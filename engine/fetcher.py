@@ -108,15 +108,19 @@ def fetch_all(progress=None):
     """Recupere toutes les sources. Retourne (articles, erreurs)."""
     all_articles = []
     errors = []
-    seen_keys = set()  # dedup PAR pays : (pays, cle) — un article peut exister dans 2 pays
+    index = {}  # (pays, cle) -> position dans all_articles ; permet de compter les reprises
     for src in sources_mod.build_sources():
         label = src["country"] + " / " + src["language_label"]
         try:
             found = fetch_source(src)
             for a in found:
                 key = (a["country"], a["dedup_key"])
-                if key not in seen_keys:
-                    seen_keys.add(key)
+                if key in index:
+                    # meme sujet deja vu (autre media/edition) -> on compte la reprise
+                    all_articles[index[key]]["mentions"] = all_articles[index[key]].get("mentions", 1) + 1
+                else:
+                    a["mentions"] = 1
+                    index[key] = len(all_articles)
                     all_articles.append(a)
             if progress:
                 progress(label, len(found), None)
