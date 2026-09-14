@@ -116,27 +116,53 @@ def is_on_country(country, media_domain, text):
     return any(tok in hay for tok in GEO_TOKENS.get(country, []))
 
 
+# Recherches ciblees par media (operateur "site:") : garantissent la presence de
+# titres precis des qu'ils publient sur l'immobilier. On n'ajoute ici que des
+# medias reellement indexes par Google News pour ce sujet (verifie a la main).
+SITE_QUERIES = [
+    {"country": "Maroc", "lang": "ar", "query": "عقارات site:assabah.ma"},
+    {"country": "Maroc", "lang": "ar", "query": "عقارات site:hibapress.com"},
+    {"country": "Maroc", "lang": "ar", "query": "عقارات site:goud.ma"},
+    {"country": "Maroc", "lang": "ar", "query": "عقارات site:barlamane.com"},
+]
+
+
+def _gn_url(query, lang, gl):
+    return (
+        "https://news.google.com/rss/search?"
+        "q=" + _url_encode(query)
+        + "&hl=" + lang
+        + "&gl=" + gl
+        + "&ceid=" + gl + ":" + lang
+    )
+
+
 def build_sources():
     """Retourne la liste des (pays, langue, url RSS) a interroger."""
     sources = []
+    gl_by_country = {c["name"]: c["gl"] for c in COUNTRIES}
     for c in COUNTRIES:
         for lang in c["langs"]:
             geo = c.get("geo", {}).get(lang, "")
             q = (BASE_QUERY[lang] + " " + geo).strip() if geo else BASE_QUERY[lang]
-            url = (
-                "https://news.google.com/rss/search?"
-                "q=" + _url_encode(q)
-                + "&hl=" + lang
-                + "&gl=" + c["gl"]
-                + "&ceid=" + c["gl"] + ":" + lang
-            )
             sources.append({
                 "country": c["name"],
                 "gl": c["gl"],
                 "language": lang,
                 "language_label": LANG_LABEL[lang],
-                "url": url,
+                "url": _gn_url(q, lang, c["gl"]),
             })
+    # Recherches ciblees par media (Maroc)
+    for sq in SITE_QUERIES:
+        gl = gl_by_country[sq["country"]]
+        lang = sq["lang"]
+        sources.append({
+            "country": sq["country"],
+            "gl": gl,
+            "language": lang,
+            "language_label": LANG_LABEL[lang],
+            "url": _gn_url(sq["query"], lang, gl),
+        })
     return sources
 
 
