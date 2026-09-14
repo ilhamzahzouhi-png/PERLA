@@ -2,10 +2,28 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "veille",
+      "name": "rapports",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["/Users/ilhamzahzouhi/Desktop/CLAUD/server.py"],
-      "port": 8000
+      "runtimeArgs": ["/tmp/perla_rapports/serve.py"],
+      "port": 4177
+    },
+    {
+      "name": "anglais",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["/tmp/anglais_serve.py"],
+      "port": 5599
+    },
+    {
+      "name": "suivi-actions",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["/tmp/suivi_serve.py"],
+      "port": 4188
+    },
+    {
+      "name": "terra",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["/tmp/terra_serve.py"],
+      "port": 4199
     }
   ]
 }
