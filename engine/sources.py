@@ -15,17 +15,20 @@ LANG_LABEL = {
     "es": "Espagnol",
 }
 
-# Pays surveilles : code pays Google (gl) + langues a interroger
+# Pays surveilles : code pays Google (gl) + langues + terme geographique (geo)
+# Le terme "geo" est AJOUTE a la requete pour ancrer les resultats au pays
+# (ex. "immobilier Maroc"), sinon Google renvoie de l'actu generique dans la
+# langue demandee (beaucoup d'articles France se retrouvaient dans "Maroc").
 COUNTRIES = [
-    {"name": "France",         "gl": "FR", "langs": ["fr"]},
-    {"name": "Belgique",       "gl": "BE", "langs": ["fr"]},
-    {"name": "Suisse",         "gl": "CH", "langs": ["fr"]},
-    {"name": "Maroc",          "gl": "MA", "langs": ["fr", "ar"]},
-    {"name": "Émirats (Dubaï)", "gl": "AE", "langs": ["en", "ar"]},
-    {"name": "Royaume-Uni",    "gl": "GB", "langs": ["en"]},
-    {"name": "États-Unis",     "gl": "US", "langs": ["en"]},
-    {"name": "Espagne",        "gl": "ES", "langs": ["es"]},
-    {"name": "Canada",         "gl": "CA", "langs": ["fr", "en"]},
+    {"name": "France",         "gl": "FR", "langs": ["fr"],       "geo": {"fr": "France"}},
+    {"name": "Belgique",       "gl": "BE", "langs": ["fr"],       "geo": {"fr": "Belgique"}},
+    {"name": "Suisse",         "gl": "CH", "langs": ["fr"],       "geo": {"fr": "Suisse"}},
+    {"name": "Maroc",          "gl": "MA", "langs": ["fr", "ar"], "geo": {"fr": "Maroc", "ar": "المغرب"}},
+    {"name": "Émirats (Dubaï)", "gl": "AE", "langs": ["en", "ar"], "geo": {"en": "UAE", "ar": "الإمارات"}},
+    {"name": "Royaume-Uni",    "gl": "GB", "langs": ["en"],       "geo": {"en": "UK"}},
+    {"name": "États-Unis",     "gl": "US", "langs": ["en"],       "geo": {"en": "USA"}},
+    {"name": "Espagne",        "gl": "ES", "langs": ["es"],       "geo": {"es": "España"}},
+    {"name": "Canada",         "gl": "CA", "langs": ["fr", "en"], "geo": {"fr": "Canada", "en": "Canada"}},
 ]
 
 
@@ -34,7 +37,8 @@ def build_sources():
     sources = []
     for c in COUNTRIES:
         for lang in c["langs"]:
-            q = BASE_QUERY[lang]
+            geo = c.get("geo", {}).get(lang, "")
+            q = (BASE_QUERY[lang] + " " + geo).strip() if geo else BASE_QUERY[lang]
             url = (
                 "https://news.google.com/rss/search?"
                 "q=" + _url_encode(q)
