@@ -79,6 +79,10 @@ def fetch_source(source):
         published = _parse_date(_text(item, "pubDate"))
         media, media_domain = _extract_source(item, None)
         haystack = title + " " + description
+        # Fiabilite geographique : on ecarte les articles qui ne concernent pas
+        # vraiment le pays du flux (evite les articles France classes "Maroc", etc.)
+        if not sources_mod.is_on_country(source["country"], media_domain, haystack):
+            continue
         detected = themes_mod.classify(haystack)
         dedup_key = _normalize_title(title) or hashlib.md5(link.encode("utf-8")).hexdigest()
         articles.append({
