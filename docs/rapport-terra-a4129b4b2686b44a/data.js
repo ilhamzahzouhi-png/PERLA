@@ -547,7 +547,7 @@ const TERRA_DATA = {
    "delai_visite_vente": 11,
    "statut": "Vente en cours",
    "bien": "TERRA COLLECTION VILLA 28 SUP 826 Tr 1",
-   "agent": "rguenoun",
+   "agent": "b.sifeddine",
    "paiement": null,
    "nb_visites": 1,
    "nb_relances": 0,
@@ -885,7 +885,7 @@ const TERRA_DATA = {
    "delai_visite_vente": 11,
    "statut": "Vente en cours",
    "bien": "TERRA COLLECTION VILLA 28 SUP 826 Tr 1",
-   "agent": "rguenoun"
+   "agent": "b.sifeddine"
   },
   {
    "id": "CONT005231",
@@ -1922,7 +1922,7 @@ const TERRA_DATA = {
    "crc": "Non pris en charge par le CRC (contact direct)",
    "statut": "Vente en cours",
    "bien": "TERRA COLLECTION VILLA 28 SUP 826 Tr 1",
-   "agent": "rguenoun",
+   "agent": "b.sifeddine",
    "date_crm": "20/05/2026 11:54",
    "date_appel": null,
    "date_visite": "09/05/2026",
