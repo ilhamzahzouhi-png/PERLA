@@ -593,9 +593,6 @@ function renderFocus() {
     ['Délai moyen', fmtNum(meanOf(crc), 0) + ' j', fmtNum(meanOf(dir), 0) + ' j'],
     ['Visites moyennes / dossier', fmtNum(mean(crc.map(r => r.nb_visites || 0)), 1), fmtNum(mean(dir.map(r => r.nb_visites || 0)), 1)],
     ['Relances moyennes / dossier', fmtNum(mean(crc.map(r => r.nb_relances || 0)), 1), fmtNum(mean(dir.map(r => r.nb_relances || 0)), 1)],
-    ['Statut : Active', stat(crc, 'Active'), stat(dir, 'Active')],
-    ['Statut : En cours', stat(crc, 'En cours'), stat(dir, 'En cours')],
-    ['Statut : Annulée', stat(crc, 'Annulée'), stat(dir, 'Annulée')],
   ];
   $('#focusCompare').innerHTML = `<table class="cmp-table">
     <thead><tr><th>Indicateur</th><th>Leads CRC (${crc.length})</th><th>Contact direct (${dir.length})</th></tr></thead>
@@ -661,9 +658,6 @@ function renderCompare() {
 
   const rows = [
     ['Nombre de ventes', crc.length, dir.length],
-    ['Statut : Active', stat(crc, 'Active'), stat(dir, 'Active')],
-    ['Statut : En cours', stat(crc, 'En cours'), stat(dir, 'En cours')],
-    ['Statut : Annulée', stat(crc, 'Annulée'), stat(dir, 'Annulée')],
     ['Délai moyen visite → vente (j)', fmtNum(avg(crc, r => r.delai_visite_vente), 1), fmtNum(avg(dir, r => r.delai_visite_vente), 1)],
     ['Visites moyennes / dossier', fmtNum(avg(crc, r => r.nb_visites), 1), fmtNum(avg(dir, r => r.nb_visites), 1)],
     ['Relances moyennes / dossier', fmtNum(avg(crc, r => r.nb_relances), 1), fmtNum(avg(dir, r => r.nb_relances), 1)],
