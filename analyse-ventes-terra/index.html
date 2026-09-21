@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Analyse des ventes digitales — Terra Collection | Perla Group</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <div class="logo" aria-hidden="true">
+      <span class="bar b1"></span><span class="bar b2"></span><span class="bar b3"></span><span class="bar b4"></span>
+    </div>
+    <div class="brand-txt">
+      <strong>PERLA <span>group</span></strong>
+      <small>Analyse des ventes digitales — Terra Collection</small>
+    </div>
+  </div>
+  <div class="topbar-actions">
+    <span class="confid">Document confidentiel — Usage interne</span>
+    <button id="printBtn" class="btn-print" title="Imprimer / Exporter en PDF">Imprimer / PDF</button>
+  </div>
+</header>
+
+<nav class="tabs" id="tabs">
+  <button class="tab active" data-tab="overview">Vue d'ensemble</button>
+  <button class="tab" data-tab="journeys">Parcours clients</button>
+  <button class="tab" data-tab="global">Parcours global</button>
+  <button class="tab" data-tab="compare">CRC vs Direct</button>
+  <button class="tab" data-tab="all">Toutes les ventes</button>
+  <button class="tab" data-tab="quality">Qualité des données</button>
+</nav>
+
+<main id="app">
+
+  <!-- ===== OVERVIEW ===== -->
+  <section class="view active" id="view-overview">
+    <div class="section-head">
+      <h1>Vue d'ensemble</h1>
+      <p class="lead" id="overview-lead"></p>
+    </div>
+    <div class="kpi-grid" id="kpiGrid"></div>
+
+    <div class="grid-2">
+      <div class="card">
+        <h2>Répartition des ventes digitales par source</h2>
+        <div class="donut-wrap"><div id="sourceDonut" class="donut"></div><div id="sourceLegend" class="legend"></div></div>
+      </div>
+      <div class="card">
+        <h2>Statut des ventes digitales</h2>
+        <div id="statutBars" class="barchart"></div>
+      </div>
+    </div>
+
+    <div class="grid-2">
+      <div class="card">
+        <h2>Ventes digitales par agent commercial</h2>
+        <div id="agentBars" class="barchart"></div>
+      </div>
+      <div class="card">
+        <h2>Délai moyen visite → vente (jours), par source</h2>
+        <div id="delaiBars" class="barchart"></div>
+      </div>
+    </div>
+
+    <div class="card note">
+      <strong>À retenir.</strong> <span id="overview-note"></span>
+    </div>
+  </section>
+
+  <!-- ===== JOURNEYS ===== -->
+  <section class="view" id="view-journeys">
+    <div class="section-head">
+      <h1>Parcours clients — prospect par prospect</h1>
+      <p class="lead">Le détail chronologique de chaque dossier digital, date par date : premier contact, visites, relances, négociation, puis vente. Reconstitué à partir des notes du CRM.</p>
+    </div>
+
+    <div class="filters" id="journeyFilters">
+      <input type="search" id="jSearch" placeholder="Rechercher un nom…" aria-label="Rechercher">
+      <select id="jSource"><option value="">Toutes les sources</option></select>
+      <select id="jCrc"><option value="">CRC & Direct</option></select>
+      <select id="jStatut"><option value="">Tous les statuts</option></select>
+      <select id="jAgent"><option value="">Tous les agents</option></select>
+      <span class="filter-count" id="jCount"></span>
+    </div>
+
+    <div id="journeyList" class="journey-list"></div>
+  </section>
+
+  <!-- ===== GLOBAL JOURNEY ===== -->
+  <section class="view" id="view-global">
+    <div class="section-head">
+      <h1>Parcours client global</h1>
+      <p class="lead">Vue agrégée du chemin type d'un prospect digital, du premier contact jusqu'à la vente, et répartition des durées de conversion.</p>
+    </div>
+
+    <div class="card">
+      <h2>Les étapes du parcours (ensemble des 22 dossiers digitaux)</h2>
+      <div id="funnel" class="funnel"></div>
+      <p class="micro" id="funnelNote"></p>
+    </div>
+
+    <div class="grid-2">
+      <div class="card">
+        <h2>Intensité du suivi commercial (moyennes par dossier)</h2>
+        <div id="effortStats" class="stat-rows"></div>
+      </div>
+      <div class="card">
+        <h2>Répartition des délais visite → vente</h2>
+        <div id="delaiHisto" class="barchart"></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Chronologie des ventes digitales</h2>
+      <p class="micro">Chaque dossier positionné de sa première visite (●) à sa vente (◆). Survolez pour le détail.</p>
+      <div id="timeline" class="timeline-global"></div>
+    </div>
+  </section>
+
+  <!-- ===== COMPARE ===== -->
+  <section class="view" id="view-compare">
+    <div class="section-head">
+      <h1>CRC vs contact direct</h1>
+      <p class="lead">Comparaison des dossiers digitaux pris en charge par le CRC (canal LEAD) et de ceux entrés en contact direct (WhatsApp, téléphone, visite spontanée).</p>
+    </div>
+    <div class="card">
+      <div id="compareTable"></div>
+    </div>
+    <div class="card note warn">
+      <strong>Lecture à faire avec prudence.</strong> Échantillon réduit (13 dossiers CRC contre 9 en contact direct). Ces écarts sont un point de départ, pas une conclusion : le volume est faible et d'autres facteurs (profil du prospect, maturité au moment du contact) peuvent les expliquer. À confronter aux parcours individuels avant toute décision sur le rôle du CRC.
+    </div>
+  </section>
+
+  <!-- ===== ALL SALES ===== -->
+  <section class="view" id="view-all">
+    <div class="section-head">
+      <h1>Toutes les ventes Terra Collection</h1>
+      <p class="lead">Les 60 dossiers de vente, toutes origines confondues — référence pour situer le digital dans l'ensemble.</p>
+    </div>
+    <div class="filters">
+      <input type="search" id="aSearch" placeholder="Rechercher un nom, une villa…">
+      <select id="aDigital"><option value="">Toutes origines</option><option value="Oui">Digital uniquement</option><option value="Non">Non-digital</option></select>
+      <select id="aStatut"><option value="">Tous les statuts</option></select>
+      <span class="filter-count" id="aCount"></span>
+    </div>
+    <div class="table-wrap">
+      <table id="allTable" class="data-table">
+        <thead><tr>
+          <th data-sort="nom">Prospect</th>
+          <th data-sort="digitale">Digital</th>
+          <th data-sort="source">Source</th>
+          <th data-sort="crc">Prise en charge</th>
+          <th data-sort="date_visite">Visite</th>
+          <th data-sort="date_vente">Vente</th>
+          <th data-sort="delai_visite_vente">Délai (j)</th>
+          <th data-sort="statut">Statut</th>
+          <th data-sort="bien">Bien vendu</th>
+          <th data-sort="agent">Agent</th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===== QUALITY ===== -->
+  <section class="view" id="view-quality">
+    <div class="section-head">
+      <h1>Qualité des données CRM</h1>
+      <p class="lead">Contrôles automatiques sur la fiabilité de la saisie. À corriger côté équipe commerciale pour permettre une mesure fine des délais de conversion.</p>
+    </div>
+    <div class="kpi-grid" id="qualityKpi"></div>
+    <div class="card">
+      <h2>Dossiers digitaux avec une anomalie de saisie détectée</h2>
+      <div class="table-wrap">
+        <table class="data-table" id="qualityTable">
+          <thead><tr><th>Prospect</th><th>Anomalie détectée</th><th>Détail</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+    <div class="card note">
+      <strong>Recommandation.</strong> Créer la fiche prospect dès le premier contact (lead digital) et non au moment de la visite ou de la vente, et renseigner la « Date de visite » avec la visite effective (et non une prise de rendez-vous ou un appel). Sans cela, le délai réel lead → vente ne peut pas être mesuré automatiquement.
+    </div>
+  </section>
+
+</main>
+
+<footer class="foot">
+  <span>Perla Group — Direction Marketing &amp; Communication</span>
+  <span>Source : export CRM Terra Collection · Journal d'activité horodaté du 14/09/2026</span>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
