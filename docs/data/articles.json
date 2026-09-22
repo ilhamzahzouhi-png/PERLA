@@ -1,5 +1,909 @@
 [
   {
+    "title": "Le National adopte un durcissement de la Lex Koller pour limiter l’achat de logements suisses par des étrangers - Le Temps",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd2N1NDZET2NrMXlCMFpVbHhadEoxTnVQNWRoY3c0SHFYdTRWcXNqeE9ha1hOR2p5MjdvaDAyNHpaclZTZUpaclQyeU1CalJhSnZTWDFfNURyYzIyYlJrR2dNMkgwSThod0pyTzlhMHJSRVVLc0VrdHVXMHJEai1vM21vTmY0bTRFMlJUZ2ZWOFpZTDV2bzF5bU1sYlg0ZEhoUi1BbDRibVZKRjA4Ni12eUw3ZzIxTHB5ZW9uUV9aakRqOGUyZkFlUlIxeEJMVUdqcjZYdkdGTkk?oc=5",
+    "description": "Le National adopte un durcissement de la Lex Koller pour limiter l’achat de logements suisses par des étrangers Le Temps",
+    "published": "2026-09-22T12:14:07+00:00",
+    "media": "Le Temps",
+    "media_domain": "letemps.ch",
+    "country": "Suisse",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "le national adopte un durcissement de la lex koller pour limiter lachat de logements suisses par des étrangers",
+    "collected_at": "2026-09-22T12:45:09.935921+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "LSL Property Services Stock And 2 British Undervalued Stocks - Yahoo Finance UK",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOEZSMGFPdnlZVF80bGtpdHVkVm5vbFBZa2FVRjBILWpIU2l4MnU2c2N1cm9BNi01c05LYUlNcEhIdmN4VEdhZUZ2Zk45elJDWjNiUmJXazVmckdGQTlYbHNVb29Ub0s1d1RGQnQzYm90SFlCYlgyOThDcndDS2FaV24wS24?oc=5",
+    "description": "LSL Property Services Stock And 2 British Undervalued Stocks Yahoo Finance UK",
+    "published": "2026-09-22T11:13:58+00:00",
+    "media": "Yahoo Finance UK",
+    "media_domain": "uk.finance.yahoo.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "lsl property services stock and 2 british undervalued stocks",
+    "collected_at": "2026-09-22T12:45:13.131469+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Intermédiaire immobilier: quand la commission devient-elle due et qui doit la payer ? - SNRT News",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUXVxd2tpZjZSMHpjQkFKSGxRR3k5S0NIcWQyUEVoQmtXWG4wSUs2V3JDY3FRWU03eFRmanJkT1JxcDFoUHFEamgxQjNwX2pXZkZsNFdQMW1xcDFXUDRKME96ZjRmdTlSU0pMNGoxTkdtbmhUWVZ2YVMyeGRhbFJ0M0NzajVtYnkxaW91cm9oOFplSDJWZ0JPM3Itek1RQ0VSRGpJdXNFeUd4am94dTU2M1hYY296SFE3UlE?oc=5",
+    "description": "Intermédiaire immobilier: quand la commission devient-elle due et qui doit la payer ? SNRT News",
+    "published": "2026-09-22T11:08:00+00:00",
+    "media": "SNRT News",
+    "media_domain": "snrtnews.com",
+    "country": "Maroc",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "intermédiaire immobilier quand la commission devientelle due et qui doit la payer",
+    "collected_at": "2026-09-22T12:45:10.487855+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "UAE’s PropTech market set to more than double to $1.62 billion by 2032 - Fast Company Middle East",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUkxGMlEtNGV6UjZQRGlQbFVSMnJqRVFOTWlnNDVJQS1NT3RtcTg2aVQ1Y1FPTjBQSEd4NmFrbmNvUlhnbFU3d1FMMi1Ucy1zTF9RN3NVWDdTV183d0VWdjZSY0FpY21kMFh0d2g4UVZGbjhWdlk4ci1ZU3BEUDMwQXUwcEMwdy14LWVISjFBdWY1LVduSWEtUXJ4WHJMN1A0OWc?oc=5",
+    "description": "UAE’s PropTech market set to more than double to $1.62 billion by 2032 Fast Company Middle East",
+    "published": "2026-09-22T11:06:58+00:00",
+    "media": "Fast Company Middle East",
+    "media_domain": "fastcompanyme.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "PropTech & innovation"
+    ],
+    "primary_theme": "PropTech & innovation",
+    "dedup_key": "uaes proptech market set to more than double to 162 billion by 2032",
+    "collected_at": "2026-09-22T12:45:11.832111+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Les prix de l’immobilier en hausse au premier semestre, Bruxelles en tête - 7sur7.be",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUldtbWZDMnNmaGE0Y1hkSmYtT01ZdDdhc1J6S0xuWXZtb1RkUXEySzBuMWx1eXRWYzBldEltdV94cVhvYzB2bGJxU0w5VkM2QlIwdFdubi1YTUpPaW10YVdGNVJfbEk4MTdzNllQa2dNRTZYbnU3SDdORVRBVWE0T0NJd2trQk82cXBRX09rcWhSODRtWTZkeTBrejExZ2o3d3FIQ3VlY3d2bjFGWVF2VEJR?oc=5",
+    "description": "Les prix de l’immobilier en hausse au premier semestre, Bruxelles en tête 7sur7.be",
+    "published": "2026-09-22T10:45:54+00:00",
+    "media": "7sur7.be",
+    "media_domain": "7sur7.be",
+    "country": "Belgique",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "les prix de limmobilier en hausse au premier semestre bruxelles en tête",
+    "collected_at": "2026-09-22T12:45:09.253659+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Des propriétaires qui paient leur locataire pour qu'il parte, le signe d'un malaise selon Marc Touati - Yahoo Finance France",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaEJGMUtWMzFvRDlmdHRVT3pJSER2aWhRbklMLXh4NzdHZVpjR3lud00xS1hudXR1Zk9KZVZLVzVBbE5lOEk4WW5MMnh5eW92UUR0c2ZVeGplS1RRWmhlWHlUTms3WjdLcXVKNHJXZ0RWX2xadXNFLU9nLWhQcl9JTlJlWWk0aXZDVVctWU8xbjBGM2xlcDQ4cVJXRF9fMjJsMk1z?oc=5",
+    "description": "Des propriétaires qui paient leur locataire pour qu'il parte, le signe d'un malaise selon Marc Touati Yahoo Finance France",
+    "published": "2026-09-22T10:41:31+00:00",
+    "media": "Yahoo Finance France",
+    "media_domain": "fr.finance.yahoo.com",
+    "country": "France",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Location & gestion locative"
+    ],
+    "primary_theme": "Location & gestion locative",
+    "dedup_key": "des propriétaires qui paient leur locataire pour quil parte le signe dun malaise selon marc touati",
+    "collected_at": "2026-09-22T12:45:08.671608+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Sanz: “Madrid ve al sector inmobiliario como un aliado, no como un enemigo” - Diario del Ayuntamiento de Madrid",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSkJRRy1mdVNlOE1Lc3AwUmlvelVfcU5PckxWNVlqa0M3MnQxazZYNmlRN1c0MEZXX2N5aDBqS1NCSXphNm1iNi04cEpUeGZtY1o4eVlTeHhSVk5KdTd4R2xFaXFkYmRxNmV4TmFMdDIzRG4wamVfaENyOHlpSklpeHNBQjhZUWVtQ3JiU3VlOWdqUXB6YktRODJDLWdEOHRFYmhzWGk2ZGtRRkk1TlJ4Z1F2REE3bWlCbHc?oc=5",
+    "description": "Sanz: “Madrid ve al sector inmobiliario como un aliado, no como un enemigo” Diario del Ayuntamiento de Madrid",
+    "published": "2026-09-22T10:40:25+00:00",
+    "media": "Diario del Ayuntamiento de Madrid",
+    "media_domain": "diario.madrid.es",
+    "country": "Espagne",
+    "language": "es",
+    "language_label": "Espagnol",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "sanz madrid ve al sector inmobiliario como un aliado no como un enemigo",
+    "collected_at": "2026-09-22T12:45:14.464861+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "News | Extreme weather and interest rates increasingly weighing on UK real estate investor's minds - CoStar",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLWFWb3VPSFp0amg5M2g3R1lLX2lHYmd3U28yc3VReUJ0R1VPcFBjV1lOeG1WWEVCRWFCTnhYdmNWNWJWRXBuejhRRHBnenpBREdWZXVZczhiM0xuRHB1UG9tdTNJWi1ibnpaTWRGVU5RMGdVMlRjZjR0MnA1YUtaSDlIY0JxdFFKNEdqRFI4T0F1VDdQY1YzV2RnNFJoUV8xdUN6ckFsUXF2Y1ZzS3dzc1ZUendBUGp1bDFxMlB2UjZ3YnVPVDBTc2ctNTI?oc=5",
+    "description": "News | Extreme weather and interest rates increasingly weighing on UK real estate investor's minds CoStar",
+    "published": "2026-09-22T10:24:23+00:00",
+    "media": "CoStar",
+    "media_domain": "costar.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Financement & crédit"
+    ],
+    "primary_theme": "Financement & crédit",
+    "dedup_key": "news extreme weather and interest rates increasingly weighing on uk real estate investors minds",
+    "collected_at": "2026-09-22T12:45:13.130551+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "\"Business Bay\" is the most prominent 2026.. AED 24 billion in commercial real estate sales in Dubai - صوت الإمارات",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORHdFMk15MnhGellya1dUdTgtX2pjdW8wblU2R2NicUVJMnMyZzEzaWM0UEFrYTFiMGs0SW5ldkdWNWlILVhpQzl3YmFNQ0IzRHBTWTRBZ0d5UkEtN1FqMFVKMUJHdlFOMmh1WGIxQnU3Q0NNeE1ZcFhHTGZHdWdIMDBrN0phUlhtNE5RRGtiSzVtRjllTVJNUVdqc1p1M3NNTzM1RXNPRzJUU1JJTVNYY2xBMTlEQlRsYUR5MmRKcEtNUG50SWctNHJqVGVwaGNMbWpFTWhqazJSZ3FoSFRrQnRwYldJanMzYjdva1ZWYUlQYXdiZlE?oc=5",
+    "description": "\"Business Bay\" is the most prominent 2026.. AED 24 billion in commercial real estate sales in Dubai صوت الإمارات",
+    "published": "2026-09-22T10:21:42+00:00",
+    "media": "صوت الإمارات",
+    "media_domain": "voiceofemirates.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Immobilier commercial / bureaux / retail"
+    ],
+    "primary_theme": "Immobilier commercial / bureaux / retail",
+    "dedup_key": "business bay is the most prominent 2026 aed 24 billion in commercial real estate sales in dubai",
+    "collected_at": "2026-09-22T12:45:11.833709+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Young Real Estate, a Realtor in Layton, Utah, Launches New Website for Home Buyers and Sellers - USA Today",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYVQwUnZJS3RMWm8zdEJfbHFsdEFHbHNRSTdOT0Y5NW8tYkh4MjFDWlpXUVNyZFRxTHdxUzBaQ1ozaTVDSGRYSlZ3MUpidEV5SE9WZUpCdmdCcW9RY01nMC1UbEpxQzJFcFRrSFhoUi1Bb3FuMVlHTFliUkY1TGk5bDJ6RUVPMDZONWJmaVZJeHlkUU9mR05pdnEwV0JuTFdXbTFJbUlCUmRHNzhZMlZDQVFqRkxaT2dFbkV6T2ptSEhSY2pzQzRpQkp6ci1vaXR4UFZqVnYtaE9QbzQ?oc=5",
+    "description": "Young Real Estate, a Realtor in Layton, Utah, Launches New Website for Home Buyers and Sellers USA Today",
+    "published": "2026-09-22T10:18:48+00:00",
+    "media": "USA Today",
+    "media_domain": "usatoday.com",
+    "country": "États-Unis",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "young real estate a realtor in layton utah launches new website for home buyers and sellers",
+    "collected_at": "2026-09-22T12:45:13.861672+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "UAE Business: Dubai records $29.3bn in completed real estate projects in H1 - Gulf Daily News (Bahrain)",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDc0M3LUNJd3VQMWZ5UWU1R2x3cGF1TE5Ta3p3YTUtX2liUVpjTUM4dkV4RTNGYmQwT1lkWHRTSS13Sy1zSVlkcDVyRy1PUHNCbDMw?oc=5",
+    "description": "UAE Business: Dubai records $29.3bn in completed real estate projects in H1 Gulf Daily News (Bahrain)",
+    "published": "2026-09-22T10:05:46+00:00",
+    "media": "Gulf Daily News (Bahrain)",
+    "media_domain": "gdnonline.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "uae business dubai records 293bn in completed real estate projects in h1",
+    "collected_at": "2026-09-22T12:45:11.832583+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "\"Alef\" completes the sale of \"Lenaar\" worth 4 billion dirhams - صوت الإمارات",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZXpraUxaVW5EZ3QxUnZjQnpLY0FjOWpTdUt6UWJyWXk1NnlwRWthR25HWHFyTlB3WHo1YjFPQUlCc2FEOGRIRkI4aVlGRmlnQnBzSlV3UnlQUnNoLUw4SmlTWF83bmhkZGM1S3JONHpuTU9lTGZvZ2xwWTd0SlB6am8zMlp2V1ZEVGFNMkw5eUgtR2o3ZHVtRk8xMUNjLW91d2FhcklodlpiWkhCREUzR1pqTFkzVXZ0UmxPdFNfcnZBQ0k?oc=5",
+    "description": "\"Alef\" completes the sale of \"Lenaar\" worth 4 billion dirhams صوت الإمارات",
+    "published": "2026-09-22T10:05:12+00:00",
+    "media": "صوت الإمارات",
+    "media_domain": "voiceofemirates.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "alef completes the sale of lenaar worth 4 billion dirhams",
+    "collected_at": "2026-09-22T12:45:11.832956+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Premier Miton and Gravis: The case for UK REITs - Portfolio Adviser",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTU1kaXFCa1Z4LXdkZTB3c1B5UEppZWJub0F6cFRKWlNpNzlDVjdERFNvRms5cTZWTlhtQWhIdFk3UzQ0QWU5RzBUS29odktvclhDemlCZ1RzU3hvbHJrMXlQRWRkX3pLc09sNjJ6dTRYc0pmMUd1QlotcEw3OFZtZElzVQ?oc=5",
+    "description": "Premier Miton and Gravis: The case for UK REITs Portfolio Adviser",
+    "published": "2026-09-22T10:00:15+00:00",
+    "media": "Portfolio Adviser",
+    "media_domain": "portfolio-adviser.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Investissement"
+    ],
+    "primary_theme": "Investissement",
+    "dedup_key": "premier miton and gravis the case for uk reits",
+    "collected_at": "2026-09-22T12:45:13.130438+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Legendre UK named main contractor for Phoenix House redevelopment - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0JZM1dLazU5cjF6U29mQThPQ2JHZDUxSjVkekZ2S090NWk2OXRCYWFRYnpxY21HRjQ1bmZ5dVJKYk5PTDJsTmVqOTd3c3drX2ZJQWJKcUhnYmNEZXFDRklBSVZSSXlVXzVEUmFIRjhBR2p6RGJVQ1BOM1haR0R2Y19XZlgySVEyY013SEtMYUFOQzNIZ1M4ZTJTaw?oc=5",
+    "description": "Legendre UK named main contractor for Phoenix House redevelopment Yahoo Finance",
+    "published": "2026-09-22T09:44:22+00:00",
+    "media": "Yahoo Finance",
+    "media_domain": "finance.yahoo.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Construction & promotion"
+    ],
+    "primary_theme": "Construction & promotion",
+    "dedup_key": "legendre uk named main contractor for phoenix house redevelopment",
+    "collected_at": "2026-09-22T12:45:13.131860+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Immobilier : voici les communes belges où acheter coûte le plus cher - La Libre.be",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcGdSV2xsaDZfZTktS2V3X1BpQTloU0FzYkFiNFZ0ZHFzSDJBX1dxVWJVcHJuQ01nVzNYZURjbE1hUFR4WFpsME9lM0ZtY2RqUldFcklmVVJ0RUk5MUpHNTdyelB0WlVrYUk4eWpBUXZjQUFKelJ2QlRCdnFCN3Q2VHpzNFFyM29GMm8xd0FVUnFDNDFQUkdBRTdjQWtYQ3E4WWJGWHFiVXo3RW84S2hRVFU5NHlwUHM1cTNKdHJYazhIYVB6NXMzcUJhWkxKRS1r?oc=5",
+    "description": "Immobilier : voici les communes belges où acheter coûte le plus cher La Libre.be",
+    "published": "2026-09-22T09:24:00+00:00",
+    "media": "La Libre.be",
+    "media_domain": "lalibre.be",
+    "country": "Belgique",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "immobilier voici les communes belges où acheter coûte le plus cher",
+    "collected_at": "2026-09-22T12:45:09.253446+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Immobilier : voici les prix des maisons et des appartements dans votre commune (carte interactive) - Le Soir",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZDBEeWo2TjZ0RmpySjV0dEpzWElmS1piR0tGZXJ1eE52Tmk2aWMtWHpaRmxlMXBMWjgxVE1EcDRQVFRCa20yb1ZRUEQ4cjk0bG9IeC1UaWtRWnkyRTBJUTlxWkJsNG5BSFNwV3RXTHlIOGttbGFSUHpJTXIyYVR3a2g5LU5ITk9Xd1J4ek9XTlJLeDF5TXRvWFJmWkUwQ0RBT1h0ZFBjTUFaNTMtRHF0b1E3dUphQ1VjQm50ajNwM2ZxZw?oc=5",
+    "description": "Immobilier : voici les prix des maisons et des appartements dans votre commune (carte interactive) Le Soir",
+    "published": "2026-09-22T09:04:12+00:00",
+    "media": "Le Soir",
+    "media_domain": "lesoir.be",
+    "country": "Belgique",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "immobilier voici les prix des maisons et des appartements dans votre commune carte interactive",
+    "collected_at": "2026-09-22T12:45:09.253549+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Immobilier: Proposition de durcissement de la Lex Koller: pourquoi les capitaux étrangers ne sont pas l'ennemi - bilan.ch",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcnB0MTFGV3dSbVRaZXVGeEpzdmVOcjkzTTFmTGNDWHFWbEZCUmJfaDhqX3RYdS1VcjhSazlRUVM1WU1lbklCMTNYcWlmWkJYcXZ3QzJDaUpTckFsVFJaelhfa3JwSmVpdFVramZ2LXMtLVBaY0pZLTRqX0JaWTFkbFJpeTdaUmlsM2VyTzE1U21sVUduRUE?oc=5",
+    "description": "Immobilier: Proposition de durcissement de la Lex Koller: pourquoi les capitaux étrangers ne sont pas l'ennemi bilan.ch",
+    "published": "2026-09-22T09:00:00+00:00",
+    "media": "bilan.ch",
+    "media_domain": "bilan.ch",
+    "country": "Suisse",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Financement & crédit"
+    ],
+    "primary_theme": "Financement & crédit",
+    "dedup_key": "immobilier proposition de durcissement de la lex koller pourquoi les capitaux étrangers ne sont pas lennemi",
+    "collected_at": "2026-09-22T12:45:09.935799+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Zurich présente le risque de bulle immobilière le plus élevé au monde - Watson",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQnhWaEt6S2o1WlBMS1kzQ1lLR1lMcFRna2NHcEx3VWVSRjZLeU1zeEdyMzIxS1ZnMVliZEw2WlV0ekV5Y21XaUVyM1U3dWhfVWpuV1RIOUNjV0xXeFpDMXBVZWszQlVYSmtDMDUwczVtZkFSZFE2UXp3YUoyTHE3R3FGSi1lRVdvZ04zRzg3ZkNSZktwMEtXaThiQjkwYUNqTElldTVRZGRKWEVM?oc=5",
+    "description": "Zurich présente le risque de bulle immobilière le plus élevé au monde Watson",
+    "published": "2026-09-22T08:34:34+00:00",
+    "media": "Watson",
+    "media_domain": "watson.ch",
+    "country": "Suisse",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "zurich présente le risque de bulle immobilière le plus élevé au monde",
+    "collected_at": "2026-09-22T12:45:09.935680+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "دبي تسجّل 335 صفقة عقارات فاخرة بـ20.4 مليار درهم خلال 8 أشهر - CNN الاقتصادية",
+    "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPOXFxeDhNQjBxalZ3WUR2RHBjRVhHRWxDeHRFWnZLYUp1ZmRDMUVtbzU1ZWJjelYxaW1RdmtkMUhLSE52a1dKbHMzRzNacTdnOThOWDA2UXNmU1Z1M2ZHMXhqSzQxMXJnYTllb2x3aTJnUm1xeFRpR28xekpNWE1DY3BrLVB0ZDZtMTlxMUFrTkd2RGVmUnNsaS1ETU9tX3E3UUFZWXBrR1VXdGlMLWc5bGI0VjFBU2dIR3BLd0lnbGE1Zk9oUmVSYmhfRkticVczSkl0WjZjXzBQeHBoUEtQUzlXbzE1Ql9UVmZvSVlaQW96dmZ4SEkyLUpMbERuQ29Ub21QTkN3eFNkM0lQMnpVSzNMNFZxcnlscXRDUEtDRkNCOHpESkhoMXNNSjVYX1JNZkJmOTI1MDdOZEc5WHhDZDhtblZrdXh2ZmR5dG9pZG9YQXNncjBCT25SdV9tTjQ1SXdnSEZqOTB6RUlnLWU5ZHVEVW5jdWRvUXFPYnpBVS1ITUFHZUhfOW1zdlZSR0JZeFVaRlNBWWZqUVdCdTNpVFEwTGxRUWVLalRLOEFsaXl5UQ?oc=5",
+    "description": "دبي تسجّل 335 صفقة عقارات فاخرة بـ20.4 مليار درهم خلال 8 أشهر CNN الاقتصادية",
+    "published": "2026-09-22T08:33:27+00:00",
+    "media": "CNN الاقتصادية",
+    "media_domain": "cnnbusinessarabic.com",
+    "country": "Émirats (Dubaï)",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Immobilier de luxe / haut de gamme"
+    ],
+    "primary_theme": "Immobilier de luxe / haut de gamme",
+    "dedup_key": "دبي تسجل 335 صفقة عقارات فاخرة بـ204 مليار درهم خلال 8 أشهر",
+    "collected_at": "2026-09-22T12:45:12.369273+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "SEB relève ses taux de crédit immobilier - Zonebourse Suisse",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXRibzNZV1YwY3BVbGc1anFUcVpJUlpHWGotSjBNVWZkQ0JzN3JyZXhDWloxWk5MQ0Y4WXpBQlFCRVdEUkpJakViZVI3alVKbzhYeE1reVNkdVdZd1FTRzhXVzZvVEhxYmJFQ2ZJOG1xYWZwM1NLTkZXWldrdGpJMGY3UHNwemlPX0pFOEFpSWtpOUp2UTJrU0Z5OVNaSTN3OWc?oc=5",
+    "description": "SEB relève ses taux de crédit immobilier Zonebourse Suisse",
+    "published": "2026-09-22T08:30:19+00:00",
+    "media": "Zonebourse Suisse",
+    "media_domain": "ch.zonebourse.com",
+    "country": "Suisse",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Financement & crédit"
+    ],
+    "primary_theme": "Financement & crédit",
+    "dedup_key": "seb relève ses taux de crédit immobilier",
+    "collected_at": "2026-09-22T12:45:09.936009+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Portails immobiliers : Orpi rejoint Idealista une semaine après son lancement en France - Immo Matin",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUHl4bERPTU1NenVGNUduVFR1d21DVmMtQVE4QVBadGFyZ3FHV0hEOW5xYUpiYmE1Zkw4Z3NDcjJtRG5BM21LWTFrWHdzcExxaGlwMGIwYXpramNoZ2pBM3FBY1J3d21LR0NCOFZHYWZmRkRUaG5xOXJ6cjJPd0VCNF9VZ1F2Z1p3M2ZUQkd1SC1qdG91T0tZbDM2a29oYTgxQ2VsVktzQ2xnSjFyZWJFdTFDckpNaFdvV3hLUDRKNndJUVU?oc=5",
+    "description": "Portails immobiliers : Orpi rejoint Idealista une semaine après son lancement en France Immo Matin",
+    "published": "2026-09-22T08:15:05+00:00",
+    "media": "Immo Matin",
+    "media_domain": "immomatin.com",
+    "country": "France",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "portails immobiliers orpi rejoint idealista une semaine après son lancement en france",
+    "collected_at": "2026-09-22T12:45:08.670611+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Les citoyens appelés à donner leur avis sur un important projet immobilier sur la Grand-Place de Bruxelles - Le Soir",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeE0tMHZKejE2SFB2ek5WREtUa2QyV3d3N0F3V095LV9SMVVobDg4emxCZXByb2k1bmdLNDNkVGlJeUVjR09LYVVwT0NkWk5pdjlaZnZUYzN4VGRDNjl4TTc2OUVPRUl1dGhrdVRhTlEtX3lLX183R0RYZ1dDVEZ3NWZmY1ZpYXhlcEhBQ3UtUHdMM3VMSDZCRmIwN3pmcExoNTdtOUVCRUxHMjI1UjNrMlUxaEFvNGJaZzl5czNycEI5ZDRtUUE?oc=5",
+    "description": "Les citoyens appelés à donner leur avis sur un important projet immobilier sur la Grand-Place de Bruxelles Le Soir",
+    "published": "2026-09-22T08:09:11+00:00",
+    "media": "Le Soir",
+    "media_domain": "lesoir.be",
+    "country": "Belgique",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "les citoyens appelés à donner leur avis sur un important projet immobilier sur la grandplace de bruxelles",
+    "collected_at": "2026-09-22T12:45:09.253845+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Axa enhances commercial real estate proposition - Insurance Today",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3WEZCRnRGMkVUN0lCR0R5Q080Um5nWmtKVWJRYm9QektnbGdTcFhDdXRzeTJySFhBY2hrcTlWUUc1VTB0dm5mdDhiUnRHMGxzUnVsSFBNM1NNREho?oc=5",
+    "description": "Axa enhances commercial real estate proposition Insurance Today",
+    "published": "2026-09-22T07:12:13+00:00",
+    "media": "Insurance Today",
+    "media_domain": "insurancetoday.co.uk",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Immobilier commercial / bureaux / retail"
+    ],
+    "primary_theme": "Immobilier commercial / bureaux / retail",
+    "dedup_key": "axa enhances commercial real estate proposition",
+    "collected_at": "2026-09-22T12:45:13.130994+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Sharjah Ruler approves 6,700 housing support requests - Zawya",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc1JLWWhrM0hVdkFBUkNGLTRadzV2c2JObFNGTVNhUmNPMGl4SkR5alRVWGFKNlI1YlZmRmZOLTExZUFLZ0FJcmJvdmRmV0dvQjN4dVg0MmV6TzdvaTdaTHlRMTlIT21VQVJmM3BackdxSWc3WVVfTHp3Z0xyQWJOWDBGSlJWeHJaNllvMTBWRTJsYTZiWVdwRi1B?oc=5",
+    "description": "Sharjah Ruler approves 6,700 housing support requests Zawya",
+    "published": "2026-09-22T07:10:47+00:00",
+    "media": "Zawya",
+    "media_domain": "zawya.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "sharjah ruler approves 6700 housing support requests",
+    "collected_at": "2026-09-22T12:45:11.832854+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Invertir en tierra en Florida desde España: la nueva vía para entrar en el mercado inmobiliario de EEUU - OkDiario",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHlIZUVmOFJYc2xmYTAwa0R3cnd6Mi1SMzkwOHAxUHZKeWROWDBUemFtRmZjbkRPNm10ejZVVjIyYm5HcDQ0bmJRWlhiQlAwcGk0cHBYVjllZzRadkF4anZkOEFqQ2xxRXVpZV93TnNlUHY3c1FDMUxJVS1Oeng2anE3c3FjTkppemFfa3RUZnpGVFBfMDkwTTZ0NmRzWWNFSFZJSTlGcjI2bmJSYkt5V1FpX2ZLeURvazY4a0ktTnRaWGJvTGM40gHMAUFVX3lxTE1lX2R0d04ySlFVM2xkaHlQVDQ4ZmVoQ2ZyZFE4N0U3Zk9FVFNIcXNPTnpwTG5uUTZsY1JrYkU4Y2R6MXNVcTN2c1NEeW5aLTNIRGVYelJwTVJlbUN2dmpwcVN4bE54ZEZwamt5RHN5SFRSclFTSGpFd3dMbUdBc3hoeDE5VnRYNV8wMXZEWnVRR1Q0RGtKWEZfQlRwa1Rud19VQlpVeG5tTVJFRUEycmNEcUVyVGhqQlFxXzFWN3RkQmZ1YWRPc2FIbGFMcA?oc=5",
+    "description": "Invertir en tierra en Florida desde España: la nueva vía para entrar en el mercado inmobiliario de EEUU OkDiario",
+    "published": "2026-09-22T05:00:21+00:00",
+    "media": "OkDiario",
+    "media_domain": "okdiario.com",
+    "country": "Espagne",
+    "language": "es",
+    "language_label": "Espagnol",
+    "themes": [
+      "Marché résidentiel",
+      "Immobilier durable / ESG"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "invertir en tierra en florida desde españa la nueva vía para entrar en el mercado inmobiliario de eeuu",
+    "collected_at": "2026-09-22T12:45:14.465146+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Immobilier : pourquoi la pénurie de logements s’aggrave en France 2026 - actual-immo.fr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tVzZJLU4xd2JDamZxSFM3OHU5MHhnQkZpY3UxMVBUR0VpZnBZbmhuY3Q3RnVqbzhUeFlpZW9xRXJMb0s1aTV6YzZPUm9PME1qLU1RVnM5eDJiMGRxX29MaC1tSEMzZnNZ?oc=5",
+    "description": "Immobilier : pourquoi la pénurie de logements s’aggrave en France 2026 actual-immo.fr",
+    "published": "2026-09-22T04:45:00+00:00",
+    "media": "actual-immo.fr",
+    "media_domain": "actual-immo.fr",
+    "country": "France",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "immobilier pourquoi la pénurie de logements saggrave en france 2026 actualimmofr",
+    "collected_at": "2026-09-22T12:45:08.671477+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "24 مليار درهم مبيعات عقارات دبي التجارية - صحيفة الخليج",
+    "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxONi1JQy1PTDhiXzBWRi02dUpzSE1tcVZ2RVR2UkozblI5U0p5ZXczS3hMb0p6UnIzNmp0a0g4dFFOUUc5QVpJWmk3N0VCYWdqRkJOZUtfUGU3VlpRaUZoZUNya21HSjR3a3JSUEFvTmRPMWRPMWtHTmtBdHFJcmEwZ2dZbll1aURaeGxBRnhDLVNWczBYTktGMDRjVmdkR19RVmtvWV94SWxvdmE1WVViQ3cxU2VQUlE5alZMakEzODhvb0hmTlExMDU0NVJqS2otM2xEWWJSck1SaktFb3ExaTN4LWp5RWtlcWhCbzBEeldZNEpEZVIwZEJ2am43SS1kdDE0NnZkSnhiSUZjM3U1bllYSnZiMlVuZjlDRHdDVlItZ2RlVDNvRFNDVnpfX1hxVzBDdjdianRfeDc2YTBDWl94ZmtfeVRNUGY0TjBrUW55dV9RenRubjhUV0llMzQxWElTQ01TVjFXenRiOVZUNmRraUhDTWstWVhTWGtpWVJjTGJERTM5MmthVV9YYnZxcE1iSy13VDBWVXA2OFlmVWxhUkxiZk5ZanlabXg4b2t0OW1RcU43a0NYcGJ2a1NZUFZXUlhuQ3JzSEc1cnU2VVRVc3hTOWx4aHRVeFVobllmZmtEc3hNWDdMV1VZclA1aU1j?oc=5",
+    "description": "24 مليار درهم مبيعات عقارات دبي التجارية صحيفة الخليج",
+    "published": "2026-09-22T03:12:39+00:00",
+    "media": "صحيفة الخليج",
+    "media_domain": "alkhaleej.ae",
+    "country": "Émirats (Dubaï)",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Immobilier commercial / bureaux / retail"
+    ],
+    "primary_theme": "Immobilier commercial / bureaux / retail",
+    "dedup_key": "24 مليار درهم مبيعات عقارات دبي التجارية",
+    "collected_at": "2026-09-22T12:45:12.369049+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "RAK property market sees strong demand in H1, apartment prices up 18% - Zawya",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQakd4cm15WHZ5TWJjSWUwbTJZX1F6cXpWMjgxdU1GYWZ2MWY2dnZjdzVYZmVHVGE4ZjVMMHRzVTZ1YXlVRXpMeFk5aFdnWTFXYW5LTE5IVkR5cDFieHN0bERWZXB1Q3BHQkFxZU5OLW9oenpiQ2cwU21HMkhFVkNUYnBoY2xuOWdraDgzcHlUdWNUTDlIczBCaU9WN2VyUXd4bE4yRHg3eVFJZTF1bndleDkwbmpNdkladFNHbkIxb3ZHVXhkd0E?oc=5",
+    "description": "RAK property market sees strong demand in H1, apartment prices up 18% Zawya",
+    "published": "2026-09-22T03:06:39+00:00",
+    "media": "Zawya",
+    "media_domain": "zawya.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "rak property market sees strong demand in h1 apartment prices up 18",
+    "collected_at": "2026-09-22T12:45:11.833866+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Abuzaid Shaikh: The founder who never learned how to lose - Gulf News",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSU9BU1F3emRUaWMwUGt0SVRDQVBQQUN2Q1V6RDNzcG1ieS1kLXE1QU9CWENtX205RlUyOHdGMkZTYml6RHRPM1l3YmFoSjZ6V0xxOC1TQk9xdjV4bVhadW45WG1QWmdIaU5MRDhOdnVWRmU1cWx2VWVUUGpUMzhabE0tUnVweEhRN09SaTVHZ1dnR2N5Zkd2WTJqOXFQWEXSAa8BQVVfeXFMTXBsVDN4ZXFYajVUWFZGdVE1VnpUT0NwRFFtLUpZc3doQkZtZGdFNGhlZTlkcjNDOWtIQkV3LTB2UHloT1pzUWNhZF9Xa20tTEZkTkhjWm9vSXF0b0w1YS1NWnhnVnYxVlRUb2V6TTVxRTFTNExva1FfZldFalpEZ3ZaWUJ2VDEzRlk2UFdKb3FoTmp6UHRWSFgtajhQSjZtVmdiUXM1enhISWlXS01maw?oc=5",
+    "description": "Abuzaid Shaikh: The founder who never learned how to lose Gulf News",
+    "published": "2026-09-22T03:00:00+00:00",
+    "media": "Gulf News",
+    "media_domain": "gulfnews.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "abuzaid shaikh the founder who never learned how to lose",
+    "collected_at": "2026-09-22T12:45:11.833123+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Cyber cover lags furthest behind in UK property, GlobalData finds - Insurance Business",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnRFWW9IbUxFVEp5YzNVckZ3ZEZ3Vi04Tm9MX0ZKdC1ZYTNUUzljdWlGdEtIMk9ZQXhOVlJkbHVham5fRGpzMWlUOGlESnNSNVItV2hhYUxwaUdWMWtIUjQyelh3ZFNmbmw3cWdKekxIcGhGYWRqV09nRXhjV240RnVLaEwycjh6dGViNzZYQTZ3SzVFWllHa3drdFI5OWt5aVZGcVh0cGxWZXBhdy1sSEVzcVQzdTE1Y3hiOUw2R05nZkFYNFE?oc=5",
+    "description": "Cyber cover lags furthest behind in UK property, GlobalData finds Insurance Business",
+    "published": "2026-09-22T02:58:19+00:00",
+    "media": "Insurance Business",
+    "media_domain": "insurancebusinessmag.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "cyber cover lags furthest behind in uk property globaldata finds",
+    "collected_at": "2026-09-22T12:45:13.130745+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Huspy Acquires LuxuryX As UAE Network Grows 75% - Pulse 2.0",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9neUJfY2tTdGV3TDFqVlB2UWpadUdGaGNJSXh4TEdKMmF4WGFmLS1IeHQ1cVpkMEwzSGRDcVRSaDZsY21zUmRZdVl4N25iOS1kNWw1Vkw0OXNhRjA0b1pRSFpuV3RncjlOcTluS29tWVR5RVJV0gF6QVVfeXFMT2F1MlZIMWwzcWtBdFdKRTcydW0xSW5nb0RqcU1HbVJnV2EzaDZtUW5HeHh6R0NXd1c2M3RjYzZFUjQ5NnZ3LTMzOEg4QzBoNkF6M053Vy1SZ3RMNGJnMml3anRBdjBNRHBZV2N5Wm5ZVmtBS3F1dkRsZmc?oc=5",
+    "description": "Huspy Acquires LuxuryX As UAE Network Grows 75% Pulse 2.0",
+    "published": "2026-09-22T02:25:36+00:00",
+    "media": "Pulse 2.0",
+    "media_domain": "pulse2.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Immobilier de luxe / haut de gamme"
+    ],
+    "primary_theme": "Immobilier de luxe / haut de gamme",
+    "dedup_key": "huspy acquires luxuryx as uae network grows 75",
+    "collected_at": "2026-09-22T12:45:11.831982+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "دبي تسجل 335 صفقة عقارات فاخرة بـ 20.4 مليار درهم خلال 8 أشهر - الإمارات اليوم",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeExwTWlJMmlUTVRidDlhajIzR1BxVDljOF9xWGxJWXpENkFiaEhiZklQVXBDYjlQbjFKRHRBSTExd2wwOTJVc2ZINFB4UzczMXlqR0dYVWZIYV9mU3VCU21uS0tBY1hMSlZoS1NvNE9CSy1DMW11Q3FiYWplSVdmVEhCOXdwUTh4eW5PYdIBjAFBVV95cUxNeExwTWlJMmlUTVRidDlhajIzR1BxVDljOF9xWGxJWXpENkFiaEhiZklQVXBDYjlQbjFKRHRBSTExd2wwOTJVc2ZINFB4UzczMXlqR0dYVWZIYV9mU3VCU21uS0tBY1hMSlZoS1NvNE9CSy1DMW11Q3FiYWplSVdmVEhCOXdwUTh4eW5PYQ?oc=5",
+    "description": "دبي تسجل 335 صفقة عقارات فاخرة بـ 20.4 مليار درهم خلال 8 أشهر الإمارات اليوم",
+    "published": "2026-09-22T00:05:00+00:00",
+    "media": "الإمارات اليوم",
+    "media_domain": "emaratalyoum.com",
+    "country": "Émirats (Dubaï)",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Immobilier de luxe / haut de gamme"
+    ],
+    "primary_theme": "Immobilier de luxe / haut de gamme",
+    "dedup_key": "دبي تسجل 335 صفقة عقارات فاخرة بـ 204 مليار درهم خلال 8 أشهر",
+    "collected_at": "2026-09-22T12:45:12.369163+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Sharjah $1.1bn waterfront development sells all 2,683 homes before construction begins - Arabian Business",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ1Y3SkRmSU9wT0dUdGQwQlpnakY2Ym1PS3BMQTlQb2YwelZ2a0RrYzl6Z3U2dWwxY1FoejM4OVVsd0FNbEdoeVl1dzRaOVRYMzlWVTBMNDMwRno1cEF0TGkxdWJZZFRjZjNHb3VLQy1SWTU3YlVFODQxbWppNmppdDlFY3NxZnZiVEQzMDhBaGhLY01MUnRvTGJDbWdmZm9KS210bHBtZzB6N2VweGhXODFwYjRqU19SZG0ySXphUEJZYm9hZGRF?oc=5",
+    "description": "Sharjah $1.1bn waterfront development sells all 2,683 homes before construction begins Arabian Business",
+    "published": "2026-09-22T00:01:18+00:00",
+    "media": "Arabian Business",
+    "media_domain": "arabianbusiness.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Construction & promotion"
+    ],
+    "primary_theme": "Construction & promotion",
+    "dedup_key": "sharjah 11bn waterfront development sells all 2683 homes before construction begins",
+    "collected_at": "2026-09-22T12:45:11.833492+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Ontario real estate investors in limbo as ‘Simple Investor’ property firm suspends payments - CTV News",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQazhWSXlNQlNod21NT0xaLXBzamhzNjVrUGNteWx2LWhwelBnQWNIaDh6UG0wZERlNjk1WTlBNFVCRmZuS1VPNy1vc3oweFZrQWlOckNmTGpRV1owT2d2SE1GUUxHVFBpZ3VKS21vY2lKZHpHNTl5eEpIMFQzZVQ4MlpLalhaMk9mWXUzbERfRVlaWTBMSEJCcEdPOFNQMkFoWFl6amZST2dPYnhhYklBWWZueDNfcE9VUXY1eks4ckhnVlI2UFFKMA?oc=5",
+    "description": "Ontario real estate investors in limbo as ‘Simple Investor’ property firm suspends payments CTV News",
+    "published": "2026-09-21T23:03:18+00:00",
+    "media": "CTV News",
+    "media_domain": "ctvnews.ca",
+    "country": "Canada",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "ontario real estate investors in limbo as simple investor property firm suspends payments",
+    "collected_at": "2026-09-22T12:45:15.793143+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "What Does Morguard Corporation (TSX:MRC) Signal For Canada’s Infra & Real Estate Theme? - Kalkine Media",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMnBydEFxRmVYdjFfY0JUbi1HUmJ3X0R6MTVfM3lSVllrSG1EWnczNmM5cjVnTGVVSVBWd2hYNV9mRHFvOHVjMVM3aHBpbHota3RUbzl2UmMyUlNfMjNGbnZuM25PQlI0MmY5OXpsZHh5ajdkR2Z2bzd0OURJYXpDaHVCREp4bVRvOF8xckd3REJ4TVNxSDEtcXp0T29YTHZpVlJaaFdzRTZJT2RIVlE4ZU11QTNDRnJkdmRubURsYldheWRkeWdPSlBDM1ctb3VB?oc=5",
+    "description": "What Does Morguard Corporation (TSX:MRC) Signal For Canada’s Infra & Real Estate Theme? Kalkine Media",
+    "published": "2026-09-21T22:47:00+00:00",
+    "media": "Kalkine Media",
+    "media_domain": "kalkinemedia.com",
+    "country": "Canada",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "what does morguard corporation tsxmrc signal for canadas infra real estate theme",
+    "collected_at": "2026-09-22T12:45:15.795099+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "UAE real estate jobs: Why top executives are moving into a ‘hidden’ employment market - Arabian Business",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbC1HTEw4SUx6N0VXVFE0Zko1UjloQjh6RTZqNnpsd2lmTzFJX19NMDFIODZrbzNOV1plc2g0NGJxWFNGRHl6V3Qzak1TRlRuaUtJcUZDaVM3a0FLSXVOLTVkR0VrYkZKc1ppUEJLQ3dUc0phQkJvaENTUFdxcndvZ3BJWE1URFB4dHgwU1VlOVJhVlFFck52NU1MVU9VUklseXF5dk5VUld4QmJrZVpNUUwwZl9VOFFMMUJTRmsxOUdVSmNS?oc=5",
+    "description": "UAE real estate jobs: Why top executives are moving into a ‘hidden’ employment market Arabian Business",
+    "published": "2026-09-21T22:20:03+00:00",
+    "media": "Arabian Business",
+    "media_domain": "arabianbusiness.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "uae real estate jobs why top executives are moving into a hidden employment market",
+    "collected_at": "2026-09-22T12:45:11.832350+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Sharjah approves 6,700 housing support applications as 734 stalled homes completed - Arabian Business",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYU5wak1rVnB1eGxPTTlmYUxaX1ZXSF9CTlo0Q1RBdUNTRkt6R21RbDBOWlZxLThCdUlteUZaalVzTmlBQ3AtWlNpd1p6NFg4OVA2a0tGZ0cwS2JYR3M3T3R4MmdVQjEzSnVCMUlLMVBmNzlnWUlaVzA2WTUwU1JWd2VfQjJrV19iTDAtVlNmOTI0U2hSMVRvTkFWV2N1VTNVeDQzSHpPSU9tT0g4RnhMZjZnbEdua3R3b2FWOXhuQ1Q3WDg?oc=5",
+    "description": "Sharjah approves 6,700 housing support applications as 734 stalled homes completed Arabian Business",
+    "published": "2026-09-21T21:42:08+00:00",
+    "media": "Arabian Business",
+    "media_domain": "arabianbusiness.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "sharjah approves 6700 housing support applications as 734 stalled homes completed",
+    "collected_at": "2026-09-22T12:45:11.833792+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Eagle Hills reveals $12bn Maldives mega-project with hotels, homes, marina and 99-year property leases - Arabian Business",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3hndE43QjJhMG1jLUVuSGxPcS1WeDdRYlhZc0FZeGdGeHdRdUh2TUhGQ1RiNDE4d2xQLTE1ekJ5QU5uSUR4UGoybjJwZFRiWjJvX2kyUmNORThqREdrSWJBbnR5NGp2WVpmV2E5eGdvLVdsNlNNMDgwZ0dXYVI0c1BKVQ?oc=5",
+    "description": "Eagle Hills reveals $12bn Maldives mega-project with hotels, homes, marina and 99-year property leases Arabian Business",
+    "published": "2026-09-21T18:45:03+00:00",
+    "media": "Arabian Business",
+    "media_domain": "arabianbusiness.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Location & gestion locative",
+      "Tourisme & résidences"
+    ],
+    "primary_theme": "Location & gestion locative",
+    "dedup_key": "eagle hills reveals 12bn maldives megaproject with hotels homes marina and 99year property leases",
+    "collected_at": "2026-09-22T12:45:11.833952+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Logement social à Bruxelles : qui y a droit et à quel loyer - Mes Aides Financières",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MY19BcDBNaUlydkZZeHlWREF3ZF9Ib0Y1amYwMnJtRHdicE50blpzYllEYmpmVGRWWmJvRlBITW1SLWZRbVhYZW8xbFdHeFpoTGtWQ3ljY0RyeGJ5RWpId2dDNFlFSkFia1JWTWhUZ0F5ZDhXeHc?oc=5",
+    "description": "Logement social à Bruxelles : qui y a droit et à quel loyer Mes Aides Financières",
+    "published": "2026-09-21T18:31:48+00:00",
+    "media": "Mes Aides Financières",
+    "media_domain": "mes-aides-financieres.be",
+    "country": "Belgique",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Marché résidentiel",
+      "Location & gestion locative"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "logement social à bruxelles qui y a droit et à quel loyer",
+    "collected_at": "2026-09-22T12:45:09.253930+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "UAE private credit gains ground as GCC funding gap tops $250 billion - Khaleej Times",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWU4bDk2ZWlXRFV2Uk53MnI1QzU2MThJbzl0RXFDSlJFem9BR0NkSkV4Sjg5dTQ4Q0ZfZmVaWllFcm5rdUlfT0lkVFR6dklHVksyVmVxMEVkRWdMaEZoNDNtdkt0ME5uTF94ZFkzNU1oUnY3Wm5ETEF6V3g4NlBacFUwcDhHZ01nQW9RbVIyanFrY1RIRXU3Rkp6c3VKd0t5dVlqY1N3WDfSAbABQVVfeXFMTkQ0NkxjWTM4enBxZWhkZnB6SWJ4VnhwT09TYXZtRThkbkNMUFk5cUtpZGVlaGJlUkgyUWU5WGUzOTd5R1p0dnoyUGdwd2VmNDlLc1ZFUEtjSDhkSHlsT3VPU0g2bVBGSjdfODB4M281THZqU3VXLVZKREVwbVBONlhRWXRnZkNjMXpXNHVoVlR4ZERDWW1aV0FPYVRyLWNNWFZMNk5YbWRPbGdJYXpRRGg?oc=5",
+    "description": "UAE private credit gains ground as GCC funding gap tops $250 billion Khaleej Times",
+    "published": "2026-09-21T16:51:35+00:00",
+    "media": "Khaleej Times",
+    "media_domain": "khaleejtimes.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "uae private credit gains ground as gcc funding gap tops 250 billion",
+    "collected_at": "2026-09-22T12:45:11.834626+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Immobilier Septembre 2026 : les Meilleures Actualités en France - Immobilier-danger",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1eXI2cW4wRzNTdmI2cVNvUTZ1TjUwYXlKTnAtTVctMkFFQXlFN2F0eG9iMUpvNXJoa1NvaUl0Rk1mUjBubWRvOWlvZDNjZjN4eFJNb3pJZ0szR0pxcVIzQjgzdTNvbzlpQmhzODhhWGlyZw?oc=5",
+    "description": "Immobilier Septembre 2026 : les Meilleures Actualités en France Immobilier-danger",
+    "published": "2026-09-21T16:31:45+00:00",
+    "media": "Immobilier-danger",
+    "media_domain": "immobilier-danger.com",
+    "country": "France",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "immobilier septembre 2026 les meilleures actualités en france immobilierdanger",
+    "collected_at": "2026-09-22T12:45:08.670893+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Climat : l’Etat fédéral, piètre gestionnaire de son patrimoine immobilier - Le Soir",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGtjN1NpZTdlLWZBTE01RTVWYk5rRmNVcGJzMVhDYml4OHBIWjQxWjY0RGFfT0VLNDU5WGUwSDVWRTZlSHJ4UmZnbXFMNGI2MExzbS02RVBqX0I1NTE2TnJBMkdNM1U3VmtsZWdIQ0FyWHJHQXB3eHBGNUxubG9ySGQ1dmxNUERIRWJCZUJ3WFBweFUwQzRYUVZRWjRmZVFXeU1RZ1p0MGpzcjNrRTRvZXZUTmllSUd6?oc=5",
+    "description": "Climat : l’Etat fédéral, piètre gestionnaire de son patrimoine immobilier Le Soir",
+    "published": "2026-09-21T16:04:48+00:00",
+    "media": "Le Soir",
+    "media_domain": "lesoir.be",
+    "country": "Belgique",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "climat letat fédéral piètre gestionnaire de son patrimoine immobilier",
+    "collected_at": "2026-09-22T12:45:09.255025+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Emaar sees Dubai hotel occupancy, now at 60%, recovering within a year - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd3IwN0xlLVJJRjV6NHdhZXJkcDI5cmZQR0U3enpybHpVVk8yRVpSaHJhdTUwX3ZUcFZ5OGtCWXo2Zm9DSE5KcFFsMy1aLVppZ3FHTlNncVN5Y0VhZktDSk5sVWM1eExFSUR0SlRjN0ZTMzlLUGdyMGxXTElRNmF3QUU3YVhCNnk5NkkzNTFubDNkd1BrWXZFM3BSYlg0OU92TjlHaE1FUzlDN0JTanpWejhFbngzcmVsU21hUDZYYjJ6V1NXR0E?oc=5",
+    "description": "Emaar sees Dubai hotel occupancy, now at 60%, recovering within a year Reuters",
+    "published": "2026-09-21T15:07:07+00:00",
+    "media": "Reuters",
+    "media_domain": "reuters.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Tourisme & résidences"
+    ],
+    "primary_theme": "Tourisme & résidences",
+    "dedup_key": "emaar sees dubai hotel occupancy now at 60 recovering within a year",
+    "collected_at": "2026-09-22T12:45:11.832488+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Canadian REIT leaders weigh capital competition at RealREIT - renx.ca",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GNjRnbHpoZXMzOHBaaERzeFNUQXlwTzlacDZRaGJXUnlfZUtuZmpLX2Zwc08tSDBzTnhvYXFhdWhFb1ZmWlZMVWFlcTlsbW01RUVRZ3lGdlNiU19wU3M2dm9TaXBBbkdTRFJlS05xd1g?oc=5",
+    "description": "Canadian REIT leaders weigh capital competition at RealREIT renx.ca",
+    "published": "2026-09-21T15:03:20+00:00",
+    "media": "renx.ca",
+    "media_domain": "renx.ca",
+    "country": "Canada",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Investissement"
+    ],
+    "primary_theme": "Investissement",
+    "dedup_key": "canadian reit leaders weigh capital competition at realreit",
+    "collected_at": "2026-09-22T12:45:15.793445+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Record Dh130 million Sky Palace sale headlines strong H1 for Ras Al Khaimah property - Khaleej Times",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPemVKSXk4RzZXZmpzd2NFdlFwRzk5S3BBeGJOY3J5bzRXcll4MlZHSndSNWptTXgzUUI3V2FYWVZ1T052Z3l3UXhiMkM3amZhdnQyc1JkZVFSRHVMM2lHcHduVXY5c3RlNHNuTXhWamhXZHZSQU5PaG04ZUVnOXJuYl9zcGR6M2x3NGkwdTBYUG1OV1ZpTDJyLThMa1BKeHBqdS00VV8yTTJxbjY0S0VBekxZVVJRZ1VWQml2UjVpZ9IBxwFBVV95cUxPRTZMdW5jcklhN0JreFFUeDExTFpvVElaUzlSNXlVaGZNTkFpRXJ5blUyMGluREVYcVRwTk1wV2NNbWs3WjNSNlYxT292NlotWnQ1cFNzR3VZWVpBeThmcExNMmFaaDlGM3hsTG9TQ3d5QVRrT0tJZ0xveE53ejZPQzJieUlUZ2p4MDk4S3dGUjV0OHhjR0NwNnZmNnJXcVNmdnk2clVUTlJXMkY4QmtSb2FSRXRCUG1kbW1nQWFzU2ZIMFdobkVr?oc=5",
+    "description": "Record Dh130 million Sky Palace sale headlines strong H1 for Ras Al Khaimah property Khaleej Times",
+    "published": "2026-09-21T14:57:05+00:00",
+    "media": "Khaleej Times",
+    "media_domain": "khaleejtimes.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "record dh130 million sky palace sale headlines strong h1 for ras al khaimah property",
+    "collected_at": "2026-09-22T12:45:11.837689+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "La inversión en ladrillo bate récord en España: así funcionan Fellow Funders y Domoblock - Finect",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdmhjV1hxcDduUXp6MDBaUUEwaWpUZ2ZXRXIzN012RDR0SHNzVWdSSW1Nb3UwT0dZdGhad3ZJWUp0WTd1c2FrX2czcEVta0tkdEJVaWZoalFkSmJ4WVQzS1lzQUNiRXlWaDVJbkhMNTFYYVB3N00yWXJhSzFnMkJHWWlUMUxaZzJ2RnB1azIta2JpOG4xamtpNVdhRFJGV3ZlemdGTlBSMjJDSDhYQlpFclhSRHhrRVJMRVA1b1NrYngyNFdiTGtrNC12WFQweTVtcnFYSk11WVg?oc=5",
+    "description": "La inversión en ladrillo bate récord en España: así funcionan Fellow Funders y Domoblock Finect",
+    "published": "2026-09-21T14:56:34+00:00",
+    "media": "Finect",
+    "media_domain": "finect.com",
+    "country": "Espagne",
+    "language": "es",
+    "language_label": "Espagnol",
+    "themes": [
+      "Investissement"
+    ],
+    "primary_theme": "Investissement",
+    "dedup_key": "la inversión en ladrillo bate récord en españa así funcionan fellow funders y domoblock",
+    "collected_at": "2026-09-22T12:45:14.465473+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Cyber insurance gap leaves UK property businesses dangerously exposed: GlobalData - Retail Banker International",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeURVc0Y0Q1k5NV9XYmMtVXhtYzhLbjNSQ0d3ci1NNUlDdU5WOUx1YWlzaThoYjZETnpGbVVTdGlkVnlNaDdFOVA4VV9fQTFPZ3lXRkdGd1hna1ZKTkVHRFA3NTJ1SmhJUkVJTXgwSUd6RXpmZms0LTJqRlYzb0cyNWM2bVF5ZURoblNaeHozLXVQci0zWGI4Z1FDcVVzSWNEYXRleVJSbWswTkRJWXFXc08tS004MVEw?oc=5",
+    "description": "Cyber insurance gap leaves UK property businesses dangerously exposed: GlobalData Retail Banker International",
+    "published": "2026-09-21T14:47:29+00:00",
+    "media": "Retail Banker International",
+    "media_domain": "retailbankerinternational.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Immobilier commercial / bureaux / retail"
+    ],
+    "primary_theme": "Immobilier commercial / bureaux / retail",
+    "dedup_key": "cyber insurance gap leaves uk property businesses dangerously exposed globaldata",
+    "collected_at": "2026-09-22T12:45:13.131565+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "«ألِف» الإماراتية تبيع كامل وحدات مشروع «لينار» بأكثر من مليار دولار - إرم بزنس",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MEV4TjU0eDJfYmxSWl93MjJMRFdyNUZPcVFOa1NPTGVTRDhHUk43MGZrTEVQYm5xZi13TEFmczFPZTdWTjF4U0FqY29OLUdmcElENERWbEJ3elE?oc=5",
+    "description": "«ألِف» الإماراتية تبيع كامل وحدات مشروع «لينار» بأكثر من مليار دولار إرم بزنس",
+    "published": "2026-09-21T14:35:14+00:00",
+    "media": "إرم بزنس",
+    "media_domain": "erembusiness.com",
+    "country": "Émirats (Dubaï)",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "ألف الإماراتية تبيع كامل وحدات مشروع لينار بأكثر من مليار دولار",
+    "collected_at": "2026-09-22T12:45:12.370959+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Alef Group sells out AED4 billion Linar waterfront development in Al Mamzar, Sharjah - wam.ae",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORHlBdTlEU0w3UlFLZ3k3QTA0SGRualM2cmMxaGFrTVo2VVd4R19LVE5saDlmWTJOTnUxbzFNVC1PQ3R6N05YeS1HeUZoUzBLSU9hM1NNaGJrTTZ6emZMcUlVd3ozQmgwYnBmNF9MbmJGWjctVUNUQXljV1duaEVuNXlLTHlYbzRWeV92NlBGV2txdw?oc=5",
+    "description": "Alef Group sells out AED4 billion Linar waterfront development in Al Mamzar, Sharjah wam.ae",
+    "published": "2026-09-21T14:05:20+00:00",
+    "media": "wam.ae",
+    "media_domain": "wam.ae",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Construction & promotion"
+    ],
+    "primary_theme": "Construction & promotion",
+    "dedup_key": "alef group sells out aed4 billion linar waterfront development in al mamzar sharjah",
+    "collected_at": "2026-09-22T12:45:11.835008+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Une alliance UDC-PS-Verts veut défier le secteur immobilier - Blick",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSDBZX0MyY1ExVnlhbGZ4THJsTXZlUDk2UGppWFpabnQwM2hkUTNQWU92SWlscDFxSy1UZ0JxNm5VUTdqdDZSOTdrbjJWZHdkQTNVZUFGODNPYkxndjhIdGlYQVo5aHpodjNkRHVyZXk0bnRWbGVUbnlqZ1l2N0NpLXlRSnJzb3FSTVI0a3hzWFVLMW44?oc=5",
+    "description": "Une alliance UDC-PS-Verts veut défier le secteur immobilier Blick",
+    "published": "2026-09-21T13:35:00+00:00",
+    "media": "Blick",
+    "media_domain": "blick.ch",
+    "country": "Suisse",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Marché résidentiel",
+      "Immobilier durable / ESG"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "une alliance udcpsverts veut défier le secteur immobilier",
+    "collected_at": "2026-09-22T12:45:09.937127+00:00",
+    "mentions": 1
+  },
+  {
     "title": "3.4 مليار درهم تصرفات عقارات دبي الاثنين - صحيفة الخليج",
     "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNdi12ZjZTOXJhV1dCTFhRbG5EOEYybllJcWxEajM1c1psbHQ2bjU2V2VOU2NMSllJelFmeElWVWcweElzTk5aUXU2dUcxNTZkWXlqYnRXLWNiMjJLNS1GcV81UW5CY0w2SURiS05VcUpIYU9SWWZFdm5kbUtOZmJ5MkV2Tk1GQ1hqeXc5eEZuVHJVNmxWWWlnbS1IRXZLZ2NwVWYzVm1UaU90S01DYXRpTU1wWlZDSUhCd2o0d19zWUloOEo3LVRjYVBfTHltbXM1QkZ2QkdsVGRUQ3FVWW8zQjhQZm5Ka2oySFA4UU5meE5HUW1uUDlCd1RfMjFiZUxsaldsTks3aUZDT2pFaXpGNmt0NWJxOWE1eWFiaTdfUFVYbVhJem5GN044d1ZpZkFVenRWYmUzWDFBTHkyaFRVbzBCZG81TDZaZTRkeUJLQmV4SVp6X0tPeDZMQkZRN05tMDVJNDNSbmZrQnBWQnA0MEt2LWh2Q2FQRTlUdG5XSjVLS3I0dTRWVjIyaGJyR0FKcUIxVnBSMThJSUJJNjA5U2V3YlBXYVYyTmp1VjY4SWVoOGVtcGNDV1RZY2FVM2VnM21MU29TZ1VhRmNqdFZTb2w5Vm9pYkJVUzZJM0k0M3dyU3BHM1dpV3hwMA?oc=5",
     "description": "3.4 مليار درهم تصرفات عقارات دبي الاثنين صحيفة الخليج",
@@ -271,6 +1175,24 @@
     "mentions": 1
   },
   {
+    "title": "إقتصاد Archives – الصفحة 253 من 253 - برلمان.كوم",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY2k3X09VZGs2QUhUWFRiQzhDM1NPRjQxYnduTC16XzROZVFkMjcxbEFCeE9PcHZMaHAtS0ROU0dncS05VFZSUnprY3lmdkluVVNUV3dLZTlKUEgzaU51SVNmeWlrUDJxd2VoanVadVE1UGlvSHR3b0VSMEFjTU05TU9QMW1mTVNOLW54S2w0ZVVjRnU0QkR5Y1hxOUxFbC1aankxUzZsSjFzVHl6OUgxRkU0TzE3UE4xYjRCZFltZG14SUNRM0F4MGo5S1pWWWhRTTVkaUJJTQ?oc=5",
+    "description": "إقتصاد Archives – الصفحة 253 من 253 برلمان.كوم",
+    "published": "2026-09-21T09:31:35+00:00",
+    "media": "برلمان.كوم",
+    "media_domain": "barlamane.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "إقتصاد archives الصفحة 253 من 253",
+    "collected_at": "2026-09-22T12:45:17.998741+00:00",
+    "mentions": 1
+  },
+  {
     "title": "Los 15 municipios con más okupaciones ilegales en España - El blog del Euríbor",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQejQ1ZzNoM05mSlhGT1d2Qk9td0FncmFzX2hzNGVrNWd6MWdjaE56dkxtY1IzN3dpQWF4ZDhUaE04STUyc0lIMDYxTEV2OTA5V1l3T2N3ZEdGeHdWR2F1enRDQ2k2UlR0VnNCTlBnSUtnVVlKWnpXUEwtUG5PSHRfS2FMRnNkMU01WWhuYnM4czc4enlKZFJXVlpDeEl1bEVtMWYtM2oyRTNOY3gxV2I2RFZRcmc5UjJQeVV6aXViajZHUXM?oc=5",
     "description": "Los 15 municipios con más okupaciones ilegales en España El blog del Euríbor",
@@ -286,6 +1208,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "los 15 municipios con más okupaciones ilegales en españa",
     "collected_at": "2026-09-21T14:25:47.151941+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Los 15 municipios españoles con más okupaciones ilegales: El mapa completo del problema - El blog del Euríbor",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQejQ1ZzNoM05mSlhGT1d2Qk9td0FncmFzX2hzNGVrNWd6MWdjaE56dkxtY1IzN3dpQWF4ZDhUaE04STUyc0lIMDYxTEV2OTA5V1l3T2N3ZEdGeHdWR2F1enRDQ2k2UlR0VnNCTlBnSUtnVVlKWnpXUEwtUG5PSHRfS2FMRnNkMU01WWhuYnM4czc4enlKZFJXVlpDeEl1bEVtMWYtM2oyRTNOY3gxV2I2RFZRcmc5UjJQeVV6aXViajZHUXM?oc=5",
+    "description": "Los 15 municipios españoles con más okupaciones ilegales: El mapa completo del problema El blog del Euríbor",
+    "published": "2026-09-21T09:20:45+00:00",
+    "media": "El blog del Euríbor",
+    "media_domain": "euribor.com.es",
+    "country": "Espagne",
+    "language": "es",
+    "language_label": "Espagnol",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "los 15 municipios españoles con más okupaciones ilegales el mapa completo del problema",
+    "collected_at": "2026-09-22T12:45:14.467895+00:00",
     "mentions": 1
   },
   {
@@ -705,6 +1645,24 @@
     "mentions": 1
   },
   {
+    "title": "Emrina Prepares to Enter a New Era in Saudi Arabia’s Real Estate Market with Bayt Al Maqam - USA Today",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOXy1lXzdGZ1gyT3o3YWJvUUQtWlpMZWtRT2xOMUsyMVhNM1ZFZm1MS3BfS1YyMG00UmIwSm0tcEM0bWpad3UtM0Rfb05JdUtUTDU3QV9wdVpPNVc5TVdOOXBEczF3eVZwWnRnenNTZzJNb2UtcDBJRFA4S1RJX2VScENCNkpTMVJXM3NsMF9kWF81RUt1U1prNjdUY3FqZVloYWFIbXdReVhMWnVKWVJBR09OeDZEVEhjSHd6S3BmSnFWRFN6Tkc5V1BXVWhudl95YjlWalZmT0E?oc=5",
+    "description": "Emrina Prepares to Enter a New Era in Saudi Arabia’s Real Estate Market with Bayt Al Maqam USA Today",
+    "published": "2026-09-20T11:57:01+00:00",
+    "media": "USA Today",
+    "media_domain": "usatoday.com",
+    "country": "États-Unis",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "emrina prepares to enter a new era in saudi arabias real estate market with bayt al maqam",
+    "collected_at": "2026-09-22T12:45:13.863047+00:00",
+    "mentions": 1
+  },
+  {
     "title": "ارتفاع الطلب على المجمعات السكنية الأكبر حجماً في دبي - البيان",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rb0tBeGhMYnh1OHBQSVAySmxnb2FNNlg0cEhta2JWM296TjMzdVEtdDQ2LUhZeWF3N1llVFNhb1EyNmh4aklVTERmSzZUb1XSAVRBVV95cUxPLUFCYlFDcDItRXNlQTlRRmd2ZnVuRkczV200TjhUM29ERzhCLTFDY19TSGk1Rjl5NEJteExxNnpHNGNUR19vVnE2Z0k1bVM4YThkQ24?oc=5",
     "description": "ارتفاع الطلب على المجمعات السكنية الأكبر حجماً في دبي البيان",
@@ -720,6 +1678,24 @@
     "primary_theme": "Marché résidentiel",
     "dedup_key": "ارتفاع الطلب على المجمعات السكنية الأكبر حجما في دبي",
     "collected_at": "2026-09-21T14:25:45.104182+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "slide Archives – الصفحة 2834 من 3074 - برلمان.كوم",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqS3JXUTh2NDlFOFlrVHFLNDE1OVpBQ0NMaXZWcmMzeEliV3dDZTZDLUc5UWJwdy1RVHo5d0hVa1hFTjNhMVpQSHI5US1XRlp0czgwTFdmQlU1TFE?oc=5",
+    "description": "slide Archives – الصفحة 2834 من 3074 برلمان.كوم",
+    "published": "2026-09-20T09:32:15+00:00",
+    "media": "برلمان.كوم",
+    "media_domain": "barlamane.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "slide archives الصفحة 2834 من 3074",
+    "collected_at": "2026-09-22T12:45:17.999787+00:00",
     "mentions": 1
   },
   {
@@ -1952,6 +2928,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "slide archives الصفحة 2833 من 3073",
     "collected_at": "2026-09-20T12:32:57.668689+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "slide Archives – الصفحة 2833 من 3074 - برلمان.كوم",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JYXdiOFRyYndGUlRSWlRPTjliYlVKemlWYU5EVHMwY3FIb0lyc0hJalBWRXpRUGdwUVNnT0p2OHhaaV96b1g5aUJUU0hNM0RRbHBqNVBwcFdtblk?oc=5",
+    "description": "slide Archives – الصفحة 2833 من 3074 برلمان.كوم",
+    "published": "2026-09-18T09:00:47+00:00",
+    "media": "برلمان.كوم",
+    "media_domain": "barlamane.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "slide archives الصفحة 2833 من 3074",
+    "collected_at": "2026-09-22T12:45:17.997919+00:00",
     "mentions": 1
   },
   {
@@ -3527,6 +4521,25 @@
     "primary_theme": "Non classé",
     "dedup_key": "cest un laisseraller un manque dentretien de toulouse à cahors la vétusté des immeubles historiques et ses conséquences",
     "collected_at": "2026-09-17T12:41:16.874876+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Ares and PSP Investments Establish Joint Venture to Invest Up to $2.4 Billion in U.S. Logistics Real Estate - Business Wire",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcFR6Z0QwcGFDWnVSTDlub2FMa1FqTHlBMGlCcG5BNko4dVdYaFpjQ2Y2c2RwOE41dnQyV2tNRmVIYThoMzhUSjd0aDRIVEFOQjNKNHo3NGdSZjN1VGh5dTBUdlI2X3V1ZkYzVzFqT0RadDliNktZejdHVFpuTVdMTjEyOHUxM0JTNkhUT3RtbWhGNE1PeThMUXB1VU9OSWNNczVOanlFZS1Va05sRmZ4UzU5WjhsNndnbl9YODR0WEFCdmNBTk9QdnU3OEhVdWhWYnNxYWNrdDh2cllpNjl5SmtmU1R3NF8tZlFybXFOUmZ6eFdrelJ3ZGxB?oc=5",
+    "description": "Ares and PSP Investments Establish Joint Venture to Invest Up to $2.4 Billion in U.S. Logistics Real Estate Business Wire",
+    "published": "2026-09-16T20:30:00+00:00",
+    "media": "Business Wire",
+    "media_domain": "businesswire.com",
+    "country": "États-Unis",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Immobilier commercial / bureaux / retail",
+      "Investissement"
+    ],
+    "primary_theme": "Immobilier commercial / bureaux / retail",
+    "dedup_key": "ares and psp investments establish joint venture to invest up to 24 billion in us logistics real estate",
+    "collected_at": "2026-09-22T12:45:13.861961+00:00",
     "mentions": 1
   },
   {
@@ -6111,6 +7124,24 @@
     "mentions": 1
   },
   {
+    "title": "slide Archives – الصفحة 1735 من 3074 - برلمان.كوم",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Nd194LVBpVVBvTkNydF9ub2ZLNHJMdk5WNEVDUGgyM2RxZHRFOGM2M3E3cVFEMTk5TTBWT1FYOGlNZGFxTC1fSHR5WU8tZGk3aElMMVg5Z21DUjA?oc=5",
+    "description": "slide Archives – الصفحة 1735 من 3074 برلمان.كوم",
+    "published": "2026-09-14T22:06:58+00:00",
+    "media": "برلمان.كوم",
+    "media_domain": "barlamane.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "slide archives الصفحة 1735 من 3074",
+    "collected_at": "2026-09-22T12:45:18.000329+00:00",
+    "mentions": 1
+  },
+  {
     "title": "تغير المناخ يعيد رسم خريطة السكن في أوروبا - برلمان.كوم",
     "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNZGZWdTVPc1h6ejdyZVktTlVabk9EZ05sWTl4RnpNNm9PUXd1ZlpGUFlVZHZaMEtEeXMwRlNmQzdxODJBUzJXUUNqS2NNMl81bE9xMXNGY3VVaGV5eWxKV1NVclVYZnNMRU1XUEhkMDZvWU5tVG8wTXlPM181VHA0aTgtWHR2Sk9ydk9yYWtqT3hSXzh0M3lnYTFvTW5BZm8weGM3ZnZtYnAtejJaUXNDakhfR3ByNWt2WDRoQ3hrRHhLcG8xeTRlaWJYZUtQSkxwRHc2QWpINzY5YWFnRUZiOFhURjdFeURZZDRtdDU1eXZzTC1zeEVKRmdqUlBET1NnTU1VaFBMVXZZY1BoZTI2RUlIVTF3dDV5a01nZDlpMjQ2ajBZdUI0YWdEZkQwLTNrRFRBVThGOUx1MUFCbkhaTEp3YmM?oc=5",
     "description": "تغير المناخ يعيد رسم خريطة السكن في أوروبا برلمان.كوم",
@@ -6705,6 +7736,25 @@
     "primary_theme": "Immobilier commercial / bureaux / retail",
     "dedup_key": "flight to quality continues across canadas office sector",
     "collected_at": "2026-09-14T14:19:15.785577+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "أوكتا العقاريّة تحصد تكريماً من “أراضي دبي”ومؤسّسة التنظيم العقاري خلال معرض العقارات الدولي 2026 - alwatan.ae",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZSXZacWhDUVJJekpfXzljYWE1MlFiVWNxbm5GQ1BmSHpvVmc4S2trSFJZMUVVM0xHaFdoN2xZdm15S2p4dUZB?oc=5",
+    "description": "أوكتا العقاريّة تحصد تكريماً من “أراضي دبي”ومؤسّسة التنظيم العقاري خلال معرض العقارات الدولي 2026 alwatan.ae",
+    "published": "2026-09-14T12:49:44+00:00",
+    "media": "alwatan.ae",
+    "media_domain": "alwatan.ae",
+    "country": "Émirats (Dubaï)",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Réglementation & fiscalité",
+      "Foncier & urbanisme"
+    ],
+    "primary_theme": "Réglementation & fiscalité",
+    "dedup_key": "أوكتا العقارية تحصد تكريما من أراضي دبيومؤسسة التنظيم العقاري خلال معرض العقارات الدولي 2026",
+    "collected_at": "2026-09-22T12:45:12.372029+00:00",
     "mentions": 1
   },
   {
@@ -16854,6 +17904,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "american ira hosts charlie wessel for webinar on investing in medical real estate",
     "collected_at": "2026-09-08T12:14:12.689520+00:00"
+  },
+  {
+    "title": "Etude sur l'attractivité : Classement des communes de dix régions suisses - UBS",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSjVCQjJJY0p0aUdFTXlkZ3JRYXNGQ0NuQlNJWGFNYmpDeGszSVpJVkNmR1ZFSlMwVGZKeGhaVnd2TEZETk8xckNJYjdCbHFiYTBaRU14WGtBTllfT18zRlpGSFZfZDlNT0FiX0RWbldXVmZ1SXpHWVRLSVlVSTgzempYdG9QdDJxVWJrNVA0cW03ZWJMa2RYRzB6b0lkTmpsTXdqbGI5WnNiUQ?oc=5",
+    "description": "Etude sur l'attractivité : Classement des communes de dix régions suisses UBS",
+    "published": "2026-09-08T07:00:00+00:00",
+    "media": "UBS",
+    "media_domain": "ubs.com",
+    "country": "Suisse",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "etude sur lattractivité classement des communes de dix régions suisses",
+    "collected_at": "2026-09-22T12:45:09.938245+00:00",
+    "mentions": 1
   },
   {
     "title": "Les prix de l’immobilier ancien en France baissent de 1% au 2e trimestre 2026 - Devizu.news",
@@ -27243,6 +28311,24 @@
     "collected_at": "2026-09-02T09:49:22.867330+00:00"
   },
   {
+    "title": "«البام» يكشف «ميثاق المواطنة».. مليون منصب شغل ومستشفيات جامعية جديدة ومدرسة عمومية وسكن لائق وتفعيل الطابع الرسمي للأمازيغية - برلمان.كوم",
+    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNaHBPZktUZGoydXkzMjNEeHd3UFJuVi1WRlpValNScDk5TmN4M0tPWllMZXgyaFVSaFZYV0s1dTZ3blBBa0NnWjNyQ2tfNmF6NWtDRG9SUFcxaEFBdGpBcm0tRmpsZ29TRUtRZGNaNUl4LUJJSDkzc2U1dWc5eTdydmlXbXdDOFJIT2hSazNOSzFJMnFVSjRJYTB2bFJiYTVzNkJUTTJMWTBTR0ItZFg3SWUwUEV4SzFkMER5c214blI4Z2xJdHJmV0JyOEtmNVFtM0FVYk1yV3AwMUdjbHJlc2doREdubHRud1BBaTh2b055ajZycHB5TWttTmRQRkFRdmdadjVMa2xXblFnMGRzSHkyeHRWZ2hYSzNJZDdVMkZwZw?oc=5",
+    "description": "«البام» يكشف «ميثاق المواطنة».. مليون منصب شغل ومستشفيات جامعية جديدة ومدرسة عمومية وسكن لائق وتفعيل الطابع الرسمي للأمازيغية برلمان.كوم",
+    "published": "2026-09-01T19:12:52+00:00",
+    "media": "برلمان.كوم",
+    "media_domain": "barlamane.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "البام يكشف ميثاق المواطنة مليون منصب شغل ومستشفيات جامعية جديدة ومدرسة عمومية وسكن لائق وتفعيل الطابع الرسمي للأمازيغية",
+    "collected_at": "2026-09-22T12:45:17.997714+00:00",
+    "mentions": 1
+  },
+  {
     "title": "GIC's Head Of European Real Estate Leaves - Bisnow",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcjVLTHhzVWZBWUFoMVFoV2RRWThEbExHNEk3bzdNeFVRdHVsQ2NUS1QyQ21yclF3WENNNFlUUHJCNVVRS2NYQXVCUEtkZjFiQ2pmVFFpSGk4UW1fMWVtVmk2TmdLSnpnQktIWE1VX3FNU19pdzE5SjVTY2lCdlMxRzREV0lFdW9uZlROTjBHMEo4ZWg0?oc=5",
     "description": "GIC's Head Of European Real Estate Leaves Bisnow",
@@ -31372,6 +32458,24 @@
     "primary_theme": "Construction & promotion",
     "dedup_key": "syrian sovereign fund signs agreement with uae developer arada for real estate project valued at 7 billion dollars syrian media",
     "collected_at": "2026-09-17T12:41:20.061088+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "UAE investment fuels Syria's postwar economic recovery with $7B property deal - Al-Monitor",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWptNU1FbDVPeDJUVkdUR0JxQktJbWRZNHJMUF9ZUEp4Um8wMUhObHdUQnJZSVNLMW5VcWlzQnFxVmVkdGR5bGhJUzROc045NThyQ0tHcU9UbHE3azFscXR2UmlaQ2NHTGNDb1JlcUVIYjk0N3BvZThJdmt2VFp5dmpYMVhsTFVrV3l6VUUwVGdfSm9EZlB0T3h3UUJEVm9kME1OdEhUNS1RRTBOTG9WQ2J3dDkwdw?oc=5",
+    "description": "UAE investment fuels Syria's postwar economic recovery with $7B property deal Al-Monitor",
+    "published": "2026-08-31T07:00:00+00:00",
+    "media": "Al-Monitor",
+    "media_domain": "al-monitor.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Investissement"
+    ],
+    "primary_theme": "Investissement",
+    "dedup_key": "uae investment fuels syrias postwar economic recovery with 7b property deal almonitor",
+    "collected_at": "2026-09-22T12:45:11.833404+00:00",
     "mentions": 1
   },
   {
@@ -36681,6 +37785,24 @@
     "mentions": 1
   },
   {
+    "title": "Posthaste: Housing market recovery could still be two years away, says RBC - financialpost.com",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN1JsLWJieGo0ZUtEUWZqQjRMWHZFQ0h5RHExaFpnalBMZmx5SU9xaktSdWpHMEdUeERjSWNaVjNjZXl2NUM3VzRsem85Y1ZDZ2lydTg1TE5YWWNYVmRBYjFuc1dORy1Oc2pKOTN5cW5KWGg1UjA0cFRWdGFRNkVxQk1wS096STA?oc=5",
+    "description": "Posthaste: Housing market recovery could still be two years away, says RBC financialpost.com",
+    "published": "2026-08-20T07:00:00+00:00",
+    "media": "financialpost.com",
+    "media_domain": "financialpost.com",
+    "country": "Canada",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "posthaste housing market recovery could still be two years away says rbc",
+    "collected_at": "2026-09-22T12:45:15.801138+00:00",
+    "mentions": 1
+  },
+  {
     "title": "عقارات دبي تتجه إلى تجاوز حاجز المليون وحدة سكنية في مطلع 2027 - emaratalyoum.com",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzTmpJMUNrUHJSMk1veUJ0NFd5WDlITWxIcVJWUHdYYzc4VndMR19UZEFnSS1fWmNodW81aGZWVFNrc01tMzB0LWo3V3pUSXJaNzF5RURWcFZHRWsxSmVzdTVnNWE0aF8xZGVrZXV1MEotQdIBjAFBVV95cUxNNDFsMFd2RnlWLTFSaTdYX1Q5VGttTHp5MUhTVThXYkZFODNFYVF4NnpUb0RabWRPLXpFaGU1OFB4SXRUbWtpQXY2bnVDOGZSQW5KbF9MNS1WOFVabnlHLXhrN1FES19wSlY1RGlkMGxmeFpBUXhYZ2JjVkxHYUI0bURMWmd3bGtaaVl5ag?oc=5",
     "description": "عقارات دبي تتجه إلى تجاوز حاجز المليون وحدة سكنية في مطلع 2027 emaratalyoum.com",
@@ -38981,6 +40103,24 @@
     "mentions": 1
   },
   {
+    "title": "The solar eclipse, Freddos and UK real estate. - burges-salmon.com",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakhvRXVHcERiQWpGQkpnNExXaVN2WG1yYUtOLUV3bFA4RUd5U2xvVlZ4ang5SDBaUS1KZTliVXdpMWVuN2pSV0pLV1dhZ0VQMjM2alJOd2lwX3pwQWZMbHd6ZzE2Y0dzaHpTTW9lZTg5SkR6STc2Q05KUkFNa0N3QVJkUmU2YmZSWGU0Nk40RW9UdEVkMWlr?oc=5",
+    "description": "The solar eclipse, Freddos and UK real estate. burges-salmon.com",
+    "published": "2026-08-13T07:00:00+00:00",
+    "media": "burges-salmon.com",
+    "media_domain": "burges-salmon.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "the solar eclipse freddos and uk real estate burgessalmoncom",
+    "collected_at": "2026-09-22T12:45:13.138515+00:00",
+    "mentions": 1
+  },
+  {
     "title": "Immobilier. Les loyers baissent en juillet dans plus de la moitié des cantons - La Liberté",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYW85Tm1QTHBqUGdWTlFjRExiX2R5UFRneGFSWFVhaDRsVXh1SG1uNjFYNHFaR1V5Yk80UF81NkdtT3Q2dW56NFppc0tXX1JIOXNmSmZGbFhhclRMNnRxTVI3cVY2R1BFOGxEeU9oQjFmZ09EbXRQUHRMTUJfOENyeGpTOWRKUHZ1ZktiMWVRcXlSeUVNOWc3UFZyTmcyc0I4Uk1zSVV4aVlrb3c?oc=5",
     "description": "Immobilier. Les loyers baissent en juillet dans plus de la moitié des cantons La Liberté",
@@ -40782,6 +41922,24 @@
     "mentions": 1
   },
   {
+    "title": "Fiera Real Estate and Packaged Living Reach First Close for UK Single-Family Housing Fund - Fiera Capital",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdFhpMDdhaThtNEd4aU1zbnhmOWdvdi1RUVRISVN4aW1aR3diY29FM0MzcVlkYU4ySThkSzJCZ25kM1NTOTA1MDY2THNqWmZXME9zaThRbFhNU2ZjM3BVM1NwTHc1bkRLdmhINU5zZGFURGR2SXZMY0pIQlZQUDUwNzFlblhXM1gyWDFyel82SWo5ZVlFNDE5b0dzb1JLNHZaeGpnd2tsczN2SWNEc1VuNXM3VWM0REhJVWpEQ3p2Tm5OQlZ6UGlXTnY3ZC1RZzFNeWYtajJtSQ?oc=5",
+    "description": "Fiera Real Estate and Packaged Living Reach First Close for UK Single-Family Housing Fund Fiera Capital",
+    "published": "2026-08-05T07:00:00+00:00",
+    "media": "Fiera Capital",
+    "media_domain": "fieracapital.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "fiera real estate and packaged living reach first close for uk singlefamily housing fund",
+    "collected_at": "2026-09-22T12:45:13.133958+00:00",
+    "mentions": 1
+  },
+  {
     "title": "U.S. Real Estate Market Outlook Midyear Review 2026 - CBRE",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3pxaVQ4cVJCNTU0Tll3TVZydU1LWjF6WHk4RkRFMnQyUXpCMnhtVld4MHVxU0ZxbGVLMkdjd2M5UzAyN29IaTB2YjItY3l6WjRqR0tjTEREdFFOYVhhNWNZVXZlQ1hsODhUVXI4R1pFQUFpLVlCc21hMnE2b1J5NWtIQXpMc1dIa0c4Q29R?oc=5",
     "description": "U.S. Real Estate Market Outlook Midyear Review 2026 CBRE",
@@ -41393,6 +42551,24 @@
     "primary_theme": "Marché résidentiel",
     "dedup_key": "le retail belge un marché immobilier qui défie le ralentissement économique trendstendances",
     "collected_at": "2026-09-20T12:32:49.800140+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "BTR starts plummeted 79% in year to June, RE:UK reports - Property Week",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnpiVHl1RlJVbDBsY2Y0dGk0MVNLTEh5Vm1hVmQ5bG5zNkZWTzBmUUZMUlE1NUdFMkg4cWRRNnhFQUdKMjMwQzNYY0YxUVBsNHBtVTJIc21ZR2ZOX0NBZlZSZFlvOElST3pqeXJsbkxoaF9XQWU0NXhUMHZuUHZHYUhSSC1VQkg3TmJ2QlJSbkZTUlQtanVWWkJ2QVgwTWpoSXc?oc=5",
+    "description": "BTR starts plummeted 79% in year to June, RE:UK reports Property Week",
+    "published": "2026-08-03T07:00:00+00:00",
+    "media": "Property Week",
+    "media_domain": "propertyweek.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "btr starts plummeted 79 in year to june reuk reports",
+    "collected_at": "2026-09-22T12:45:13.135364+00:00",
     "mentions": 1
   },
   {
@@ -42732,6 +43908,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "uk real estate and the new pm what do we know so far",
     "collected_at": "2026-09-01T10:03:44.502569+00:00"
+  },
+  {
+    "title": "UK Real Estate and the new PM – what do we know so far - burges-salmon.com",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGI1REZFaXJxWE50b0ROUzFOTzJGSkowWm1JdER3djlDQ2dhOUctWmhVRnNHRC0xTjY2U24yQ3BrTWtpSHc5YldmZXB2bVQ4SkFfTzdvZlFiNVAwbFZValNPcXlaVjdWYU9BbGJZdzRTbGZPMGhISkl2ZUpxZ0RZVlRTUVFPWFRFRjZEdkQtM01wZU94R19Ed2laRm1sY3VnNHc?oc=5",
+    "description": "UK Real Estate and the new PM – what do we know so far burges-salmon.com",
+    "published": "2026-07-27T16:00:37+00:00",
+    "media": "burges-salmon.com",
+    "media_domain": "burges-salmon.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "uk real estate and the new pm what do we know so far burgessalmoncom",
+    "collected_at": "2026-09-22T12:45:13.131749+00:00",
+    "mentions": 1
   },
   {
     "title": "Dans ces stations alpines, les logements de vacances restent abordables - Blick",
@@ -44177,6 +45371,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "uk real estate good news bad news or no news at all",
     "collected_at": "2026-09-04T12:12:47.614100+00:00"
+  },
+  {
+    "title": "UK real estate – good news, bad news or no news at all. - burges-salmon.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUnVTR1ZEb3JTdl8yaXV0djlVYVZiQUxKOUJDbGtKbnpkcGhxMEdUVG1YbG5PXzlGNnpXZ1R3OWNVbjhNcGY4clpLMFN4bU8yUkJwNlQxWjAzbVBONEI0V1FxeVppalNuT192MWg5Y2R0VTZUMUZuZTg1V3l1bUxwSEZqNXJvcUlvTjFZamRYYlNpY0g4TWRwc2tXeFc2XzVt?oc=5",
+    "description": "UK real estate – good news, bad news or no news at all. burges-salmon.com",
+    "published": "2026-07-20T14:07:29+00:00",
+    "media": "burges-salmon.com",
+    "media_domain": "burges-salmon.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "uk real estate good news bad news or no news at all burgessalmoncom",
+    "collected_at": "2026-09-22T12:45:13.132428+00:00",
+    "mentions": 1
   },
   {
     "title": "France – Immobilier résidentiel : la construction de logements neufs est-elle à la hauteur des besoins d’ici 2040 - Crédit Agricole",
@@ -51307,6 +52519,24 @@
     "collected_at": "2026-09-01T10:03:44.504749+00:00"
   },
   {
+    "title": "What will a new Prime Minister mean for the UK real estate sector? - burges-salmon.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnFzdEhxc0Y0S1ZDQndsRWhpMTAzQmRXVndGYzAycGEtMUU4Z2I4WG55elJ6d2J5WlF2MllXTWlkRXV3Q19mZWNCeUZ3Mm5teThCb3pWTkxBMllfLU14UTRmandDMzJwcUJzY195OEZ3Vlpxem5zeE1rVmpsbVlfRmFFNnJmbmdOVHNaRHltcEJlSzlEamtrTmhrckdpSk83NVQyRkZqVXphVG03ZEVIVExTdw?oc=5",
+    "description": "What will a new Prime Minister mean for the UK real estate sector? burges-salmon.com",
+    "published": "2026-06-22T16:12:20+00:00",
+    "media": "burges-salmon.com",
+    "media_domain": "burges-salmon.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "what will a new prime minister mean for the uk real estate sector burgessalmoncom",
+    "collected_at": "2026-09-22T12:45:13.133046+00:00",
+    "mentions": 1
+  },
+  {
     "title": "Why UK Specialist Supported Housing Is Gaining Attention In Global Real Estate Market - Wealth Briefing",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMy1sLTNBNzVmaG5hZlJIV1phM2JTVC13OS1RdG9QYnYxVy1fWkExQzlUMDdCUEdJT2NwUHdNWFRjMVIwVXVJOWthcHZQU3k4UG9Gd1Fxc05yOTd5aEh1YmYxNnRJNDRFdlluTkxZT0NrSDhCSnlZdUJJZzVQZmkyWGJwTkF4aEZxanI0aDF0b2c3RjhBWGMzNzNZem9sUTF5eG5maElocnJfYXJXUGF6MFNkZTlMZzhNZmRTYXZueHg3emJOUmMwdUVfU0NuQQ?oc=5",
     "description": "Why UK Specialist Supported Housing Is Gaining Attention In Global Real Estate Market Wealth Briefing",
@@ -51501,6 +52731,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "ظاهرة الثراء في المغرب كيف تصنع الثروة وكيف تنتقل عبر الأجيال",
     "collected_at": "2026-09-17T12:41:19.330512+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "مور أزمة المحاماة والوكالات الجهوية..سحب وهبي لاختصاص توثيق عقود العقار من المحامين فجر مواجهة سياسية بين الأحرار و”البام” فمجلس المستشارين - كود",
+    "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNaG1XMXR2VGQ2dnBtbjdsZnB4Ui11NDhtSDdXcnB5OWctZHdHZWx4YTlyZktvd2J5SjFtN2Q4X3RTR1hUZ2hDN002WlZCVW5LSzFQWHFkZFAySkpOczBNSHhiTmtwcUxySHYzdzZhaG5TUFRXWVhOUEUwYWx4X1lzNmNvLTZaZVNvdUpzd2NkSU5sVWo2dklYMXlxYlpZaTBsVmtMazliNUNZZW9XWkl5Nl9lV0tGQ1RzcUNXLVFudW9aZW9aNk5FMkNoamJHSkg2WXRkUFM1SHJLQTV0azlOeXB1Q08tVEFNd1RKbmhIQng2MDZZMnhwQWwyeUFrNmpqT1ZndFlUQkVLdlhrYWdCay1Bamd3VEhWNUJnRy1hRVZoaXRsTFZLYUdFTWpTUzhsTEtzRmp4QXNMZjlLWlZ0YklMSDNlc1hkNEE?oc=5",
+    "description": "مور أزمة المحاماة والوكالات الجهوية..سحب وهبي لاختصاص توثيق عقود العقار من المحامين فجر مواجهة سياسية بين الأحرار و”البام” فمجلس المستشارين كود",
+    "published": "2026-06-22T07:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "مور أزمة المحاماة والوكالات الجهويةسحب وهبي لاختصاص توثيق عقود العقار من المحامين فجر مواجهة سياسية بين الأحرار والبام فمجلس المستشارين",
+    "collected_at": "2026-09-22T12:45:17.456123+00:00",
     "mentions": 1
   },
   {
@@ -54680,6 +55928,24 @@
     "mentions": 1
   },
   {
+    "title": "UK Real Estate – reasons to be cheerful - burges-salmon.com",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY3NORUx5eVNzS25tTmZ6V3ZLcmlfdGFiMGtYNVh0d19objZyUnF0Z3lVOWlXSXZaZVZyOEctdXFwMnBVaGNoNl9vcXgteS1RTXdiRlRkY1htU0ZVdXVmeXZldlF5R0pfdTRsX0JCNm9hLXRLRlhfaklQeTRfQ2F2RnI3UlgyRlZFWlZGUlh3?oc=5",
+    "description": "UK Real Estate – reasons to be cheerful burges-salmon.com",
+    "published": "2026-06-05T08:58:58+00:00",
+    "media": "burges-salmon.com",
+    "media_domain": "burges-salmon.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "uk real estate reasons to be cheerful burgessalmoncom",
+    "collected_at": "2026-09-22T12:45:13.132111+00:00",
+    "mentions": 1
+  },
+  {
     "title": "تصرفات عقارات دبي تتجاوز 10.17 مليارات درهم في أسبوع - الإمارات اليوم",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CaEYzRkJaNTBzWjg3dFhHa21oTTRETXM5UXNWTVRnSGZJdktUUWRKR09qMHEtRXgyNjBLMDc4Qy1YNmFhSkJDYmNfZmFMZDIzUWJSS3pZeWlfRnlaR3pxYWdEM2VyeWdJcHJrODloN1pwd9IBjAFBVV95cUxQNTBwbDgtZ2hrX2NfcUllSVo5aXRLWnFUanp3VU9odHRjNlUzT1BONV9OeFdHQjVVaUdOZ1NRLTdPWUNRdWgyVXNqeHN0UnNEVG9NRkI2RXd6Ui11dGxYZlhXOFEydzRhOU1CYjhWdXhwOHhUTFktbHJDZjlYamJSQVRocFVtdGJheE9JTA?oc=5",
     "description": "تصرفات عقارات دبي تتجاوز 10.17 مليارات درهم في أسبوع الإمارات اليوم",
@@ -54784,6 +56050,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "زلزال الحوز لقجع سينا مع سفير الاتحاد الأوروبي الشطر الثاني من برنامج إعادة الإعمار اللي كلف 500 مليون أورو",
     "collected_at": "2026-09-17T12:41:25.529184+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "غرفة جرائم الأموال فكازا أجلات ملف لحسن الدرهم ولي معاه لهاذ التاريخ - كود",
+    "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPd2tHYUdGUjFFOGRSTy01N29nY2g1ZGppMkRPWEVuMXZ1UmF2LTVsWDRrcUdPNWhyWnhnSlctMmtUNzZLSnlzY0pnRTVTM3RoSHhxX1U2MzEzbERHQWhWdkd0bktPZ1RaM3pBX1NRRVRoVk96OWJQbFJRYmZSdjVFclBUbVBuaVlSbm56ZDhFNTFvbkR0YVA4VDNlVWE0MnpITnJmY1otazZmVTRpbGhTSUVjYTdZeFU4RVh6RlBFMFliSW9DcDAzV0tJdE00dlNOTnBtS0hsajlkcnYwNVM4NnAtSmtLb0hhamdxRjZsZWhGZGV6cjZxckZGVHRCRUZxQUpqdl9mVUh3OUR2TzhYTWE4YkYzRzFEVTNoWkhqelVSODRtbVp2eGNGZVhNWk90T1JUNU13T2ZXdjZMYVlURF9WRHFNT3cySUFZ?oc=5",
+    "description": "غرفة جرائم الأموال فكازا أجلات ملف لحسن الدرهم ولي معاه لهاذ التاريخ كود",
+    "published": "2026-06-05T07:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "غرفة جرائم الأموال فكازا أجلات ملف لحسن الدرهم ولي معاه لهاذ التاريخ",
+    "collected_at": "2026-09-22T12:45:17.456865+00:00",
     "mentions": 1
   },
   {
@@ -56896,6 +58180,24 @@
     "mentions": 1
   },
   {
+    "title": "The 10 most affordable U.S. cities to buy a home - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94M1NYakpMS1ZOdDQzQXM5VVBMS1ZkbzdwQ3lfN0N4c0FTYy00R3p0bG1YSkk5NU9ocGx3Z05BYzhrc3V6X3lrVHFjbTlvMmJzT1h2VlpaMklYaURPQTJ6SUNDdS1UMmMtcHJjNzB30gFzQVVfeXFMUHYzRmhkM1BYM2J4U3NUU0Nkb01hTUN4dnVQM3lRaFJWU003dVZwNldjLVBxYVdxb3NmWDVaWEFURURxa3pTZ25JSUVCRmZ1RDNpZ2NRU3UwNzNTYlA4cWVxdGJhQmxMUHFDRk1iSGFlMHJPSQ?oc=5",
+    "description": "The 10 most affordable U.S. cities to buy a home CBS News",
+    "published": "2026-05-19T07:00:00+00:00",
+    "media": "CBS News",
+    "media_domain": "cbsnews.com",
+    "country": "États-Unis",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "the 10 most affordable us cities to buy a home",
+    "collected_at": "2026-09-22T12:45:13.869123+00:00",
+    "mentions": 1
+  },
+  {
     "title": "Two-thirds of UK real estate industry staying positive in face of global uncertainty, new report says - bdonline.co.uk",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUUdzb1g5aW93VWczWWJmVlBqTnhwM1VrMDdNVHA5bzFYaXRuYUt4bmx2YnllWFBMVnhGRlZvY0hMZncxVUVpaEFSVTFYMi0tRW14THloSkx0RWVjNng2eUxXM1RQTE01X1B2Ri1oVU1vc2kyOGVLUmpieUN1VmNPVDJCcHk3SXZwM1FTcEJRTzRpWWM5a2syTkV2VTZ2WFlLdVQ0ZFpBZFpLWTNNVmhpcFdheEJBWU55SDdzTVMzay1ibG1FcF9IY083WnFCenZlb2JjZl9raGtJOWFlSmVVZHlB?oc=5",
     "description": "Two-thirds of UK real estate industry staying positive in face of global uncertainty, new report says bdonline.co.uk",
@@ -57344,6 +58646,24 @@
     "mentions": 1
   },
   {
+    "title": "“نائب وكيل الملك” للسطو على عقارات - Assabah",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1RZy1SLTlzbVplT3JLQWlEZDdJaDJ0MW5pTXNvcDhEbWpWSlQyRng4MTZIdG1qZG9GWDJ1Ymh3NkJYdFVF?oc=5",
+    "description": "“نائب وكيل الملك” للسطو على عقارات Assabah",
+    "published": "2026-05-14T07:00:00+00:00",
+    "media": "Assabah",
+    "media_domain": "assabah.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "نائب وكيل الملك للسطو على عقارات",
+    "collected_at": "2026-09-22T12:45:16.315791+00:00",
+    "mentions": 1
+  },
+  {
     "title": "Le Conseil fédéral adopte le message 2026 sur l’immobilier - Swiss government",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nVWFoVUM2OFJvSDM1ek05LTJuYUN5MVNaeTVneFAwcVU4d1BOV1FJZHdCWGZIR041R1BPSEJhMTBWVHpPWEFxdnB2WGxoblRKeFVGa2o1MkZTN1BwTjlISE9n?oc=5",
     "description": "Le Conseil fédéral adopte le message 2026 sur l’immobilier Swiss government",
@@ -57700,6 +59020,24 @@
     "primary_theme": "Marché résidentiel",
     "dedup_key": "so what is the state of the uk corporate real estate market",
     "collected_at": "2026-09-14T07:49:24.913265+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "So what is the state of the UK Corporate Real Estate market? - burges-salmon.com",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdTQxTjFaZEdQOEVWUHBYNUVGdWVYLWROdHMtNkJEUWFvQndsam0tcFBVM2VsVmxkejlOVjRnZmlpMXNXRW96bXkwejVhMTJLQS1vVEFYR2x6SV9CdGlCbTVBallYSDV4dS1MSkUxYXNmRTJNTzZEYjJTbmx1Z3hGLW9NdDc1WlI4Tk5XTlBXQnh1RnkyRXhxMk42Q1d0VmV2anZldGZn?oc=5",
+    "description": "So what is the state of the UK Corporate Real Estate market? burges-salmon.com",
+    "published": "2026-05-11T08:01:41+00:00",
+    "media": "burges-salmon.com",
+    "media_domain": "burges-salmon.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "so what is the state of the uk corporate real estate market burgessalmoncom",
+    "collected_at": "2026-09-22T12:45:13.137122+00:00",
     "mentions": 1
   },
   {
@@ -58520,6 +59858,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "property bodies merge uk to form real estate uk lobbying group",
     "collected_at": "2026-09-21T14:25:45.869799+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "مجلس جماعة الدارالبيضاء غايعقد الدورة ديالو العادية لشهر ماي فهاذ التاريخ.. وغايناقش جدول أعمال فيه 99 نقطة سخونة - كود",
+    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPTkp5Z1VRelhJd2NYbkNJT3lpbVJPaVVpTnJjd2dsUmJPalJyaXMzcFRPQUYyQlppVjA2RGw0eEozMDh1MU1sN2JUYVl4dGg1NlZ0dGtab1VQY0FsYTgxYXFDOVEyVTJTTTUwd25CaHhoSThDMngxOVlMck5qYTdtS3h0Z2VPX1VHek1veTdVcTV1alc5MVVCQUpMN09Ydk5IMzJNWTdsLTdVY1VaQ1R3eEpLQlE3OVRsa21ibUp5TGFILVI3TGxDZk1CRm54WGtDdGphN2c4SFVQNjRmMUFabjloRFVvaE9YZkZhOC1QQW02akMtMC1sZnJmNE0xU29FalBfclVuOG9IUnRYWWttMjlsaGp5Q1dKOHFJT0wtU2J3MkhqUDVmb3ozN01Ea3BZb0Z6TVc3SHVyTHcybkVpTXdHR1I5NHFh?oc=5",
+    "description": "مجلس جماعة الدارالبيضاء غايعقد الدورة ديالو العادية لشهر ماي فهاذ التاريخ.. وغايناقش جدول أعمال فيه 99 نقطة سخونة كود",
+    "published": "2026-05-05T07:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "مجلس جماعة الدارالبيضاء غايعقد الدورة ديالو العادية لشهر ماي فهاذ التاريخ وغايناقش جدول أعمال فيه 99 نقطة سخونة",
+    "collected_at": "2026-09-22T12:45:17.453098+00:00",
     "mentions": 1
   },
   {
@@ -59988,6 +61344,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "uae brand flaers new designs to debut at milan design week gears up to open milan store",
     "collected_at": "2026-09-17T12:41:20.067520+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "فاجعة مصرع 22 واحد ففاس.. ها كيفاش واجهوا البوليس رئيس مقاطعة زواغة اللي اعترف أنه بصّح كاين بزاف د البنايات العشوائية وكيعطي رخص بلا متكون رسوم عقارية فردية - كود",
+    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQWHVqaWFCaDZnMHJlblFEdDVtdFV6VFNmeWs3MVUwSVRCSlFKdlhKejNFUzFaVzkyU3hEUGptUmRIMkhJTWlXZWVQYXM4N0R5b1JtNlRqTG1uLThlWWlOYkoxT1dQbnkzTkVLZXQ2dTB5TDN0ckZYSUhNSTdfNzhzZ1dyZk9nN3JYZzZJRlI4bGJ3ams0TGdKMTh4MVRReUZBWjZMMXdvTzU2VzZhTlB3NGtqOXNIM1dvLVZtYmk5VWg3djFKMFlNbUt5Tk55elo5RUxXYWlxNENTTnJneHpEZ080SlRBdkVFcUZuTVNqSFFVaE5rRDNiS200RERxa1gtcjA5V1pOY0RZcXRCU05MeVBFSXdUNGZwY3FYOG94TGFkZWphUnVLazBneV9PQ2lZNEYyTnd1Z1ZBS256SjBRVlNNeHRHMEpU?oc=5",
+    "description": "فاجعة مصرع 22 واحد ففاس.. ها كيفاش واجهوا البوليس رئيس مقاطعة زواغة اللي اعترف أنه بصّح كاين بزاف د البنايات العشوائية وكيعطي رخص بلا متكون رسوم عقارية فردية كود",
+    "published": "2026-04-20T07:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Foncier & urbanisme"
+    ],
+    "primary_theme": "Foncier & urbanisme",
+    "dedup_key": "فاجعة مصرع 22 واحد ففاس ها كيفاش واجهوا البوليس رئيس مقاطعة زواغة اللي اعترف أنه بصح كاين بزاف د البنايات العشوائية وكيعطي رخص بلا متكون رسوم عقارية فردية",
+    "collected_at": "2026-09-22T12:45:17.456967+00:00",
     "mentions": 1
   },
   {
@@ -61624,6 +62998,24 @@
     "mentions": 1
   },
   {
+    "title": "الحاجة كيف كتحبها “كود”. عندها اسهم فبار بدار بوعزة وبيه كتمشي للحج وكتصدق. ولدها ملايري سمسار دارها فسميتها - كود",
+    "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOb1VLNDlzVGJHNnlIZzVLMlB4WS00VU51WXd4Sk5qU0lXQkFjU1pjUUcwbnRBeWVDSGEzOGQxOW53TVR1Y3VOT2Y3WExsMkw5cU50RmRJaUV4STV3WTFkRlZya01lYkdUS1Z4c1hDdkgwaEVfSmNtN3BtVVplNWxnVHFYTlpNMk9ZNEUxTDdSc3ZMTmdoVG01dEs2eUJSejlyUXFWczdpVFFSMXFmX0Z2QU0wRnRBR1N1eHJJbkExbUsyazJCTElkTUJsc0hkTkRpRU9pdVFjcG5hSGU4QmRvNklLbXQ5dHlqSDhRYWtqWVFnbjFjRVJMM2I3eEgxSm1iUFdITjN0Q0hac2xTN2VMcFpUcGVOSWlDanU2aERxeHgtc2hsc2QyT0hUQWYyNm5pamwwRnUySUE2Yzg?oc=5",
+    "description": "الحاجة كيف كتحبها “كود”. عندها اسهم فبار بدار بوعزة وبيه كتمشي للحج وكتصدق. ولدها ملايري سمسار دارها فسميتها كود",
+    "published": "2026-04-05T07:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "الحاجة كيف كتحبها كود عندها اسهم فبار بدار بوعزة وبيه كتمشي للحج وكتصدق ولدها ملايري سمسار دارها فسميتها",
+    "collected_at": "2026-09-22T12:45:17.455475+00:00",
+    "mentions": 1
+  },
+  {
     "title": "Quel impact la guerre en Iran aura-t-elle sur le marché immobilier belge? - 7sur7.be",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHVmSzBUVUR6a1dJQllTQ3p3QjdzZkhtczBhelF1NHp6MHVDQWxPTFZoVWw0ZUg2VWdScnlCZnNTNktjdjUyTnhpNmdETEsyN2gza19MTWpsZmNBTVFEUWVVQ3JBVkRHQXVJdWpxVDZMdnh5cVpyS2lvRm1oUEx3dEduRGxSSzdBUmZXZG5kd1ltV3pZa0hCLXBKMzYzNDJ1TEh2anNfTGJZVHNuckRFMnV3?oc=5",
     "description": "Quel impact la guerre en Iran aura-t-elle sur le marché immobilier belge? 7sur7.be",
@@ -61980,6 +63372,43 @@
     "primary_theme": "Location & gestion locative",
     "dedup_key": "des gatinois ont du mal à payer leur loyer radiocanada",
     "collected_at": "2026-09-17T12:41:23.242580+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Le premier ministre Carney conclut un nouveau partenariat avec l’Ontario afin de réduire les taxes sur le logement et d’accroître l’offre dans ce secteur - pm.gc.ca",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZkdnbGplSUhxbm1ZNVJYQWFLN2xsU285UzZnWFYwOFAwYkpHZjNaY0RQbmhuLUV5aVZaVGhUc2xZU2xXRVhpOHk3VlllQVluLWdLUU1WbF9CQWd0SWJTb2FoMDdqZUt2NHBDUHYtdHpoVTNkczZjVktNZ0JMejM5WFJ1Y2FocGJGZWQxdTM2Um5nd3RveXlvWU1tR0tzOUZCLXhCc2Zwa1BhWDE2OXdHLVZPLWFWcmlON3UwclFOQQ?oc=5",
+    "description": "Le premier ministre Carney conclut un nouveau partenariat avec l’Ontario afin de réduire les taxes sur le logement et d’accroître l’offre dans ce secteur pm.gc.ca",
+    "published": "2026-03-30T07:00:00+00:00",
+    "media": "pm.gc.ca",
+    "media_domain": "pm.gc.ca",
+    "country": "Canada",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Marché résidentiel",
+      "Réglementation & fiscalité"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "le premier ministre carney conclut un nouveau partenariat avec lontario afin de réduire les taxes sur le logement et daccroître loffre dans ce secteur",
+    "collected_at": "2026-09-22T12:45:15.154390+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "تزوير عقود عقارات مشيدة فوق أراضي الدولة ففاس: إحالة محامي معروف وكاتب عمومي على غرفة الجنايات - كود",
+    "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPYUpvSV9wVzROYXBvR0xIcnZlYUF1dXFOdU0wWlY0MHN6RnV3RnRlcDJmUTJPYV9KT2ZtbjZXMEpZeTJsWklHYUlObUxLOVlrLVoyTURGeDg5V0V2Sko5bVhtblN2dUR2WGhwRmo2VEVyV1hyZEhPYnctaDhHQmdydnJqM1F2Z285bWY3RTFoOVRxM2dfSVJ2X0ZBYXdsYU1KeVBHTlBTMlNrX3laTnJvaWVheWVQT3o1d1hKTl8wWFAySnpfRlZSNEgzRF96bWltY1VoVEphQmtJME5oMjdFd0JZX2lOdzhtU2VZQlpLOUgtbExzNGk0OHdGY0pfaU5DN2hTLXphRzVmUlB0Zkx3R2lUa3BIMFQwcGRZTU1xc3JVa1oyUDQ4dFVsN2c4QnZZUnhxQXhBbl9ZM0VKUzB4bmdZR2tfd2ZGM0w4?oc=5",
+    "description": "تزوير عقود عقارات مشيدة فوق أراضي الدولة ففاس: إحالة محامي معروف وكاتب عمومي على غرفة الجنايات كود",
+    "published": "2026-03-30T07:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "تزوير عقود عقارات مشيدة فوق أراضي الدولة ففاس إحالة محامي معروف وكاتب عمومي على غرفة الجنايات",
+    "collected_at": "2026-09-22T12:45:17.456203+00:00",
     "mentions": 1
   },
   {
@@ -62411,6 +63840,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "تعبئة 33 مليون درهم لإحداث منطقتين اقتصاديتين بشفشاون وتارجيست",
     "collected_at": "2026-09-16T12:42:17.337131+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "ارتفاع أسعار العقار وسومة الكراء بالمغرب - برلمان.كوم",
+    "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPbER5aDVlMlk4NWxWRlFDTW9Ca0ZVUzR0X2FhMDMzX3lOSEgwN3ZPclh3MFdsbTZ2eTlWbF9Qb1VjSHRpTzAtWGdnSFVDTTJWUHR3YmdhQkpmSExhMm5rcEF1ejJBWTJSTk9VUVJ2NTZIcGNmcF9ORXhRbEVxSkcwUHBURGYxU2VvQlRZX2szOVNkTjl5N3dwbmpxdFlLTk1aUUtHYVFYR3FVWG1HMXFIYzVrM0hCR1lpbE1lUXlDUzVOSnJpZ1I4TDVxMEN3aW9ycXNiOUZMV3hZMjRBWlgwU0hpZFlJaGJnX0l0UENISmVRZHFQX2wtVDVEeWY1ek93TG1CajVfWXZVOFFsWndQcElDM3pRY0lvUmVWM0FKMnhyYVVsZjVRcEdTV2k1THNVNUZvRGlabjducF92NVR1bW13?oc=5",
+    "description": "ارتفاع أسعار العقار وسومة الكراء بالمغرب برلمان.كوم",
+    "published": "2026-03-21T07:00:00+00:00",
+    "media": "برلمان.كوم",
+    "media_domain": "barlamane.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Location & gestion locative"
+    ],
+    "primary_theme": "Location & gestion locative",
+    "dedup_key": "ارتفاع أسعار العقار وسومة الكراء بالمغرب",
+    "collected_at": "2026-09-22T12:45:17.993345+00:00",
     "mentions": 1
   },
   {
@@ -64295,6 +65742,24 @@
     "mentions": 1
   },
   {
+    "title": "Marché immobilier : ce que cache l’étrange stabilité des prix - LesEco.ma",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZWlGUzQ3dDZ4aGF5M0JYalRmZ1lyLUdLLXV4YUJVUEMyNHo2bWlNZWR2N0V2UEI2LVUtSUdNUEZYT25qWTRRT09VeXlCclVYRkk3TG96bm1xazBtb2ZGTF9DX1NVbkpyZDhCZVI4UnFzVS1HZ2lhRFZCNVB0WGdEeFdxVURrZTBZZkc3dnFGQWQwWXZO?oc=5",
+    "description": "Marché immobilier : ce que cache l’étrange stabilité des prix LesEco.ma",
+    "published": "2026-02-06T08:00:00+00:00",
+    "media": "LesEco.ma",
+    "media_domain": "leseco.ma",
+    "country": "Maroc",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "marché immobilier ce que cache létrange stabilité des prix",
+    "collected_at": "2026-09-22T12:45:10.496734+00:00",
+    "mentions": 1
+  },
+  {
     "title": "La Belgique est confrontée \"au plus grand défi immobilier depuis la Seconde Guerre mondiale\" - La Libre.be",
     "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOb3I4Mk02a0NKTkNqbmRWdFdHd2theDhIX0xLMnJObUR0dEQtZWJTSVpkMWdybzdvUGN2ekhLZGVhZ2Uwdmd3aGs4SDRlVUc5RU9mOGVIWFFpUmxrZ3kwc0lXQ0tFTzZfbDQtR201RXhuOURGNDVBVUdiR2poWWw0RXNlaU1MT2p2OGNzbkd2UUlnU0pRelV3Y3htR0VOTDB1LVZHeHVldWR2RTBNRzBsal9TRzJXSm1TMUNFd0NpYU1mSHYzY2xKZGFOVlZIcDNYaEJnOEIzbFNlRnVNbnJCQjZSbmtwQTl6bEcwUFpfbThCSHB3V2lXMXdCSHpDOW1ubW5QTEdTY3ZNRGlCdElaMVpxOXg0NzQ?oc=5",
     "description": "La Belgique est confrontée \"au plus grand défi immobilier depuis la Seconde Guerre mondiale\" La Libre.be",
@@ -64650,6 +66115,25 @@
     "primary_theme": "Non classé",
     "dedup_key": "uk real estate sector 2026 and beyond",
     "collected_at": "2026-09-15T12:46:55.732679+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "عقارات طنجة تسجل قفزات قوية في الأسعار وتتفوق استثماريا على مردودية الكراء بمراكش - tanja24.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOZnYzMkJjbHc0cGo2WjU1V2t4SlRQZVZ0a01oSWx1TlgzaUw0VEZXR2tZZVBHcWs1NlZ0ZUNYS2Y3anM2X1pPTzlHbTQxYTF5WFppSnJMWE5TUW9lSHRpREQtMDNlQVlYck9RSG80dm03bE05U21rWEh3a2U2M3FMWS02WDFzYVk2Yy0xZ3IySUJRdVo5MmRaa3RiTXFETlJUbHBhR0lDbU9KNWswSTNXV05TSU5qclpuTnhtWWJUSjJJbDhwMmFQall6bkpGQ1V5MThiMmJUM1dzQndKZUR0SzVTTERtLW9DdjlpOWh2eGFwTGY3bGpFZG56THFUOWxTTFZJaFBXRy1VbnZnVndqb1Y5T0Z0dEdnYVhOYnZ0QU93MHZPeE1MUTdlNjRQU2IyM1JJb0lvMmRtcDFhWUc3SQ?oc=5",
+    "description": "عقارات طنجة تسجل قفزات قوية في الأسعار وتتفوق استثماريا على مردودية الكراء بمراكش tanja24.com",
+    "published": "2026-01-21T08:00:00+00:00",
+    "media": "tanja24.com",
+    "media_domain": "tanja24.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Investissement",
+      "Location & gestion locative"
+    ],
+    "primary_theme": "Investissement",
+    "dedup_key": "عقارات طنجة تسجل قفزات قوية في الأسعار وتتفوق استثماريا على مردودية الكراء بمراكش",
+    "collected_at": "2026-09-22T12:45:11.110110+00:00",
     "mentions": 1
   },
   {
@@ -65640,6 +67124,24 @@
     "collected_at": "2026-09-05T11:20:52.012531+00:00"
   },
   {
+    "title": "خالد.أ - برلمان.كوم",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XSXRxZFV5bk9DX3pQZjRzU1hyRE03R1ZUaEtKUGdSbnBHWlE0SmNzR1ZTQnR0YzR5V1NfbUJaZnhnWWh1UEc5UG1nQU13eUtCeG9PTTlsVG4?oc=5",
+    "description": "خالد.أ برلمان.كوم",
+    "published": "2025-11-18T07:21:30+00:00",
+    "media": "برلمان.كوم",
+    "media_domain": "barlamane.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "خالدأ",
+    "collected_at": "2026-09-22T12:45:17.997769+00:00",
+    "mentions": 1
+  },
+  {
     "title": "المرصد المغربي لحماية المستهلك يدق ناقوس الخطر بعد زيادات جديدة في أسعار الأدوية الأساسية - برلمان.كوم",
     "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPbXpaWTNUS1ZRREhSMlk4d21NemRweVU3MVU3cWFrenJUUURsUVdteUdvc08tRUF1Zl9xNmV3QWpUbEwxUmh2ajV1WFhtY29nTEltQzZXYXpxeFhnRTkwLURGNWZ4d0ZUTnktY3JUZDRrTXBTcVBKY3d0bmx2cUJBX0tqcElDOHI1V1FkS09NZGFTOGEwN1RZNEktVlF5NHZNMnFwNzYzWG0xT1Yyc2ZtZ2dIY3h3R0thdURTZlBPVHFuU1p4bk0wVE9RSDdPTE9PNWhYT1M2NHJ6ZUtkblU3ZEIzNm5TdGNDOUdwSGwtWDRxeGpNaTVqcFhJNGlaakd3TXUwMDYyRk1McXpFTEZVVzdNQUlDVk4yTE0wTXhUTWhXblc4VC1Ba1FReTVhMUkwcURkNUJtRWlLM1ZES2VLQTB3?oc=5",
     "description": "المرصد المغربي لحماية المستهلك يدق ناقوس الخطر بعد زيادات جديدة في أسعار الأدوية الأساسية برلمان.كوم",
@@ -66056,6 +67558,24 @@
     "mentions": 1
   },
   {
+    "title": "طفرة السياحة ف بلادنا خلات سوهو الصبليونية تفتاتح أوطيل جديد ف الحي المالي فكازا - كود",
+    "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPUzV4UE5wcEp6QmxtWUh2WHVBU0tGOTNXSWlQcjhacXZEaXhHRzBWSC1iNDdxUnJEQ3ZHNndXeXJQNDdRbVM0Z013Y192TDA0cnRKQllYWjNBSHQtQ3pxaHRYZVVRV2xVR0VMTGk0b0lOcTRIdHVSTGx0MFIycUhJQkQ3eWJ0VW1zNmx3TVJiTTNlUFlJMl9YdE5WMF9ULUpHZjQxeFhVYVFCdzU1N1hiZFpnQVg0NkFkQUlYUGpPbFhNV2tMUHJNX2hkNEU5OHpxdGZJeGVad1poeXRFQ2VzMXRFTFdMMm8wTFB2UENqcmEzaGgxQ0NuQ3NWS1FNWkxxZ0syaXFjMFphSFdXWEkwblg2bHBnTEFNbmluMVpIMV9uZzQ2NmZ0YjlJUDVHZ1d5Z0c1ZUd6cm5STGpMbE5Mc1V4VkNQWENFeXc?oc=5",
+    "description": "طفرة السياحة ف بلادنا خلات سوهو الصبليونية تفتاتح أوطيل جديد ف الحي المالي فكازا كود",
+    "published": "2025-06-28T07:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Tourisme & résidences"
+    ],
+    "primary_theme": "Tourisme & résidences",
+    "dedup_key": "طفرة السياحة ف بلادنا خلات سوهو الصبليونية تفتاتح أوطيل جديد ف الحي المالي فكازا",
+    "collected_at": "2026-09-22T12:45:17.453718+00:00",
+    "mentions": 1
+  },
+  {
     "title": "\"شناقة\" ووكالة أجنبية غامضة يفرضون أسعاراً جنونية حولت عاصمة السياحة في المغرب إلى وجهة للأثرياء فقط! - أريفينو.نت",
     "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQb3NiZE5pTGxMbTdLQlBSOU15dEhkdVBPNzdBVXIzbHRrbTVsWmdlNlVkTXJQVmpOWW5iczNHbDd6Q0xwdWh5NUNSWkpZSkVJRHNfbERFaS1lamRWSmZoYktGWDZGc0hLTFFHTXE1cjZNbHpfeGpzUkFzXy0yNzZzVkE3ek9saTlweEZHZTlMUUt3WU5LMElsVWdEX2ZoTkUybmlQa2g4a3g0T01rdTUyaGo5cHI2bS1kUkFoOVRMX1ZFUjhpbU9LYzBuTU5BNTE5ZWpPNU9GY2FtYUh0VVZmN2ZsMjhoaDE4V19kX1JJWkxPRC1TVFJWRUZXcW1yX1V6aXkzMTFQdng4dV9GQzJLOUpYMEZXWklZSlpYRkNNV2RVR2RrazRzQlNKUkhscDhsOUJDd3QxM1VIcjNXNHVDWjlYSFhUUlJfb1M4?oc=5",
     "description": "\"شناقة\" ووكالة أجنبية غامضة يفرضون أسعاراً جنونية حولت عاصمة السياحة في المغرب إلى وجهة للأثرياء فقط! أريفينو.نت",
@@ -66107,6 +67627,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "بنك المغرب ارتفاع سعر صرف الدرهم مقابل الدولار",
     "collected_at": "2026-09-18T12:18:43.531591+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "بنك المغرب: الدرهم يرتفع أمام الأورو والدولار - هبة بريس",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84aEJER21YNV9yY2F3Y3p2amRqVGhOMVY0b2RVRzJxQUVWQWp1bWs2N00wdmxFQUVWTHNCTmFMWExGZU5SaTJBX0hyTzBMOHdxaHpTd3FPWQ?oc=5",
+    "description": "بنك المغرب: الدرهم يرتفع أمام الأورو والدولار هبة بريس",
+    "published": "2025-05-11T07:00:00+00:00",
+    "media": "هبة بريس",
+    "media_domain": "ar.hibapress.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "بنك المغرب الدرهم يرتفع أمام الأورو والدولار",
+    "collected_at": "2026-09-22T12:45:16.906968+00:00",
     "mentions": 1
   },
   {
@@ -66180,6 +67718,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "بوعلام العقار والصحة الأكثر تضررا",
     "collected_at": "2026-09-16T12:42:16.819499+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "افراد من عائلة بودريقة عند الوكيل العام فكازا - كود",
+    "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOeHdkTU80VFhmbzNuUW1lTEhFWGQxWWx4aGw3Tlc1Y0RZdkQ1QW1iTWdmVXdlQVNBZGtfd3FIRzRhR1JPcTJBSlBpcUg5UDNyRC1NQkwwQlB5a04tLWx6eGdUMV9wSXZyRWRfOVdCQzFEY1NtcTRIZGpkSHBvMC1WYVVENmpuNktqTExseXNxamFfQ2FnM2xEZ0tUTGNYMmJ0dnV0aGVvUkVPMzZYNlpyVHFGRmRkRWRlWG5MbkloQ0FtZDRoek1iQkR2b0tRVUNoVXJPN2pqWHc1ejFhbFF4bHZOZ1FMZm5tdGZrMnVOWk4xbmRkb2tpQURfODJiVllRM3ROVWFEOHJ1YXl1eG50dDVva1ozcmtIcFhwNjNDckJhcWhORXRlbVFtN0NJekstTnBBbWplNUl3dlZIcTd1a0YwMjlINldzVUE?oc=5",
+    "description": "افراد من عائلة بودريقة عند الوكيل العام فكازا كود",
+    "published": "2025-04-16T07:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "افراد من عائلة بودريقة عند الوكيل العام فكازا",
+    "collected_at": "2026-09-22T12:45:17.455832+00:00",
     "mentions": 1
   },
   {
@@ -66558,6 +68114,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "مشروع إحداث قطب جامعي بجهة كلميم واد نون يسيل لعاب مافيا العقار بالمنطقة",
     "collected_at": "2026-09-16T12:42:18.376194+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "حضور مغربي لافت في قوائم \"ذا بيست\" 2024 - هبة بريس",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZQWV4cVJHVS1odTN4b2tmb3l0N3c0cktRN2w0SWM1MkRYQWhvcGVRUGh1TzZrLWRkMjVjTlZlOWEzLVlPMVRaRWJubndSQVBpbmxoUEJycw?oc=5",
+    "description": "حضور مغربي لافت في قوائم \"ذا بيست\" 2024 هبة بريس",
+    "published": "2024-11-29T08:00:00+00:00",
+    "media": "هبة بريس",
+    "media_domain": "ar.hibapress.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "حضور مغربي لافت في قوائم ذا بيست 2024",
+    "collected_at": "2026-09-22T12:45:16.908003+00:00",
     "mentions": 1
   },
   {
@@ -67120,6 +68694,24 @@
     "mentions": 1
   },
   {
+    "title": "بعد انضمامه لنادي المصنعين الكبار.. صادرات المغرب من الطيران تحقق مداخيل قياسية - هبة بريس",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pS1NtSmQxSXhyNVoxajBndGJVWHJZZTV0Mmt5bFo5cmxYSUh3WU9vZjdzYm1wVzBINWVoLWFaaXR6bmJoMjV3ZEhlUUkzYlRLYTlkLS1xdw?oc=5",
+    "description": "بعد انضمامه لنادي المصنعين الكبار.. صادرات المغرب من الطيران تحقق مداخيل قياسية هبة بريس",
+    "published": "2024-07-06T07:00:00+00:00",
+    "media": "هبة بريس",
+    "media_domain": "ar.hibapress.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "بعد انضمامه لنادي المصنعين الكبار صادرات المغرب من الطيران تحقق مداخيل قياسية",
+    "collected_at": "2026-09-22T12:45:16.905387+00:00",
+    "mentions": 1
+  },
+  {
     "title": "المنتخب الوطني المغربي يرتقي في تصنيف \"فيفا\" - هبة بريس",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sbzdweWJINHBDbGdGOWdnbjRFeG51bG1kZTh4NVZXekhTaVBKY2kwcEIzRzQtNng4ZGJNX0lqWlRiS1RvbmJNaE5VU0RlaDRmMjYzRlgwZw?oc=5",
     "description": "المنتخب الوطني المغربي يرتقي في تصنيف \"فيفا\" هبة بريس",
@@ -67261,6 +68853,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "4 سنين من تأسيسها حركة صحراويون من أجل السلام ميلادنا كان استجابة لطموح الصحراويين وكفانا من التضحية بالشباب فالحروب",
     "collected_at": "2026-09-20T12:32:57.117855+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "برنامج دعم السكن.. معطيات رسمية: 8500 استفدو وشراو ديور وكثر من 65 ألف طلب للدعم منهم 38 فالمائة عيالات - كود",
+    "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQa3cyR2VDNF9RLUhJd1JNZEdyckNlNFdWejlDUTlfWmZITmxVcm5oWGR2QWI1LWtwTGpyeTVYWllGWXZ3MjAtaDJUVEk2RWp5QnhKeUFSOXNoT1Y4RERhZEpIeGhEUnluWEFUbTFhY1dLT2llYkFmZll6TktaMDVreUNsUjQzX1hYUW51THpodjRtRnlGRXBLMGVXa016eXhsSHVmVllfbDVLRko4dU96QmdTbFZTSUlZMmlubTMxd1BqckROZ0l3X0tmYndPMWF5blROQklGMjVGZmY2dVZkN1VOYVBqeUJIMGI5a25MVlNPZWxEcEFhOVQtbXVZUWk1T1paRmk1NHVGUUdTY2Ytd3ZybDNyVVNCSEdnV3czcWtycFplajdJcVItVFV0UTdZZVlJOUVIejBMZnRkcU8yUlcyVVdrN0E?oc=5",
+    "description": "برنامج دعم السكن.. معطيات رسمية: 8500 استفدو وشراو ديور وكثر من 65 ألف طلب للدعم منهم 38 فالمائة عيالات كود",
+    "published": "2024-04-24T07:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "برنامج دعم السكن معطيات رسمية 8500 استفدو وشراو ديور وكثر من 65 ألف طلب للدعم منهم 38 فالمائة عيالات",
+    "collected_at": "2026-09-22T12:45:17.456789+00:00",
     "mentions": 1
   },
   {
@@ -67426,6 +69036,24 @@
     "mentions": 1
   },
   {
+    "title": "الجزائر على قرار المغرب مصادرة العديد من العقارات والأراضي التابعة ليها: “غانردو على هاد الاستفزازات بكاع الوسائل المناسبة” - كود",
+    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMS1nVnJCLUJqbWV4MFJ0aEMzdkZCUEc2djhHNkdTT1JsMTZ1Y29JMHlVbXVEVHFJcGRCeWxHOXI5YUp4ZDN3ZE1NNkhQeXlVa25KSVBpTGJFVEFFN21tcUM3S0VYWUlpeEZ2RjQtZFE5Yjc3aDlPcmh2NHpFVzdJM1ByMFNQT3RfazVYclR6eVhwMlB2aVhOclJOYU1RWVVqWWJnWkZMWUUyb3FrSW0tTEhybklpVkVnX3NCT1lCZVJYSW81dloySkhGM054WnM4WkNnTUNJNTJvVUY5VlRrblY3TjhUYXdqM2RTWTRNUEthem9kRlY0YkJ3TGh1ZVB4VTZoLXh1Ym9ndVRjM3R0d2c0REVZUEwwdXpERzZ6bDNvYURMUHpkM00ybGpTMWhtS3BVXzJkZU90SlpKVU1vdlFuR2RqT2Nx?oc=5",
+    "description": "الجزائر على قرار المغرب مصادرة العديد من العقارات والأراضي التابعة ليها: “غانردو على هاد الاستفزازات بكاع الوسائل المناسبة” كود",
+    "published": "2024-03-17T07:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "الجزائر على قرار المغرب مصادرة العديد من العقارات والأراضي التابعة ليها غانردو على هاد الاستفزازات بكاع الوسائل المناسبة",
+    "collected_at": "2026-09-22T12:45:17.449338+00:00",
+    "mentions": 1
+  },
+  {
     "title": "الحكومة المغربية تُدرج 3 مباني مملوكة للدولة الجزائرية ضمن قائمة العقارات التي ستُنتزع ملكيتها لتوسيع وزارة الخارجية - الصحيفة",
     "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQR1pHeFBfZFJhWHhjb19mNTVKV24tR3RDZnF4c1hsdU5JQzBXdW03em83Ny1SOVRGaVFRRjlpc0RhWFdDSjhoT0RicDVsVTZIeF9oeDc0Q0JWdzNrTkRtVjU1SzFuN3B0bjAyQ2w1R1Z1eDVBRnlOcFhZZHdMOGNlakc4Wm1GUGg1eWRpN3BaZ2xtbUI1YUVQeUc3NjF1TVlEQW0xN2VFWWtjeS1FU3J4Y0x4TWpJZ2JLVFpnWFY1RFBQS21LTWtlUlRnRXlVVC1Nb283eEFaSTJEUWtwSmpSOXRJU2lNZ1ozeVgzdDZkYTZHNnhTMTVtWXlXRzM2VHg1SHQyRlVvcms3QUcwYUpBTDZ0N0ZaeVpPSHpzUE93amNEcVFhRzNCTnFpcXI2TEpfUzJHTVhVd0lhV2tsZXlJMGpQWmtnRXdf?oc=5",
     "description": "الحكومة المغربية تُدرج 3 مباني مملوكة للدولة الجزائرية ضمن قائمة العقارات التي ستُنتزع ملكيتها لتوسيع وزارة الخارجية الصحيفة",
@@ -67570,6 +69198,24 @@
     "mentions": 1
   },
   {
+    "title": "قضية البرلمانية السابقة امباركة توتو.. جنايات فاس استدعات جماعة جرادة وهاد المرة عن طريق النيابة العامة - كود",
+    "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPaHFSdy1iWHRLZTl3MWRLUTk1bWhHSjFLLWQxSUVtbDJVd2R4WkM5dzB1TU82SW53WVZ4TDB3TndsOVZXVXlabEJuaENTM2poTzhOeDhjUlN5LWRURTh2Sld3MEVSUG1yZ2lDN2k4VVc1N1NuM0pPVWRqTUVVQ05mUVluUFlvcktEV3k2WE5OU1c3Z1BfZVAySG5Hb1NiT1Y4SXR1OUJSTTNRd1Q0dEV3WTBGc0MzSjYxLTM1ZEtOeml3elVha2h2VG9fQThUeENFeTk5STRSWEU4TThibkJUWWd0NHU0RjVGdDBhcGtWZkxfdlZuYW9zRHBMeURESGU2QW0wc3RXVTJtaGpBUElrSlZYMlJmaUYyUVl5YS1VUk5rTEc4MGphMlN1SHlGOGRaZ1FQUi1UWTZuckhPUHVYRTByUU5WMmM?oc=5",
+    "description": "قضية البرلمانية السابقة امباركة توتو.. جنايات فاس استدعات جماعة جرادة وهاد المرة عن طريق النيابة العامة كود",
+    "published": "2024-01-03T08:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "قضية البرلمانية السابقة امباركة توتو جنايات فاس استدعات جماعة جرادة وهاد المرة عن طريق النيابة العامة",
+    "collected_at": "2026-09-22T12:45:17.456469+00:00",
+    "mentions": 1
+  },
+  {
     "title": "بعدما سالاو التكوين الأساسي… الفوج الـ38 من مجندات الخدمة العسكرية أداو القسم ومزال أمامهم المرحلة الثانية - كود",
     "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOUVZUX2JBNXNWNTdLM0EybmtEUzMyMDdUOWVuTmxvdDVSblJWbjVCaEd1SWdFS0JCaUJuUGsxTzU3UXQtUURyeHo4UElKN3FlU2xxSGZVbXZYUWJnWEFqYXF6T0RaZ0FMdEhVejVXVHRTZXdjQWN3VXJwZ3VUY3ZpNnNacl95dkpsbXVQVEd5YjJ1dkZ1WVFRM1ZHM3BiMEpnazY1UDFCN0RpY3M4NEd2eTIydU1mb1VrMmRtb1ZJNE1EaG02dHpuSmFYU1h3Zl9WZExKX29QRlJ3R09KWkpQblIweF9NOGdVSFlQTlgzbWNoc1lyN1NER05tRFptNklTMFVuNWpDTEZnTWhFZ0lMa25WSWhiX1FINFZscEVWckE0eDI0YXBUT0VONGlsUTNRSHF6Q0F5V0ZhUm1KZnBFMWFabkY2RDY1?oc=5",
     "description": "بعدما سالاو التكوين الأساسي… الفوج الـ38 من مجندات الخدمة العسكرية أداو القسم ومزال أمامهم المرحلة الثانية كود",
@@ -67639,6 +69285,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "بنخضرة تكشف مستجدات حول مشروع أنبوب الغاز المغرب نيجيريا",
     "collected_at": "2026-09-16T12:42:17.336221+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "الركراكي: “المنتخب المغربي قادر على الفوز بكأس أفريقيا بشرط !” - هبة بريس",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xVG56TjhEQmdEMWYzdXBIbmp0WlFBS042VUUyWmJubm5COUg5TjhNSW44ZTRqUjllSEZhT3g3RERsbTg3eUZsa3dUZmcyM3R5ektmRHhLSQ?oc=5",
+    "description": "الركراكي: “المنتخب المغربي قادر على الفوز بكأس أفريقيا بشرط !” هبة بريس",
+    "published": "2023-12-16T08:00:00+00:00",
+    "media": "هبة بريس",
+    "media_domain": "ar.hibapress.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "الركراكي المنتخب المغربي قادر على الفوز بكأس أفريقيا بشرط",
+    "collected_at": "2026-09-22T12:45:16.905999+00:00",
     "mentions": 1
   },
   {
@@ -68039,6 +69703,24 @@
     "mentions": 1
   },
   {
+    "title": "الحكومة: اتفاقية “تبادل المعلومات” تهم الضرائب وليس منازل وأراضي الجالية - العمق المغربي",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9KNVMxOG9qMVRFQ0haX1k3c0pMUkZmQ21jSERoeHo1TEJoRnZoSWZ3NEtuZEJOeldRX3Q1bUFDZkpGYThm?oc=5",
+    "description": "الحكومة: اتفاقية “تبادل المعلومات” تهم الضرائب وليس منازل وأراضي الجالية العمق المغربي",
+    "published": "2023-07-18T07:00:00+00:00",
+    "media": "العمق المغربي",
+    "media_domain": "al3omk.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "الحكومة اتفاقية تبادل المعلومات تهم الضرائب وليس منازل وأراضي الجالية",
+    "collected_at": "2026-09-22T12:45:11.111419+00:00",
+    "mentions": 1
+  },
+  {
     "title": "ودائع الأسر المغربية لدى البنوك ترتفع إلى 837,8 مليار درهم - هبة بريس",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NeG1uR2tWeEhVYjJzb3pMRE9uaGg5WmdqSUJienBEQXVKbTl1d3h0ZHhubGFMbFVGZVpnOGtrR2VGM3hwZ2xodjFXRlBFRldtVnV1SjRuaw?oc=5",
     "description": "ودائع الأسر المغربية لدى البنوك ترتفع إلى 837,8 مليار درهم هبة بريس",
@@ -68382,6 +70064,24 @@
     "mentions": 1
   },
   {
+    "title": "التعمير بالعالم القروي محور لقاء دراسي بطنجة - Assabah",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1GX0IyY0RzcWltVy1jUnBBUVE1cmdXV2FuU0lwRGJFSkw5ejhCZ05pR2NtWDFkb0htT3lSNTFtU2JwQVFk?oc=5",
+    "description": "التعمير بالعالم القروي محور لقاء دراسي بطنجة Assabah",
+    "published": "2023-02-19T08:00:00+00:00",
+    "media": "Assabah",
+    "media_domain": "assabah.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Foncier & urbanisme"
+    ],
+    "primary_theme": "Foncier & urbanisme",
+    "dedup_key": "التعمير بالعالم القروي محور لقاء دراسي بطنجة",
+    "collected_at": "2026-09-22T12:45:16.321713+00:00",
+    "mentions": 1
+  },
+  {
     "title": "جزائريون يوجهون رسائل قوية إلى تبون وينبهون إلى افتقار بيوتهم للغاز الذي يقدمه لفرنسا (فيديو) - برلمان.كوم",
     "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNNV9RMWJzLW1fa3A3Q3VMU0dVbFh1b0k4YWNhYjVTdkNJZXVvRDNqajh4Z3dJWkx5UW9iWVhSbzc5Mkc1aGtuenFGbUJqVGV1bVRrSVFsQTRWZTQ4RjY3RzJZLUFCYnItTFhkME9Icm1HY2dnX3FITHVPX2JFSFFrYUh5YWFjU1JwWUZTaW93RGNBMUVxQU1rMExaUnVNa1d0anNUSVViaHlIM3dNU0c1TDNYYW5tSWlqX0ZoOTlpRjVTMEhtaHlXZlRYaXN1X1RyMHI5YmFFNHpKU0NHdFNubVo4UzJVNDBqQTRxd0FvbzhWZUI3SHVZeEtNU0NQTnpZNnpGS0MxcVVka0tqWGk1WElfNHBlSTNsNFZNSXdPZl9jb18xY0xZalh2SFJjYVR5aHVzSEM0c1FuNmt3bUJlOC1CTQ?oc=5",
     "description": "جزائريون يوجهون رسائل قوية إلى تبون وينبهون إلى افتقار بيوتهم للغاز الذي يقدمه لفرنسا (فيديو) برلمان.كوم",
@@ -68397,6 +70097,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "جزائريون يوجهون رسائل قوية إلى تبون وينبهون إلى افتقار بيوتهم للغاز الذي يقدمه لفرنسا فيديو",
     "collected_at": "2026-09-16T12:42:18.381587+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "خاص.. الوزير بنموسى كلّف قضاض باش يكون كاتب عام فوزارة التربية الوطنية بالنيابة وسط تقرب لتعيينات جديدة - كود",
+    "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPZDFCYkVxUWFIWXFsU1gtT0FnZVNQaFk1VXo4Y3EzSG1Jd0FTNTFoMl9mX1pyQTZNX0hoMVJtNjNHZFR0dVg0U3NKODdoRkJrMkV4aC01R0M0aEdpNmMzRXE1M0I2V1dub0NKRlRoN1FkR1JoVzNWNjF3MU1TeVcydkRPUTVEa1h3U1Z6R0NRM1dUWkVXVm80Tk12d2h0ZlNWVHludFE0Q3A3LXZXMURRejdzZlZIY29oa0Vob0FZTzU2N3R4cmZSd04wbmhCZFZISWl4NnBxSUFSMkVyR1VzYUVYbWVxVG90aGZIcjNhSF83QTRxNzNZZDkxakx5dEQteDhlajBzbzdJZzZaLVRsVUlyY242Y0VYNjVDb2lWVkRSZjVPM210cUNfZnNrM2VPdXY4MXFQOHN3ellyRjR2dFFlZw?oc=5",
+    "description": "خاص.. الوزير بنموسى كلّف قضاض باش يكون كاتب عام فوزارة التربية الوطنية بالنيابة وسط تقرب لتعيينات جديدة كود",
+    "published": "2023-01-19T08:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "خاص الوزير بنموسى كلف قضاض باش يكون كاتب عام فوزارة التربية الوطنية بالنيابة وسط تقرب لتعيينات جديدة",
+    "collected_at": "2026-09-22T12:45:17.456627+00:00",
     "mentions": 1
   },
   {
@@ -68508,6 +70226,24 @@
     "mentions": 1
   },
   {
+    "title": "تورط منعش وموثق في تزوير عقار - Assabah",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9UclRZamJ3cnAzeGRWYlVPSkpUZ0stU0t4aDJoMEtCQ2x3ODhRcW51Y0ZFSDgwbVV5bXp4T3A3dXgxdzBj?oc=5",
+    "description": "تورط منعش وموثق في تزوير عقار Assabah",
+    "published": "2022-11-05T07:00:00+00:00",
+    "media": "Assabah",
+    "media_domain": "assabah.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "تورط منعش وموثق في تزوير عقار",
+    "collected_at": "2026-09-22T12:45:16.319843+00:00",
+    "mentions": 1
+  },
+  {
     "title": "توقيع اتفاقية شراكة بين التجمع النقابي الوطني للأطباء الأخصائيين وتعاضدية مستخدمي الخطوط الملكية المغربية - برلمان.كوم",
     "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNYmw5Mm9sWElrNFUzRkxBWU5jUmp6WEdhMFRhbVNMbXRkR3VwYjhmOGo2TDlSYnNld2tkYzdiaFlQVnZicU5DZ2g2RFhPTjEwN2FnakM3NFZmUE90T1R6VjNXQ3l5SE1jRmNqdHFpR1BaQTN4OE1RbW9UbWVFQkh0eEluYllNYzlSN19EVmJzRVpRaVM3UUEtVG5IU3RNWXI5WXRKVWlPaDU2SzF5UjQ3RkJ1VHk0RERBYndkckk5Z0tLYzZTeW5vX3VnRGxzbm90eGZCaGNoTTVwYjJNX25GUjZTQnJIdzRCTk1iWnZCZExzX3E5ZmVGakl3MHRNbVFhQkZLRjFtbGt6b29hNzF5OHlYbDlsbWhabzljN3JSdjVTYVBkQXQ2MEZPM3pYUUJQam9SZExMN05UNnpLZHQ0cEd3?oc=5",
     "description": "توقيع اتفاقية شراكة بين التجمع النقابي الوطني للأطباء الأخصائيين وتعاضدية مستخدمي الخطوط الملكية المغربية برلمان.كوم",
@@ -68559,6 +70295,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "ها لائحة القضاة اللي تعينوا فمناصب قضائية جديدة فيهم عيالات خداو لأول مرة المسؤولية وثائق",
     "collected_at": "2026-09-18T12:18:44.091558+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "نهار كحل دايز عند البرلماني الفايق.. الصباح عندو التحقيق على الاتجار فالبشر اولعشية عندو قضية مافيا العقار بأولاد الطيب - كود",
+    "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOTW02ZnVzNlgtZUhLUXFIcVRTS2xENW14YXRzZnVpT2xiZXhRRl9PZDFCN0M5SC1yR1c3Z3JnNi1JUWhma0d3Zm5CZVB1dGhhM1ZqbjRpOWtnN0Y1S2RSb1QyZ0xJTFlCSEIxZDFDZDVZdEg2a0txeWRTQ3BpMWxCWndyWU10enI3Uy1yTWVIMXp2ZGluMzE1ekpJVGJ1OE82WU5XYWExM1pxN3RHMEVsMGxpWS1XQlAwM2pWRDdzeHQ3aWttTkZfOURUbHp5d0lQbXQwNnNRbUltRlcxSVU2b1dDVGZ3dGVvR01hMi1tVU5hMU4xTDNObGZON3ZKV2VyR0FrVUl4aWxYbjNER2pmZUlLZ05wdVFkbGhZOTVWWlJoWnBhU3BzbUVuQURqOUNPcWRqX0hTLXZtWkk4ZmR3U09GMzJHc3hKd1E?oc=5",
+    "description": "نهار كحل دايز عند البرلماني الفايق.. الصباح عندو التحقيق على الاتجار فالبشر اولعشية عندو قضية مافيا العقار بأولاد الطيب كود",
+    "published": "2022-10-18T07:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "نهار كحل دايز عند البرلماني الفايق الصباح عندو التحقيق على الاتجار فالبشر اولعشية عندو قضية مافيا العقار بأولاد الطيب",
+    "collected_at": "2026-09-22T12:45:17.456292+00:00",
     "mentions": 1
   },
   {
@@ -68721,6 +70475,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "قياد الضواحي وجع التراب",
     "collected_at": "2026-09-16T12:42:16.821880+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "وزارة الصحة تتعبأ لتأمين المخزون الاستراتيجي الوطني من الأدوية المعرضة للنقص والانقطاع - برلمان.كوم",
+    "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNSUJtUm9YXzZiOS1sOFloWGNTdWl0Q1VXcGNZUlhpMTJvTFJ1NDJmMkdFYkRIcjFqM1NEODBsT1c2SlU5LU81REl6VXJ5bERCc3NjZ1FGSEhHa2RLdmNCUjNkbUNHSjk3aW53bUkxMzlWMVlCR1hkU2JrOG9hRkhyYkpVdVNhdXpVN0kwMTJXdWY2RDJiOHFmd2RlR0ppTTZWbmoyRnNaVWxKbllWRjhqNFdYdFh4TXp0anRfYUtqTnFRdGYySlJMZVFOU0I3a2c4a2t1OW0wZ1N4WUJhSjBBSlVkYjBvV2lGaUd0TXp4RDc5NnZ1UENBalJXeGhodTJ1dzI3QllhM3UxUmxaUWZmS2tzNFpsbFo5bzl0UUZKNHdSVlE4OVBKUzVlTWlRcVhNRy03aTdIWW1iXzJnMzdZaTBB?oc=5",
+    "description": "وزارة الصحة تتعبأ لتأمين المخزون الاستراتيجي الوطني من الأدوية المعرضة للنقص والانقطاع برلمان.كوم",
+    "published": "2022-09-12T07:00:00+00:00",
+    "media": "برلمان.كوم",
+    "media_domain": "barlamane.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "وزارة الصحة تتعبأ لتأمين المخزون الاستراتيجي الوطني من الأدوية المعرضة للنقص والانقطاع",
+    "collected_at": "2026-09-22T12:45:18.000168+00:00",
     "mentions": 1
   },
   {
@@ -69300,6 +71072,24 @@
     "mentions": 1
   },
   {
+    "title": "الخيانة الافتراضية … قرينة للإثبات ووسيلة للانتقام - Assabah",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5JNmlUYlhfS3NscmZLVDJCRVBYMHRFUDByTHNyUG9keUJZdkprVkNSQWN1S2NpSXVnZ3dHV3pUckdqTWdJ?oc=5",
+    "description": "الخيانة الافتراضية … قرينة للإثبات ووسيلة للانتقام Assabah",
+    "published": "2022-02-01T08:00:00+00:00",
+    "media": "Assabah",
+    "media_domain": "assabah.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "الخيانة الافتراضية قرينة للإثبات ووسيلة للانتقام",
+    "collected_at": "2026-09-22T12:45:16.321579+00:00",
+    "mentions": 1
+  },
+  {
     "title": "آش خاصك تدير؟ … المسطرة الغيابية - Assabah",
     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9obU5Nb253MS1QaDg0YlZFMUk4dDFzR3doT1N3LURxbERXUndfLWRrNnFJNVl1bzZtU1ltSDB3VlhLLS1h?oc=5",
     "description": "آش خاصك تدير؟ … المسطرة الغيابية Assabah",
@@ -69660,6 +71450,24 @@
     "mentions": 1
   },
   {
+    "title": "سقوط زعيم مافيا العقار بسطات - Assabah",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GNXptSWgxLUFXLW9PdmR0TVhJRVBRRHZFWmdoem13eWhSVm5LWFAydlY0TzVrMnFQMkJhWnU2cW11U0Vh?oc=5",
+    "description": "سقوط زعيم مافيا العقار بسطات Assabah",
+    "published": "2021-08-14T07:00:00+00:00",
+    "media": "Assabah",
+    "media_domain": "assabah.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "سقوط زعيم مافيا العقار بسطات",
+    "collected_at": "2026-09-22T12:45:16.316400+00:00",
+    "mentions": 1
+  },
+  {
     "title": "تقرير: أزيد من 680 ألف شخص ممنوع من إصدار الشيكات في المغرب - برلمان.كوم",
     "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQTEREQTU3bFZVVHU2M2R6X3R4OTdxQnVzNnRjSlo5cmMzY3luVDVTWklIUVl4Tm9ROGxvcy01TGRqSEVVd2NHNEFybFJjQnRxdm1tRWRyc3hxYnh0MUpDR0dqbTRkWVc3UzlHUHctSXlSZkVCbkpHSXgtU1lMeXlRX0JfQktKT3JIZkFpbGJ4VEk3LTY5MS1ZeWpNb1h6RFVOd0NXYjJxSU9VZFZ5Yjl4dzVEVjgwRi1aYnp4aWdFVDRfUEZNdTF1WWtFZkltRHhDS0VXenAtTkQ3Y0lNbGE1bUVtQmxUN1JkeG5hUG1CWktNWnRDTkNRSnhaQlYzY0U5LVR0SVY0QWhqZDNvcThmNVgxcHozWXVBZFdLdFBlSmhTTWg4MDBHWWlCaTJDbnhuaGI1S0Y5Wl8xQUt1MVZBS1luaw?oc=5",
     "description": "تقرير: أزيد من 680 ألف شخص ممنوع من إصدار الشيكات في المغرب برلمان.كوم",
@@ -69675,6 +71483,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "تقرير أزيد من 680 ألف شخص ممنوع من إصدار الشيكات في المغرب",
     "collected_at": "2026-09-21T14:25:51.104971+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "بعدما رون المحكمة الادارية الاستئنافية فالعاصمة..رئيس اتحاد مقاولي المغرب جابها فراسو وقاضي التحقيق تابعو بتهم ثقيلة وها التفاصيل - كود",
+    "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNNFc5UmNtT2ZWLUtiYnNsajBtSWN6UkYySXZqN05HLWNHd1llemVSYm5RaG1YQ0hJb2lDWXgtXzZNdjM5cEJ0NnA3WEpUb2dqRE41bW45TjBwTW0tczJrTGpyWV9NWXlLVWhFNjV4a2RzcUVxUmxXVnFpbElkVnRwS0JjZERtX0hIRy03VFIzMnl2QXQ3N21JQ0g5ZE53VXdyN3VtWE9yNEhfNzl4SHRuamw3UERHVk44eEhNN3NfS3RxemtsLW40d1dxZGhQZThrRXpnNk9jY2kxNF9WWS1QdVNvZmE3V3dfRGJ2M1lFYk1oLVpGaHFoeHppMzJsdWdoc1dCNXh2S1NCS2dmRWhIejNSY3NZaTBfUUJvRElMSXctSVJ4XzN5c0M5Z3FtekxmakVadFk1Qnk4Xy12Z0E1Z1AwOVd3VTA?oc=5",
+    "description": "بعدما رون المحكمة الادارية الاستئنافية فالعاصمة..رئيس اتحاد مقاولي المغرب جابها فراسو وقاضي التحقيق تابعو بتهم ثقيلة وها التفاصيل كود",
+    "published": "2021-08-03T07:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "بعدما رون المحكمة الادارية الاستئنافية فالعاصمةرئيس اتحاد مقاولي المغرب جابها فراسو وقاضي التحقيق تابعو بتهم ثقيلة وها التفاصيل",
+    "collected_at": "2026-09-22T12:45:17.454724+00:00",
     "mentions": 1
   },
   {
@@ -70038,6 +71864,24 @@
     "mentions": 1
   },
   {
+    "title": "وصية تفضح سطوا على عقارات لورد إنجليزي - Assabah",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5GbzFMQ2kxT0o0NzJ6eEhoYVZfNUlTYVBQU2pVd0hnQlRYWmQ2Y3ZsOXMyX01qQTE4Q2x1VGo5ZUIwSEcx?oc=5",
+    "description": "وصية تفضح سطوا على عقارات لورد إنجليزي Assabah",
+    "published": "2021-02-21T08:00:00+00:00",
+    "media": "Assabah",
+    "media_domain": "assabah.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "وصية تفضح سطوا على عقارات لورد إنجليزي",
+    "collected_at": "2026-09-22T12:45:16.316672+00:00",
+    "mentions": 1
+  },
+  {
     "title": "أمن ميناء طنجة يحبط محاولة لتهريب حوالي 490 ألف قرص من الحبوب المهلوسة - برلمان.كوم",
     "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPblh1c3Q3TjFZbWtZVmRybXlzMlg4TjFrM0xxZFhlSG5oZEl4cVQzRXplZ3lmU0x1SXpmZmRBV1ZRYTJFME5BdFBfb2p3NlZzQ3ZPTWhLeEs3YXhxalYxYlhzV1E2NnJmV24wTWlLYmZDVTI3UlVfdGJfVGNmb3laNW5mOWpGdGJNTDFSQnhYYjh5VWRzUEJNa3BRRFNqcjB4ZklaMUZFZi1mN05KYXVPWk1Cc1Y5NnJtRkMyd1pXZTBXd1N2MmtVZ1ZMN01FRE44X1FEWE4wbW82aE1sNmN4aHN2VUpxYUFuSGNJUnpwSlByYzM0dlo2ZENuRnRWdURCX0xTZnZpbmY2Ukd0Sm12S2duRkJSY2xhNDFMb3VQSi1aZUhKODFkUThlMVlIYkZKRGo4LU1fT3ZTTWRSVkhiMGE1QQ?oc=5",
     "description": "أمن ميناء طنجة يحبط محاولة لتهريب حوالي 490 ألف قرص من الحبوب المهلوسة برلمان.كوم",
@@ -70089,6 +71933,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "طنجة توقيف مروج كوكايين موضوع مذكرة بحث وطنية",
     "collected_at": "2026-09-19T11:59:51.484051+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "موثق في سطو على عقارات ملياردير - Assabah",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9CUXFFek9hR0VUc2dNaklIbEliRDRucHFaR1A3R2NiWkduUW56ZE1Od2JWRkUtZlIwNkFBczBHd2JwVlJY?oc=5",
+    "description": "موثق في سطو على عقارات ملياردير Assabah",
+    "published": "2021-02-06T08:00:00+00:00",
+    "media": "Assabah",
+    "media_domain": "assabah.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "موثق في سطو على عقارات ملياردير",
+    "collected_at": "2026-09-22T12:45:16.316254+00:00",
     "mentions": 1
   },
   {
@@ -70365,6 +72227,24 @@
     "mentions": 1
   },
   {
+    "title": "عقارات أولاد زيان في مهب الريح - Assabah",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE16ZmJmSUFEWk1pZkhDRTB4WEViVTVfWmRkZTFjdUxxNGdIbFRXWGZEX3hxV3F5elBMWnhKV1dQQS10Qk1G?oc=5",
+    "description": "عقارات أولاد زيان في مهب الريح Assabah",
+    "published": "2020-09-30T07:00:00+00:00",
+    "media": "Assabah",
+    "media_domain": "assabah.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "عقارات أولاد زيان في مهب الريح",
+    "collected_at": "2026-09-22T12:45:16.315390+00:00",
+    "mentions": 1
+  },
+  {
     "title": "ارتفاع عجز الميزانية إلى 46,5 مليار درهم عند متم غشت - هبة بريس",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MQkt1eGx0Ymlrck11TW9DNzVCYVdsX3Q4OXExT0x2S1FIcVpxUVZYSGhJWEs4b3d6SXBtbTNJQ2t6M25MZlpvMUJLTHJqSFYzVXhnSXVtdw?oc=5",
     "description": "ارتفاع عجز الميزانية إلى 46,5 مليار درهم عند متم غشت هبة بريس",
@@ -70509,6 +72389,24 @@
     "mentions": 1
   },
   {
+    "title": "3 سنوات لزعيم مافيا العقار بسيدي بوزيد - Assabah",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE42dTR1Z0h5Q2kta21lOHNUek42c2E5UUREWk1RT1RZQlo5dEV2OHRKenVmNHVXeXJWSnVtMndRVHV1dnVV?oc=5",
+    "description": "3 سنوات لزعيم مافيا العقار بسيدي بوزيد Assabah",
+    "published": "2020-06-21T07:00:00+00:00",
+    "media": "Assabah",
+    "media_domain": "assabah.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "3 سنوات لزعيم مافيا العقار بسيدي بوزيد",
+    "collected_at": "2026-09-22T12:45:16.320117+00:00",
+    "mentions": 1
+  },
+  {
     "title": "بعد عامين على زواجهم.. نجاة الرجوي كتعبر على حبها لراجلها –تدوينة - كود",
     "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQUWRsMjc2UTUyQWlZSlRHbUxneWV4YVBoYWhLUXhzd2N0WTR6VDFESXpQdUYtLTFPS0tDd1k3RlZzeWdjaEpVaGVRNkU4cTBUbFU1LVhMNWtNOUNwZjJvRUcyYUY2dEJyeW9fMHpseWR5UHhGSzNoRnRaOExXYUhxMXVLNm5NOWxSOU1GZXUyS2drdVZXNkRqY1h2Xy1fTm9jYV9FUm1RTlUxMVdobngwNWlJZGNxWm9LM3lrVUF1UWI3Y2Z4Sl85azl4MXhZenJmQWJjTTFWQmFMZGo3Q1k1Y2JlNDE3cWppVzFvUnB1OUVUcmlFd0ZtZzg1U29VeERYQU1IbWR1RFljcVYwYmJJVzM2cnBzTTV0VHVfTUJDYzRiTi1HQ2JVYTJqcWRGUmZiQzZDc00ydXFJZEczVl96U1FiOFZmeFNaTXc?oc=5",
     "description": "بعد عامين على زواجهم.. نجاة الرجوي كتعبر على حبها لراجلها –تدوينة كود",
@@ -70596,6 +72494,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "شخصيات صنعت التاريخ فلمنغ مكتشف البنسلين عن طريق الصدفة",
     "collected_at": "2026-09-16T12:42:18.382006+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "عضو مافيا العقار يحرم من العفو - Assabah",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4wc0phWUVMSUoxREs5aEZtcnFlT09QaGw1MDhqb3BucVpkVlFFSEVzTF9RYUpHdjIyZGhKTjZaLWNXMndr?oc=5",
+    "description": "عضو مافيا العقار يحرم من العفو Assabah",
+    "published": "2020-04-16T07:00:00+00:00",
+    "media": "Assabah",
+    "media_domain": "assabah.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "عضو مافيا العقار يحرم من العفو",
+    "collected_at": "2026-09-22T12:45:16.319453+00:00",
     "mentions": 1
   },
   {
@@ -71337,6 +73253,24 @@
     "mentions": 1
   },
   {
+    "title": "رصيف الصحافة: شراء المغاربة عقارات بإسبانيا يستنفر مكتب الصرف - Hespress",
+    "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxObThKMGpWUHRXNElQd0p0NTNGcXUxeWpha08wU0xkUWZlaFZDX0tzQWVRUjIzaDBYSDdtU1otTUp3NVo4ZmFUUTh4VlB5TGQ4TmtUbUlZMzdWOENqeGRmdmRRdWtFTEp3b0Z2NGo4WTRvazZySTlaRXJxZjEteWpaOUtRT25OZlg4NDR5QnV5cmtVTldURXNiZmxOWnh5cGZsYXFGNXR6d3NWTGY5NDBuUUg1aTgybDgwTjhOVi1KaHVJWkFoMnp5Z2pDWno1THBCS05JR0lyR2JXN3oyMDVOZXZfUjBMWWtnTEZFQ2JRcURzLUpyQjJQaGxtZlh6RnRJMzh5cVBvTGFIbURXRFJSbkdIYk9Ba2ZtemVnOE9aREpBTV96ekRDWEVsOHl1X19KOTRxWnlNLTFRaEM4SjlLbzBVdzdWQUp5U3ZPaHFZZEdsV2VW?oc=5",
+    "description": "رصيف الصحافة: شراء المغاربة عقارات بإسبانيا يستنفر مكتب الصرف Hespress",
+    "published": "2018-12-21T08:00:00+00:00",
+    "media": "Hespress",
+    "media_domain": "hespress.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "رصيف الصحافة شراء المغاربة عقارات بإسبانيا يستنفر مكتب الصرف",
+    "collected_at": "2026-09-22T12:45:11.109002+00:00",
+    "mentions": 1
+  },
+  {
     "title": "السطو على عقارات بحسابات مزورة - Assabah",
     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9mSDVvc1dzSWJiZmVfNDlYWjNCMGV4cUVvZ2RIUktpWDhWWlRHX1Z1MjhQZm8tdUpzNXpHRnBReS1YOF9C?oc=5",
     "description": "السطو على عقارات بحسابات مزورة Assabah",
@@ -71445,6 +73379,24 @@
     "mentions": 1
   },
   {
+    "title": "حكم قضائي جديد ضد بوعيدة: غرامة مالية ويريب كلشي البنايات ديالو -وثائق - كود",
+    "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOYkxhUWpjZk1nSEtFOVlvRy1ETmxjTlR3SjdDaGNDVlN5ZllPN1VycHZqSWQ3RFFicHBxMHNudnBzR1NEVjdqV05Ta0UwOTB1Q3JfTi0yOWQwbHdOVjFkTmtGdWRqZUlycl9CdHN4LXJDajJ0ampxUV9UQ3ltci1JLWRvNVJlcTRlM3ZHMU5CUWFLV2lTMmhMbXd2Sl9fZXBncEFkT3FTSkZLSVNuLVgyQmFvUkJ6YS1wVV9uVVFIRHg3MGFBelJaREpmR0RfWk9aeVFYdVlJWGw1ZFdYM3pkTkxPS0N2S01ncy1ZUS1MQTMzS3dGYnFoVFBvVlNEZTRHZmtFN3lfYmpJdXZoTWUwa2hpdUp5VlZtRW5kcTV0a0dMSldHejJoVHpsTHQ5WUFadTJnWjZzTXRfdy0zU3ZOdkJhTE9kUmN5a3Jj?oc=5",
+    "description": "حكم قضائي جديد ضد بوعيدة: غرامة مالية ويريب كلشي البنايات ديالو -وثائق كود",
+    "published": "2018-10-31T07:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "حكم قضائي جديد ضد بوعيدة غرامة مالية ويريب كلشي البنايات ديالو وثائق",
+    "collected_at": "2026-09-22T12:45:17.448825+00:00",
+    "mentions": 1
+  },
+  {
     "title": "“العمران” تواجه تهمة السطو على عقار - Assabah",
     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBva1FWZlhHNENHU3lQQkpJTjNuN2REYnBGUWlEQTBPS045WWZWcEE5MEN3VnRhdFJhSXY2LTM4Mmg2WHFX?oc=5",
     "description": "“العمران” تواجه تهمة السطو على عقار Assabah",
@@ -71460,6 +73412,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "العمران تواجه تهمة السطو على عقار",
     "collected_at": "2026-09-16T12:42:16.820584+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "“مافيا” العقار تنصب على قضاة - Assabah",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9vSHNKU0FBQWlNQVRFVjBVR2ZRbEVSdkRyVm5mUXRjaV9JQVpGRlljQWtBbDcxbnJMRlJiU2lXZ1ZjcGs2?oc=5",
+    "description": "“مافيا” العقار تنصب على قضاة Assabah",
+    "published": "2018-10-19T07:00:00+00:00",
+    "media": "Assabah",
+    "media_domain": "assabah.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "مافيا العقار تنصب على قضاة",
+    "collected_at": "2026-09-22T12:45:16.315518+00:00",
     "mentions": 1
   },
   {
@@ -71568,6 +73538,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "سعيد لعلج اللي جاب مزوار للباطرونا رئيسا لمجلس ادارة سهام",
     "collected_at": "2026-09-19T11:59:52.000748+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "الأوقاف تفتح عقاراتها للاستثمار - Assabah",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBfblJteVFHVWVaZ3BZdnQ3RHpXazgzRjJSX0lnTEZiYlpVd0lmbzhtWlhXMGFmUjd2dVRlQ3lFNHhYWjdq?oc=5",
+    "description": "الأوقاف تفتح عقاراتها للاستثمار Assabah",
+    "published": "2018-09-01T07:00:00+00:00",
+    "media": "Assabah",
+    "media_domain": "assabah.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Investissement"
+    ],
+    "primary_theme": "Investissement",
+    "dedup_key": "الأوقاف تفتح عقاراتها للاستثمار",
+    "collected_at": "2026-09-22T12:45:16.316124+00:00",
     "mentions": 1
   },
   {
@@ -71931,6 +73919,24 @@
     "mentions": 1
   },
   {
+    "title": "جديد الصحافة: حجز وثائق مزورة باسم القصر الملكي - برلمان.كوم",
+    "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxONmEtQnltSEdmX0tpUlJfeWpBUU13RHpPT1I4NWN2MXBiWloxc25jdEFuWXlSWndGcnFaYXhCd2l4VHFxWE1SY3hJemlKRTBzV1lUWWhuazdianJQY0JycDl3bnZYY2V4T2F2QU9DRkpFYVF3aUI5VENxV2oycWFNUktEY0hsS1hST092b1dfUVRkejBiS1BJc2hYLUtTR1ZwekFweWdscWN6azJ0VFJTMkZKbFFFTEdweEJoa3B1cHJZcHlYbXdwU0d4NkJhdGNYcU9BUmdwb3V4SGRhaWU5U1poUTQzVVBVa2V1WVZVVlF3T2kyNUM2QTVaMlFiRWljSTFGUjJfYWZ6UGJJVDVmUDlmVF9ha3FPVGdnQllxdWRtNWo3OVItY0xpcTVweE1kQnZudlZMcW9GdXFaRXFoRl9RSQ?oc=5",
+    "description": "جديد الصحافة: حجز وثائق مزورة باسم القصر الملكي برلمان.كوم",
+    "published": "2018-01-19T08:00:00+00:00",
+    "media": "برلمان.كوم",
+    "media_domain": "barlamane.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "جديد الصحافة حجز وثائق مزورة باسم القصر الملكي",
+    "collected_at": "2026-09-22T12:45:17.995926+00:00",
+    "mentions": 1
+  },
+  {
     "title": "مافيا العقار تنتهك حرمة الموتى - Assabah",
     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE96dWJmV0FUZEN4OXpOQmkxVGs0T1NQSDlfZ2g4S0hRY2hmN0Q2cGVXVnhmX3RuU0ZiLXNWbC1CYXZVLV9P?oc=5",
     "description": "مافيا العقار تنتهك حرمة الموتى Assabah",
@@ -72036,6 +74042,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "مواطن أمريكي يستنجد بالملك محمد السادس",
     "collected_at": "2026-09-14T07:49:21.548185+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "شاهد ردة فعل المترجمة الروسية بعد مشاهدتها الرئيس بوتفليقة - برلمان.كوم",
+    "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNd1BseWw2UXBhTW85LUEtWUlTU3haREMzTlNYWG1EN212S25uSGlEY2FPY0wyWGROZE9fbTBpZVcwTW9fOGUwQWhvU2ZCMndaWk5pd2twYjUzdmdlQUc2R0JrQ3Y5S1ZmdFdNbU1fTHA4aVJSbUxmQUNJTlBuQjAxV1I2U0syRW1hUEg1Y2tOV0MxR1Jtbmk2RXh3Z3E3YkxzSDI2bTAtVnAwQ2tycWJRcElkRm9Wd2U5RjB4ZDdyODNHaU45XzNiQkpLbGpYUDFhR0hQU3FwVzl4QkFKS0c2RFRWZHh5Z0JKbWxodzA1SE1INnRzcUtRM2RvakczZDVPb2VjVlpzd0Zza05IeUo5UVhxTDRqRmxfdTJZeDAwQXppOHp6Z1JCUWZiN1dqMURXOU1SVEYtLWdPbERVMU9hd1dmcw?oc=5",
+    "description": "شاهد ردة فعل المترجمة الروسية بعد مشاهدتها الرئيس بوتفليقة برلمان.كوم",
+    "published": "2017-10-16T07:00:00+00:00",
+    "media": "برلمان.كوم",
+    "media_domain": "barlamane.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "شاهد ردة فعل المترجمة الروسية بعد مشاهدتها الرئيس بوتفليقة",
+    "collected_at": "2026-09-22T12:45:17.997372+00:00",
     "mentions": 1
   },
   {
@@ -72849,6 +74873,24 @@
     "mentions": 1
   },
   {
+    "title": "ضربة جديدة لحزب الاستقلال. اعتقال محمد سعود عضو اللجنة التنفيذية في العرائش واحتمال إطلاق سراحه بكفالة صباح اليوم الأربعاء - كود",
+    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNUE91dzdhQ19wZzlzeEJsRmR1VExVQnNvc3NjR3JEQmZUdHpsaWY3b1NiRlRJdjBIaHZwX05CdEFHamkySFdTMFdTLVZQYlhyZTFkVnpMY1FmWl9XOGhyYjVYa1dzeF8zOEJiZ2xxd01nV0l2V2tuZjFPcTA0Z3pUNk50dmxrR0RoU09ieFJCRTQtbTFoTWgtbk13dlhZTGlSX0FCbkI0dnNFZV9hN0lnWkxCWXVDRThVT2lTbHBDVFRxOVA5dmp3ZGZUb1lwbjdSZUZxM1FPZGNnSVdidlpLS0N6empWbnJDZkNzTmZrZ2kyalAwOVlfR2RFTU54UXpYNnZCUDdZOVczWko2cTZGaTZxWUo5MVpkVDFUb09BSnZhVXNYcVM1VjVZUkdBNGhMTEFzazMwd3NJUjdtN2YwajdCSzRmdFBu?oc=5",
+    "description": "ضربة جديدة لحزب الاستقلال. اعتقال محمد سعود عضو اللجنة التنفيذية في العرائش واحتمال إطلاق سراحه بكفالة صباح اليوم الأربعاء كود",
+    "published": "2015-10-13T07:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "ضربة جديدة لحزب الاستقلال اعتقال محمد سعود عضو اللجنة التنفيذية في العرائش واحتمال إطلاق سراحه بكفالة صباح اليوم الأربعاء",
+    "collected_at": "2026-09-22T12:45:17.451829+00:00",
+    "mentions": 1
+  },
+  {
     "title": "السيبة فبوجدور.. الجناوة والعصي والحجر في مواجهة دامية (فيديو) - كود",
     "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMU1WZjBWaHhVWjVva3RScjlIVExiMzA4NUh1cUxJVDVzYWZiN1pqYVM4WElUckpkZm5rMUVYT2JmazgwbUxWazA4M2V5SW9jcmZtN1ZYQnhNVWcyRVBZTHJaUUNkUFdaTk9Yc0htTms1SUx2Y0I5Vk5GRVF5RmRpT1d5Rk5CNENVMHI0RW5kRWpfWEVuV0dFX2NoWXRzV3hJTXliYVA3YjczbFNOWnlWM245azJXX2xyZURrdzNpM0NUUTl0RWZscHJHei1wQTA3TzE0M2FsVzBwblphTTNaZzg4eU5UVlZDbHR1UTJQTHRVb1lKWHJlY1RNRzRBdUhGb2hZZDhqeEZtQjJZNzFxbUM0c1NOZTdacGxtSlEyM0I1al9TNmg0Zkg3T1BrN19saVYxRy1UcF9qTTNqRmJQMEdrNEJNeHc?oc=5",
     "description": "السيبة فبوجدور.. الجناوة والعصي والحجر في مواجهة دامية (فيديو) كود",
@@ -73423,6 +75465,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "القضاء بالبيضاء يفصل في فضيحة السطو على عقارات الأجانب وهذه لائحة الأحكام",
     "collected_at": "2026-09-19T11:59:51.999226+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "ممارسة الجنس تزيد من مستوى الذكاء لدى الأشخاص - كود",
+    "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPRjVXR1ZLT2pxejlBZHFBcHhSRFcwM2tMV2VjMkVLMk96UmRLbVcwMHZ6Z1lmVVpVNW85WmJ1SUUwMXpmd3NyVUY5SEFiN09CTEdWWXFlUkx5NHluaU9lMFlVMWNTa0VuM3ZsUHJVeVJWNG9PVUtRTVNEUEU3ZWFMZGdQeExoRVJFUUx5NDdoVGVSQVpPV2s4V21sUXpKTlNlazczVGJxaDJJSUZ3dWZJYjRabk1Zclp3NWVETnYxSi1FWVFGUW5XLW5aM3JmN3lEbnZFb1RDLWw2bHgxd3JuREo3LUJNRlZjcHBoSjB1TFFqaHpadlFmcEdPd1pVcjU3Q1NkRW5RaVFZbXdHNkhMMjBPc2J2cmZ0ZEk1R20tUHdlTTlFSnYxMUNia1BQeE03TFVfT2hHVkJ0NTZqX01xSU44cEgwTWFGN2c?oc=5",
+    "description": "ممارسة الجنس تزيد من مستوى الذكاء لدى الأشخاص كود",
+    "published": "2014-01-08T08:00:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "ممارسة الجنس تزيد من مستوى الذكاء لدى الأشخاص",
+    "collected_at": "2026-09-22T12:45:17.452841+00:00",
     "mentions": 1
   },
   {
