@@ -646,6 +646,54 @@ function renderFocus() {
     `<b>Attention à la concentration.</b> ${esc(topAgent[0])} gère ${topAgent[1]} des ${crc.length} leads CRC — dépendance à surveiller.`,
   ];
   $('#focusTakeaway').innerHTML = takeaway.map(t => `<li>${t}</li>`).join('');
+
+  renderCrcVisite();
+}
+
+/* ==========================================================================
+   3c. CORRÉLATION CRC → 1re VISITE
+   ========================================================================== */
+function renderCrcVisite() {
+  const rows = (TERRA_DATA.crcVisite || []);
+  if (!rows.length || !$('#crcVisiteTable')) return;
+
+  const dated = rows.filter(r => typeof r.delai === 'number');
+  const rapides = dated.filter(r => r.delai <= 7);          // 1re visite sous 7 jours
+  const tresRapides = dated.filter(r => r.delai <= 4);       // 1 à 4 jours
+  const nonCorrele = rows.length - rapides.length;           // longs délais + sans date de visite
+
+  // ---- KPIs ----
+  const kpi = [
+    ['Dossiers pris en charge par le CRC', rows.length, ''],
+    ['1re visite sous 7 jours', rapides.length, `dont ${tresRapides.length} en 1 à 4 jours`],
+    ['Délai médian (visites datées)', dated.length ? fmtNum(median(dated.map(r => r.delai)), 0) + ' j' : '—', `sur ${dated.length} dossiers datés`],
+    ['Sans corrélation nette', nonCorrele, 'visite tardive ou non renseignée'],
+  ];
+  $('#crcVisiteKpi').innerHTML = kpi.map(k => `
+    <div class="kpi">
+      <div class="val">${k[1]}</div>
+      <div class="lbl">${k[0]}</div>
+      <div class="sub">${k[2] || ''}</div>
+    </div>`).join('');
+
+  // ---- Tableau ----
+  $('#crcVisiteTable').querySelector('tbody').innerHTML = rows.map(r => {
+    const rapide = typeof r.delai === 'number' && r.delai <= 7;
+    const delaiCell = (typeof r.delai === 'number')
+      ? `<b style="color:${rapide ? 'var(--perla)' : 'var(--ink-soft)'}">${r.delai} j</b>`
+      : '<span style="color:var(--ink-soft)">non renseignée</span>';
+    return `<tr>
+      <td>${esc(r.contact)}</td>
+      <td>${esc(r.source)}</td>
+      <td>${esc(r.appel || '—')}</td>
+      <td>${esc(r.visite || '—')}</td>
+      <td>${delaiCell}</td>
+      <td>${esc(r.type)}</td>
+    </tr>`;
+  }).join('');
+
+  $('#crcVisiteNote').innerHTML =
+    `Sur les <b>${rows.length}</b> dossiers gérés par le CRC, seuls <b>${dated.length}</b> disposent d'une date de 1re visite exploitable, et <b>${rapides.length}</b> ont donné lieu à une visite dans les 7 jours suivant l'appel (dont ${tresRapides.length} en 1 à 4 jours). Pour les <b>${nonCorrele}</b> autres, la visite intervient plusieurs semaines ou mois après le contact, ou n'est pas renseignée. Le volume où l'on peut établir une corrélation directe <i>appel CRC → visite → vente</i> reste donc limité.`;
 }
 
 /* ==========================================================================

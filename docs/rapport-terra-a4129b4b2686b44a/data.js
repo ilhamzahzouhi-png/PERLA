@@ -3112,5 +3112,20 @@ const TERRA_DATA = {
    "nb_relances": 0,
    "note": "mari Egyptien , cherche depuis un bon moment avait pris le credit pour Beverly Hill mais hamza leur a demandé un Iphone et a rajouté 20% du prix initial , cherche un peu partt , budget initial 6MDH mais vont appelé lotfi pour voir leur MAX"
   }
+ ],
+ "crcVisite": [
+  { "contact": "CONT005209", "source": "META",    "appel": "09/09/2025", "visite": "10/09/2025", "delai": 1,   "type": "Traité par le CRC" },
+  { "contact": "CONT005122", "source": "META",    "appel": "03/10/2025", "visite": "04/10/2025", "delai": 1,   "type": "Traité par le CRC" },
+  { "contact": "CONT005112", "source": "SITE TC", "appel": "07/09/2025", "visite": "10/09/2025", "delai": 3,   "type": "Traité par le CRC" },
+  { "contact": "CONT005056", "source": "META",    "appel": "05/07/2025", "visite": "09/07/2025", "delai": 4,   "type": "Traité par le CRC" },
+  { "contact": "CONT005195", "source": "META",    "appel": "27/09/2025", "visite": "04/10/2025", "delai": 7,   "type": "Traité par le CRC" },
+  { "contact": "CONT005128", "source": "META",    "appel": "16/09/2025", "visite": "11/10/2025", "delai": 25,  "type": "Traité par le CRC" },
+  { "contact": "CONT005189", "source": "META",    "appel": "14/10/2025", "visite": "09/12/2025", "delai": 56,  "type": "Traité par le CRC" },
+  { "contact": "CONT005150", "source": "META",    "appel": "27/09/2025", "visite": "02/12/2025", "delai": 66,  "type": "Traité par le CRC" },
+  { "contact": "CONT005284", "source": "META",    "appel": "16/02/2026", "visite": "15/08/2026", "delai": 180, "type": "Traité par le CRC" },
+  { "contact": "CONT005248", "source": "SITE TC", "appel": "01/06/2026", "visite": null,         "delai": null, "type": "Passé au showroom" },
+  { "contact": "CONT005231", "source": "META",    "appel": "25/12/2025", "visite": null,         "delai": null, "type": "Passé au showroom" },
+  { "contact": "CONT005148", "source": "META",    "appel": "12/11/2025", "visite": null,         "delai": null, "type": "Passé au showroom" },
+  { "contact": "CONT005119", "source": "SITE TC", "appel": "05/09/2025", "visite": null,         "delai": null, "type": "Passé au showroom" }
  ]
 };
