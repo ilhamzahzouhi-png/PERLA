@@ -104,20 +104,14 @@
         <div class="donut-wrap"><div id="sourceDonut" class="donut"></div><div id="sourceLegend" class="legend"></div></div>
       </div>
       <div class="card">
-        <h2>Statut des ventes digitales</h2>
-        <div id="statutBars" class="barchart"></div>
-      </div>
-    </div>
-
-    <div class="grid-2">
-      <div class="card">
         <h2>Ventes digitales par agent commercial</h2>
         <div id="agentBars" class="barchart"></div>
       </div>
-      <div class="card">
-        <h2>Délai moyen visite → vente (jours), par source</h2>
-        <div id="delaiBars" class="barchart"></div>
-      </div>
+    </div>
+
+    <div class="card">
+      <h2>Délai moyen visite → vente (jours), par source</h2>
+      <div id="delaiBars" class="barchart"></div>
     </div>
 
     <div class="card note">
@@ -166,7 +160,6 @@
             <th>Délai (j)</th>
             <th>Visites</th>
             <th>Relances</th>
-            <th>Statut</th>
             <th>Agent</th>
           </tr></thead>
           <tbody></tbody>
@@ -211,7 +204,6 @@
       <input type="search" id="jSearch" placeholder="Rechercher un nom…" aria-label="Rechercher">
       <select id="jSource"><option value="">Toutes les sources</option></select>
       <select id="jCrc"><option value="">CRC & Direct</option></select>
-      <select id="jStatut"><option value="">Tous les statuts</option></select>
       <select id="jAgent"><option value="">Tous les agents</option></select>
       <span class="filter-count" id="jCount"></span>
     </div>
@@ -290,7 +282,6 @@
     <div class="filters">
       <input type="search" id="aSearch" placeholder="Rechercher un nom, une villa…">
       <select id="aDigital"><option value="">Toutes origines</option><option value="Oui">Digital uniquement</option><option value="Non">Non-digital</option></select>
-      <select id="aStatut"><option value="">Tous les statuts</option></select>
       <span class="filter-count" id="aCount"></span>
     </div>
     <div class="table-wrap">
@@ -305,7 +296,6 @@
           <th data-sort="delai_visite_vente">Délai (j)</th>
           <th data-sort="nb_visites">Visites</th>
           <th data-sort="nb_relances">Relances</th>
-          <th data-sort="statut">Statut</th>
           <th data-sort="bien">Bien vendu</th>
           <th data-sort="agent">Agent</th>
         </tr></thead>

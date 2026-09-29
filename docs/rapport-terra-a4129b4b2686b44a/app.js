@@ -95,12 +95,6 @@ function renderOverview() {
      <span><b>${s}</b> · ${bySource[s] || 0} ventes <small>(${fmtPct((bySource[s] || 0) / digital, 0)})</small></span></div>`
   ).join('');
 
-  // Statut bars
-  const byStatut = countBy(DETAIL, r => statutLabel(r.statut));
-  barChart('#statutBars', ['En cours', 'Active', 'Annulée'].filter(k => byStatut[k]).map(k => ({
-    label: k, value: byStatut[k], cls: k === 'Annulée' ? 'soft' : (k === 'Active' ? 'alt' : '')
-  })), digital);
-
   // Agent bars
   const byAgent = countBy(DETAIL, r => r.agent);
   const agents = Object.entries(byAgent).sort((a, b) => b[1] - a[1]);
@@ -146,21 +140,19 @@ function initJourneyFilters() {
   [['CRC', 'CRC (pris en charge)'], ['DIRECT', 'Contact direct']].forEach(([v, l]) => {
     const o = el('option'); o.value = v; o.textContent = l; crc.appendChild(o);
   });
-  fillSelect('#jStatut', ['En cours', 'Active', 'Annulée']);
   fillSelect('#jAgent', Array.from(new Set(JOURNEYS.map(r => r.agent))).sort());
-  ['#jSearch', '#jSource', '#jCrc', '#jStatut', '#jAgent'].forEach(s =>
+  ['#jSearch', '#jSource', '#jCrc', '#jAgent'].forEach(s =>
     $(s).addEventListener('input', renderJourneys));
 }
 function renderJourneys() {
   const q = $('#jSearch').value.trim().toLowerCase();
-  const fSrc = $('#jSource').value, fCrc = $('#jCrc').value, fSt = $('#jStatut').value, fAg = $('#jAgent').value;
+  const fSrc = $('#jSource').value, fCrc = $('#jCrc').value, fAg = $('#jAgent').value;
 
   let rows = JOURNEYS.filter(r => {
     if (q && !((r.nom + ' ' + (r.prenom || '')).toLowerCase().includes(q))) return false;
     if (fSrc && r.source !== fSrc) return false;
     if (fCrc === 'CRC' && !isCRC(r)) return false;
     if (fCrc === 'DIRECT' && isCRC(r)) return false;
-    if (fSt && statutLabel(r.statut) !== fSt) return false;
     if (fAg && r.agent !== fAg) return false;
     return true;
   });
@@ -176,7 +168,6 @@ function renderJourneys() {
 function journeyCard(r) {
   const card = el('div', 'jcard');
   card.dataset.id = r.id;
-  const stc = statutClass(r.statut);
   const crcBadge = isCRC(r)
     ? '<span class="badge crc">CRC — pris en charge</span>'
     : '<span class="badge direct">Contact direct</span>';
@@ -189,7 +180,6 @@ function journeyCard(r) {
         <span class="badge src">${esc(r.source)}</span>
         <span class="badge canal">${esc(r.canal)}</span>
         ${crcBadge}
-        <span class="badge ${stc}">${statutLabel(r.statut)}</span>
       </div>
     </div>
     <div class="jhead-right">
@@ -631,7 +621,6 @@ function renderFocus() {
     <td>${r.delai_visite_vente ?? '—'}</td>
     <td>${r.nb_visites ?? '—'}</td>
     <td>${r.nb_relances ?? '—'}</td>
-    <td><span class="badge ${statutClass(r.statut)}">${statutLabel(r.statut)}</span></td>
     <td>${esc(r.agent || '—')}</td>
   </tr>`).join('');
 
@@ -722,8 +711,7 @@ function renderCompare() {
    ========================================================================== */
 let allSort = { key: 'date_vente', dir: -1 };
 function initAllTable() {
-  fillSelect('#aStatut', ['Active', 'En cours', 'Annulée']);
-  ['#aSearch', '#aDigital', '#aStatut'].forEach(s => $(s).addEventListener('input', renderAllTable));
+  ['#aSearch', '#aDigital'].forEach(s => $(s).addEventListener('input', renderAllTable));
   $$('#allTable th').forEach(th => th.addEventListener('click', () => {
     const k = th.dataset.sort;
     allSort.dir = (allSort.key === k) ? -allSort.dir : 1;
@@ -733,11 +721,10 @@ function initAllTable() {
 }
 function renderAllTable() {
   const q = $('#aSearch').value.trim().toLowerCase();
-  const fD = $('#aDigital').value, fS = $('#aStatut').value;
+  const fD = $('#aDigital').value;
   let rows = ALL.filter(r => {
     if (q && !((r.nom + ' ' + (r.prenom || '') + ' ' + (r.bien || '')).toLowerCase().includes(q))) return false;
     if (fD && r.digitale !== fD) return false;
-    if (fS && statutLabel(r.statut) !== fS) return false;
     return true;
   });
   const k = allSort.key;
@@ -760,7 +747,6 @@ function renderAllTable() {
     <td>${r.delai_visite_vente ?? '—'}</td>
     <td>${detNum(r, 'nb_visites') ?? '—'}</td>
     <td>${detNum(r, 'nb_relances') ?? '—'}</td>
-    <td><span class="badge ${statutClass(r.statut)}">${statutLabel(r.statut)}</span></td>
     <td class="villa-cell" title="${esc(r.bien || '')}">${esc(r.bien || '—')}</td>
     <td>${esc(r.agent || '—')}</td>
   </tr>`).join('');
