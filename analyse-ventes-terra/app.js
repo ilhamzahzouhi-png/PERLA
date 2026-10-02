@@ -66,18 +66,18 @@ function renderOverview() {
   const DET = DETAIL.filter(r => statutLabel(r.statut) !== 'Annulée');       // 21 ventes digitales nettes
   const total = netAll.length;                                               // 61
   const digital = DET.length;                                               // 21 digital net
-  const digitalGross = DETAIL.length;                                       // 23 digital (annulées comprises)
   const partNet = digital / total;                                         // 34,4 %
-  const partGlobal = digitalGross / grossTotal;                            // 34,8 %
+  const delais = DET.map(r => r.delai_visite_vente).filter(v => typeof v === 'number');
+  const delaiMoy = delais.reduce((a, b) => a + b, 0) / delais.length;
 
   $('#overview-lead').innerHTML =
-    `Sur les <b>${grossTotal}</b> ventes signées pour Terra Collection (dont <b>${annCount}</b> annulées, soit <b>${total}</b> ventes nettes), le digital pèse <b>${fmtPct(partNet, 1)}</b> des ventes nettes (${digital} sur ${total}) et <b>${fmtPct(partGlobal, 1)}</b> des ventes globales, annulées comprises (${digitalGross} sur ${grossTotal}).`;
+    `Sur les <b>${grossTotal}</b> ventes signées pour Terra Collection (dont <b>${annCount}</b> annulées, soit <b>${total}</b> ventes nettes), <b>${digital}</b> proviennent d'une campagne digitale — soit <b>${fmtPct(partNet, 1)}</b> des ventes nettes.`;
 
   const kpis = [
-    { val: grossTotal, lbl: 'Ventes totales (toutes origines)', sub: `dont ${annCount} annulées · ${total} nettes` },
-    { val: total, lbl: 'Ventes nettes réalisées', sub: 'hors annulations' },
-    { val: fmtPct(partNet, 1), lbl: 'Part du digital — ventes nettes', sub: `${digital} sur ${total}`, accent: true },
-    { val: fmtPct(partGlobal, 1), lbl: 'Part du digital — ventes globales', sub: `${digitalGross} sur ${grossTotal} · annulées comprises`, accent: true },
+    { val: total, lbl: 'Ventes totales (toutes origines)', sub: 'hors annulations' },
+    { val: digital, lbl: 'Ventes issues du digital', sub: 'META · SITE TC · SITE PI', accent: true },
+    { val: fmtPct(partNet, 1), lbl: 'Part du digital', sub: 'des ventes nettes' },
+    { val: fmtNum(delaiMoy, 0) + ' j', lbl: 'Délai moyen visite → vente', sub: 'sur les dossiers digitaux' },
   ];
   $('#kpiGrid').innerHTML = kpis.map(k =>
     `<div class="kpi${k.accent ? ' accent' : ''}"><div class="val">${k.val}</div><div class="lbl">${k.lbl}</div><div class="sub">${k.sub}</div></div>`
