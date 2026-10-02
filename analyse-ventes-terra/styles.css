@@ -148,6 +148,8 @@ h2{font-size:15px;font-weight:700;margin:0 0 16px;color:var(--perla)}
 .badge.st-active{background:#E4EFEA;color:var(--ok)}
 .badge.st-cours{background:#E7EDF4;color:var(--perla-2)}
 .badge.st-annulee{background:var(--alert-bg);color:var(--alert)}
+tr.row-annulee{background:var(--alert-bg)}
+tr.row-annulee td.name{color:var(--alert)}
 .badge.canal{background:transparent;border:1px solid var(--line);color:var(--blue-gray-2)}
 
 .jbody{display:none;padding:0 22px 22px;border-top:1px solid var(--line)}

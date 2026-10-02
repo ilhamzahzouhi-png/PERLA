@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="robots" content="noindex,nofollow,noarchive">
 <title>Analyse des ventes — Terra Collection | Perla Group</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -11,42 +10,6 @@
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
-<div id="pg-gate" style="position:fixed;inset:0;z-index:9999;background:#1B2E4B;display:flex;align-items:center;justify-content:center;font-family:Inter,-apple-system,Segoe UI,sans-serif">
-  <div style="width:min(92vw,380px);background:#fff;border-radius:14px;padding:34px 30px;box-shadow:0 24px 60px rgba(0,0,0,.35);text-align:center">
-    <div style="width:46px;height:30px;margin:0 auto 18px;display:flex;gap:4px;align-items:flex-end;justify-content:center">
-      <span style="width:6px;height:14px;background:#1B2E4B;border-radius:2px"></span>
-      <span style="width:6px;height:20px;background:#1B2E4B;border-radius:2px"></span>
-      <span style="width:6px;height:26px;background:#1B2E4B;border-radius:2px"></span>
-    </div>
-    <h1 style="font-size:1.05rem;color:#1B2E4B;margin:0 0 6px;font-weight:700">Rapport confidentiel</h1>
-    <p style="font-size:.82rem;color:#5b6472;margin:0 0 20px;line-height:1.5">Analyse des ventes — Terra Collection.<br>Accès réservé. Merci de saisir le mot de passe.</p>
-    <input id="pg-input" type="password" placeholder="Mot de passe" autocomplete="off" autofocus
-      style="width:100%;box-sizing:border-box;padding:11px 14px;border:1px solid #D8DDE1;border-radius:9px;font-size:.9rem;outline:none;margin-bottom:12px">
-    <button id="pg-btn" style="width:100%;padding:11px;border:none;border-radius:9px;background:#1B2E4B;color:#fff;font-size:.9rem;font-weight:600;cursor:pointer">Accéder au rapport</button>
-    <p id="pg-err" style="display:none;color:#c0392b;font-size:.78rem;margin:12px 0 0">Mot de passe incorrect.</p>
-    <p style="font-size:.68rem;color:#9aa2ad;margin:18px 0 0">Perla Group — Document confidentiel, usage interne.</p>
-  </div>
-</div>
-<script>
-(function(){
-  var HASH="472360e2a979b64fac0cd3d1bf20287743580c35846da06b01dcfd8c2164f3c5";
-  var gate=document.getElementById("pg-gate"),inp=document.getElementById("pg-input"),
-      btn=document.getElementById("pg-btn"),err=document.getElementById("pg-err");
-  document.body.style.overflow="hidden";
-  function unlock(){gate.parentNode.removeChild(gate);document.body.style.overflow="";}
-  if(sessionStorage.getItem("pg-ok")==="1"){unlock();return;}
-  async function sha256(s){var b=new TextEncoder().encode(s);var h=await crypto.subtle.digest("SHA-256",b);
-    return Array.from(new Uint8Array(h)).map(function(x){return x.toString(16).padStart(2,"0");}).join("");}
-  async function submit(){
-    var h=await sha256(inp.value.trim());
-    if(h===HASH){sessionStorage.setItem("pg-ok","1");unlock();}
-    else{err.style.display="block";inp.value="";inp.focus();}
-  }
-  btn.addEventListener("click",submit);
-  inp.addEventListener("keydown",function(e){if(e.key==="Enter")submit();});
-})();
-</script>
 
 <header class="topbar">
   <div class="brand">

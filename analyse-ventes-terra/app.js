@@ -4,10 +4,10 @@
    Données : data.js (const TERRA_DATA = { detail:[...], allsales:[...] })
    ========================================================================== */
 
-const DETAIL = TERRA_DATA.detail;      // 22 dossiers digitaux (détaillés, notes datées)
-const ALL = TERRA_DATA.allsales;       // 61 ventes toutes origines
-const JOURNEYS = TERRA_DATA.journeys;  // 61 parcours résumés (1 par acheteur)
-// Index des parcours par ID — porte nb_visites / nb_relances / note pour les 61
+const DETAIL = TERRA_DATA.detail;      // 23 dossiers digitaux (détaillés, notes datées)
+const ALL = TERRA_DATA.allsales;       // 66 dossiers signés (61 nets + 5 annulés), toutes origines
+const JOURNEYS = TERRA_DATA.journeys;  // 66 parcours (61 ventes nettes + 5 annulées)
+// Index des parcours par ID — porte nb_visites / nb_relances / note
 const J_BY_ID = {};
 JOURNEYS.forEach(r => { J_BY_ID[r.id] = r; });
 function detNum(r, k) { const d = J_BY_ID[r.id]; return d && typeof d[k] === 'number' ? d[k] : null; }
@@ -60,10 +60,12 @@ $('#printBtn').addEventListener('click', () => window.print());
    1. OVERVIEW
    ========================================================================== */
 function renderOverview() {
-  const total = ALL.length;
-  const digital = DETAIL.length;
+  const netAll = ALL.filter(r => statutLabel(r.statut) !== 'Annulée');       // 61 ventes nettes
+  const DET = DETAIL.filter(r => statutLabel(r.statut) !== 'Annulée');       // 21 ventes digitales nettes
+  const total = netAll.length;
+  const digital = DET.length;
   const partDigital = digital / total;
-  const delais = DETAIL.map(r => r.delai_visite_vente).filter(v => typeof v === 'number');
+  const delais = DET.map(r => r.delai_visite_vente).filter(v => typeof v === 'number');
   const delaiMoy = delais.reduce((a, b) => a + b, 0) / delais.length;
 
   $('#overview-lead').innerHTML =
@@ -80,7 +82,7 @@ function renderOverview() {
   ).join('');
 
   // Source donut
-  const bySource = countBy(DETAIL, r => r.source);
+  const bySource = countBy(DET, r => r.source);
   const srcColors = { 'META': 'var(--perla)', 'SITE TC': 'var(--blue-gray-2)', 'SITE PI': 'var(--blue-gray-3)' };
   const order = ['META', 'SITE TC', 'SITE PI'];
   let acc = 0; const segs = [];
@@ -96,13 +98,13 @@ function renderOverview() {
   ).join('');
 
   // Agent bars
-  const byAgent = countBy(DETAIL, r => r.agent);
+  const byAgent = countBy(DET, r => r.agent);
   const agents = Object.entries(byAgent).sort((a, b) => b[1] - a[1]);
   barChart('#agentBars', agents.map(([a, n]) => ({ label: a, value: n })), agents[0][1]);
 
   // Délai by source
   const delaiBySource = order.map(s => {
-    const rows = DETAIL.filter(r => r.source === s && typeof r.delai_visite_vente === 'number');
+    const rows = DET.filter(r => r.source === s && typeof r.delai_visite_vente === 'number');
     const avg = rows.length ? rows.reduce((a, r) => a + r.delai_visite_vente, 0) / rows.length : 0;
     return { label: s, value: Math.round(avg), suffix: ' j' };
   });
@@ -425,7 +427,7 @@ function renderDelaiPeriode() {
   const famShort = { 'Digital': 'Digital', 'Bouche-à-oreille': 'Bouche-à-oreille', 'Passage / spontané': 'Passage' };
   const cols = ['Digital', 'Bouche-à-oreille', 'Passage / spontané'];
 
-  const recs = JOURNEYS.map(r => {
+  const recs = JOURNEYS.filter(r => statutLabel(r.statut) !== 'Annulée').map(r => {
     const dv = parseDate(r.date_vente);
     return (dv && typeof r.delai_visite_vente === 'number')
       ? { t: trim(dv), fam: famille(r.source), d: r.delai_visite_vente } : null;
@@ -459,11 +461,12 @@ function renderDelaiPeriode() {
 }
 
 function renderGlobal() {
-  const J = JOURNEYS;
+  const GROSS = JOURNEYS;                                        // 66 acheteurs (annulés inclus)
+  const annulees = GROSS.filter(r => statutLabel(r.statut) === 'Annulée'); // 5
+  const J = GROSS.filter(r => statutLabel(r.statut) !== 'Annulée');        // 61 ventes nettes réalisées
   const n = J.length;                                   // 61
-  const digital = J.filter(r => r.digitale === 'Oui');  // 22
+  const digital = J.filter(r => r.digitale === 'Oui');
   const relationnel = J.filter(r => r.digitale === 'Non');
-  const annulees = J.filter(r => statutLabel(r.statut) === 'Annulée');
   const delais = J.map(r => r.delai_visite_vente).filter(v => typeof v === 'number');
   const medDelai = median(delais);
 
@@ -473,7 +476,7 @@ function renderGlobal() {
 
   // ---- KPI ----
   const kpis = [
-    { val: n, lbl: 'Acheteurs Terra Collection', sub: 'toutes origines confondues' },
+    { val: n, lbl: 'Ventes Terra Collection', sub: 'ventes nettes · hors annulations' },
     { val: fmtPct(boucheEtPassage / n, 0), lbl: 'Bouche-à-oreille & passage', sub: `${boucheEtPassage} ventes — le 1ᵉʳ moteur`, accent: true },
     { val: fmtPct(digital.length / n, 0), lbl: 'Issues du digital', sub: `${digital.length} ventes · META, sites web` },
     { val: fmtNum(medDelai, 0) + ' j', lbl: 'Délai médian visite → vente', sub: `moyenne tirée à ${fmtNum(mean(delais), 0)} j par quelques cas longs` },
@@ -519,12 +522,14 @@ function renderGlobal() {
   // ---- Digital vs relationnel ----
   const digDelais = digital.map(r => r.delai_visite_vente).filter(v => typeof v === 'number');
   const relDelais = relationnel.map(r => r.delai_visite_vente).filter(v => typeof v === 'number');
+  const digGross = GROSS.filter(r => r.digitale === 'Oui');
+  const relGross = GROSS.filter(r => r.digitale === 'Non');
   const cmp = [
     ['Nombre de ventes', digital.length, relationnel.length],
     ['Délai médian visite → vente', fmtNum(median(digDelais), 0) + ' j', fmtNum(median(relDelais), 0) + ' j'],
     ['Visites moyennes / dossier', fmtNum(mean(digital.map(r => r.nb_visites)), 1), fmtNum(mean(relationnel.map(r => r.nb_visites)), 1)],
     ['Relances moyennes / dossier', fmtNum(mean(digital.map(r => r.nb_relances)), 1), fmtNum(mean(relationnel.map(r => r.nb_relances)), 1)],
-    ['Part de ventes annulées', fmtPct(digital.filter(r => statutLabel(r.statut) === 'Annulée').length / digital.length, 0), fmtPct(relationnel.filter(r => statutLabel(r.statut) === 'Annulée').length / relationnel.length, 0)],
+    ['Part de ventes annulées', fmtPct(digGross.filter(r => statutLabel(r.statut) === 'Annulée').length / digGross.length, 0), fmtPct(relGross.filter(r => statutLabel(r.statut) === 'Annulée').length / relGross.length, 0)],
   ];
   $('#acqCompare').innerHTML = `<table class="cmp-table">
     <thead><tr><th>Indicateur</th><th>Digital (${digital.length})</th><th>Relationnel (${relationnel.length})</th></tr></thead>
@@ -539,7 +544,7 @@ function renderGlobal() {
   const cancRows = Object.entries(cancBySource).sort((a, b) => b[1] - a[1]).map(([s, v]) => ({ label: s, value: v, cls: 'soft' }));
   barChart('#cancelBars', cancRows.length ? cancRows : [{ label: 'Aucune', value: 0 }], Math.max(1, ...cancRows.map(r => r.value)));
   $('#cancelInsight').innerHTML =
-    `<b>${annulees.length} ventes annulées sur ${n}</b> (${fmtPct(annulees.length / n, 0)}). ` +
+    `<b>${annulees.length} ventes annulées sur ${GROSS.length} dossiers signés</b> (${fmtPct(annulees.length / GROSS.length, 0)}). ` +
     `Elles se répartissent sans concentration particulière entre le digital et le relationnel — il n'y a pas de canal « à risque » identifié à ce stade.`;
 
   // ---- Takeaway ----
@@ -559,7 +564,8 @@ function renderGlobal() {
    ========================================================================== */
 const CAMPAGNE_SOURCES = ['META', 'SITE TC', 'SITE PI'];
 function renderFocus() {
-  const camp = JOURNEYS.filter(r => CAMPAGNE_SOURCES.includes(r.source));
+  const NET = JOURNEYS.filter(r => statutLabel(r.statut) !== 'Annulée'); // 61 ventes nettes
+  const camp = NET.filter(r => CAMPAGNE_SOURCES.includes(r.source));
   const crc = camp.filter(isCRC);
   const dir = camp.filter(r => !isCRC(r));
   const medOf = arr => median(arr.map(r => r.delai_visite_vente).filter(v => typeof v === 'number'));
@@ -568,7 +574,7 @@ function renderFocus() {
 
   // ---- KPI ----
   const kpis = [
-    { val: camp.length, lbl: 'Ventes issues des campagnes', sub: `META et sites web · ${fmtPct(camp.length / JOURNEYS.length, 0)} du portefeuille` },
+    { val: camp.length, lbl: 'Ventes issues des campagnes', sub: `META et sites web · ${fmtPct(camp.length / NET.length, 0)} du portefeuille` },
     { val: crc.length, lbl: 'Leads pris en charge par le CRC', sub: `${dir.length} autres en contact commercial direct`, accent: true },
     { val: fmtNum(medOf(crc), 0) + ' j', lbl: 'Délai médian d\'un lead CRC', sub: `contre ${fmtNum(medOf(dir), 0)} j en contact direct` },
     { val: fmtNum(mean(crc.map(r => r.nb_relances || 0)), 1), lbl: 'Relances par lead CRC', sub: `contre ${fmtNum(mean(dir.map(r => r.nb_relances || 0)), 1)} en direct — le CRC nourrit les leads froids` },
@@ -692,7 +698,8 @@ function renderCrcVisite() {
    4. COMPARE CRC vs DIRECT
    ========================================================================== */
 function renderCompare() {
-  const crc = DETAIL.filter(isCRC), dir = DETAIL.filter(r => !isCRC(r));
+  const DET = DETAIL.filter(r => statutLabel(r.statut) !== 'Annulée'); // 21 ventes digitales nettes
+  const crc = DET.filter(isCRC), dir = DET.filter(r => !isCRC(r));
   const stat = (arr, st) => arr.filter(r => statutLabel(r.statut) === st).length;
   const avg = (arr, fn) => { const a = arr.map(fn).filter(v => typeof v === 'number'); return a.length ? a.reduce((x, y) => x + y, 0) / a.length : null; };
 
@@ -739,9 +746,11 @@ function renderAllTable() {
     else { va = (va || '').toString().toLowerCase(); vb = (vb || '').toString().toLowerCase(); }
     return (va < vb ? -1 : va > vb ? 1 : 0) * allSort.dir;
   });
-  $('#aCount').textContent = `${rows.length} / ${ALL.length} ventes`;
-  $('#allTable tbody').innerHTML = rows.map(r => `<tr>
-    <td class="name">${esc(r.nom)} <span style="font-weight:400;color:var(--blue-gray-2)">${esc(r.prenom || '')}</span></td>
+  const netCount = ALL.filter(r => statutLabel(r.statut) !== 'Annulée').length;
+  const annCount = ALL.length - netCount;
+  $('#aCount').textContent = `${rows.length} affichés · ${netCount} ventes nettes, ${annCount} annulées`;
+  $('#allTable tbody').innerHTML = rows.map(r => `<tr${statutLabel(r.statut) === 'Annulée' ? ' class="row-annulee"' : ''}>
+    <td class="name">${esc(r.nom)} <span style="font-weight:400;color:var(--blue-gray-2)">${esc(r.prenom || '')}</span>${statutLabel(r.statut) === 'Annulée' ? ' <span class="badge st-annulee">Annulée</span>' : ''}</td>
     <td><span class="pill ${r.digitale === 'Oui' ? 'yes' : 'no'}">${r.digitale}</span></td>
     <td>${esc(r.source || '—')}</td>
     <td>${isCRC(r) ? 'CRC' : 'Direct'}</td>
