@@ -60,7 +60,9 @@ $('#printBtn').addEventListener('click', () => window.print());
    1. OVERVIEW
    ========================================================================== */
 function renderOverview() {
+  const grossTotal = ALL.length;                                             // 66 toutes origines
   const netAll = ALL.filter(r => statutLabel(r.statut) !== 'Annulée');       // 61 ventes nettes
+  const annCount = grossTotal - netAll.length;                              // 5 annulées
   const DET = DETAIL.filter(r => statutLabel(r.statut) !== 'Annulée');       // 21 ventes digitales nettes
   const total = netAll.length;
   const digital = DET.length;
@@ -69,12 +71,12 @@ function renderOverview() {
   const delaiMoy = delais.reduce((a, b) => a + b, 0) / delais.length;
 
   $('#overview-lead').innerHTML =
-    `Sur les <b>${total}</b> dossiers de vente enregistrés pour Terra Collection, <b>${digital}</b> proviennent d'une campagne digitale, soit <b>${fmtPct(partDigital, 1)}</b> du total.`;
+    `Sur les <b>${grossTotal}</b> ventes signées pour Terra Collection (dont <b>${annCount}</b> annulées, soit <b>${total}</b> ventes nettes), <b>${digital}</b> proviennent d'une campagne digitale — soit <b>${fmtPct(partDigital, 1)}</b> des ventes nettes.`;
 
   const kpis = [
-    { val: total, lbl: 'Ventes totales (toutes origines)', sub: 'Référence portefeuille' },
+    { val: grossTotal, lbl: 'Ventes totales (toutes origines)', sub: `dont ${annCount} annulées · ${total} nettes` },
     { val: digital, lbl: 'Ventes issues du digital', sub: 'META · SITE TC · SITE PI', accent: true },
-    { val: fmtPct(partDigital, 1), lbl: 'Part du digital', sub: 'dans l\'ensemble des ventes' },
+    { val: fmtPct(partDigital, 1), lbl: 'Part du digital', sub: 'des ventes nettes' },
     { val: fmtNum(delaiMoy, 0) + ' j', lbl: 'Délai moyen visite → vente', sub: 'sur les dossiers digitaux' },
   ];
   $('#kpiGrid').innerHTML = kpis.map(k =>
