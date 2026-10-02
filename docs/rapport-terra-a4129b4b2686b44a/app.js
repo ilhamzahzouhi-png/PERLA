@@ -540,12 +540,22 @@ function renderGlobal() {
     `L'acheteur <b>digital</b> a besoin d'un peu plus de maturation, mais ne mobilise pas plus de visites. Le digital ne remplace pas le bouche-à-oreille : il alimente le haut de l'entonnoir.`;
 
   // ---- Ventes annulées ----
+  $('#cancelCount').textContent = annulees.length;
+  const cancSorted = annulees.slice().sort((a, b) => (parseDate(b.date_vente) || 0) - (parseDate(a.date_vente) || 0));
+  $('#cancelTable tbody').innerHTML = cancSorted.map(r => `<tr class="row-annulee">
+    <td class="name">${esc(r.nom)} <span style="font-weight:400;color:var(--blue-gray-2)">${esc(r.prenom || '')}</span></td>
+    <td class="villa-cell" title="${esc(r.bien || '')}">${esc(r.bien || '—')}</td>
+    <td>${esc(r.source || '—')}</td>
+    <td>${isCRC(r) ? 'CRC' : 'Direct'}</td>
+    <td>${esc(r.date_vente || '—')}</td>
+  </tr>`).join('');
+
   const cancBySource = countBy(annulees, r => r.source);
   const cancRows = Object.entries(cancBySource).sort((a, b) => b[1] - a[1]).map(([s, v]) => ({ label: s, value: v, cls: 'soft' }));
   barChart('#cancelBars', cancRows.length ? cancRows : [{ label: 'Aucune', value: 0 }], Math.max(1, ...cancRows.map(r => r.value)));
   $('#cancelInsight').innerHTML =
     `<b>${annulees.length} ventes annulées sur ${GROSS.length} dossiers signés</b> (${fmtPct(annulees.length / GROSS.length, 0)}). ` +
-    `Elles se répartissent sans concentration particulière entre le digital et le relationnel — il n'y a pas de canal « à risque » identifié à ce stade.`;
+    `Elles sont listées ci-dessous puis réparties par origine — sans concentration particulière entre le digital et le relationnel, il n'y a pas de canal « à risque » identifié à ce stade.`;
 
   // ---- Takeaway ----
   const takeaway = [

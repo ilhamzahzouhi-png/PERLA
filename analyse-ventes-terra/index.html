@@ -203,17 +203,28 @@
       <p class="micro" id="delaiPeriodeNote"></p>
     </div>
 
-    <div class="grid-2">
-      <div class="card">
-        <h2>Digital vs relationnel&nbsp;: deux profils d'acheteurs</h2>
-        <div id="acqCompare"></div>
-        <p class="micro" id="acqInsight"></p>
+    <div class="card">
+      <h2>Digital vs relationnel&nbsp;: deux profils d'acheteurs</h2>
+      <div id="acqCompare"></div>
+      <p class="micro" id="acqInsight"></p>
+    </div>
+
+    <div class="card card-annulee">
+      <h2>Ventes annulées <span class="badge st-annulee" id="cancelCount"></span></h2>
+      <p class="micro" id="cancelInsight"></p>
+      <div class="table-wrap">
+        <table id="cancelTable" class="data-table">
+          <thead><tr>
+            <th>Client</th>
+            <th>Bien</th>
+            <th>Origine</th>
+            <th>Prise en charge</th>
+            <th>Date de vente</th>
+          </tr></thead>
+          <tbody></tbody>
+        </table>
       </div>
-      <div class="card">
-        <h2>Ventes annulées&nbsp;: où&nbsp;?</h2>
-        <div id="cancelBars" class="barchart"></div>
-        <p class="micro" id="cancelInsight"></p>
-      </div>
+      <div id="cancelBars" class="barchart" style="margin-top:18px"></div>
     </div>
 
     <div class="card note">
