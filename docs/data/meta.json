@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-10-27T13:28:16.275858+00:00",
+  "last_updated": "2026-10-28T14:18:20.486867+00:00",
   "total": 7782,
-  "added": 115,
-  "errors": []
+  "added": 0,
+  "errors": [
+    {
+      "source": "France / Français",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "Belgique / Français",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "Suisse / Français",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "Maroc / Français",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "Maroc / Arabe",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "Émirats (Dubaï) / Anglais",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "Émirats (Dubaï) / Arabe",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "Royaume-Uni / Anglais",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "États-Unis / Anglais",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "Espagne / Espagnol",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "Canada / Français",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "Canada / Anglais",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "Maroc / Arabe",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "Maroc / Arabe",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "Maroc / Arabe",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "Maroc / Arabe",
+      "error": "HTTP Error 503: Service Unavailable"
+    }
+  ]
 }
