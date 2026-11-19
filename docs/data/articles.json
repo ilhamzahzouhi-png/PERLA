@@ -1,5 +1,752 @@
 [
   {
+    "title": "Un MRE peut acheter un logement au Maroc sans le déclarer à l’Office des changes - Bladi.net",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmZkNjBDLVJvdEp5ZkdFeU1lOVNfVFIza0J2dk1jclFvTkxOX2VBOTlISlNiUElSSFBhbzlIdEVzR2hpNUo2VlRzQXlVOTRXS1RYWUhtQ3V5bXdrY21GS0RYQXlkOUR2QW9WZWZtYWpZLXQwWHIwdE5ybmRBVnBoYy1ScUxYdnRva2daLQ?oc=5",
+    "description": "Un MRE peut acheter un logement au Maroc sans le déclarer à l’Office des changes Bladi.net",
+    "published": "2026-11-19T16:00:00+00:00",
+    "media": "Bladi.net",
+    "media_domain": "bladi.net",
+    "country": "Maroc",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Marché résidentiel",
+      "Immobilier commercial / bureaux / retail"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "un mre peut acheter un logement au maroc sans le déclarer à loffice des changes",
+    "collected_at": "2026-11-19T16:42:06.455628+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "2 مليار درهم تصرفات عقارات دبي في يوم - البيان",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GMkh0b09BOHoxb2NyZkg2QUl4TFAyUHRCc3V6eXpWN3pnZFp4LXR4VHQwZ1IzVGcwa0VXYWk5UFFXZ3EwUTJQVnBZdlRhWFEwVXZRS0xCNHRPQVgtYkNEc0dNa2RDQlhZbnJn?oc=5",
+    "description": "2 مليار درهم تصرفات عقارات دبي في يوم البيان",
+    "published": "2026-11-19T15:56:00+00:00",
+    "media": "البيان",
+    "media_domain": "albayan.ae",
+    "country": "Émirats (Dubaï)",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "2 مليار درهم تصرفات عقارات دبي في يوم",
+    "collected_at": "2026-11-19T16:42:08.216534+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "USA Volleyball Buys Irvine Sports Center for $63M - Orange County Business Journal",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZFZrUGpPcktiandSTy1lUmpvWUhVY1czc0FXQnZVck4tSjIxTDBCNHNYNWd3QWpvUUo1VS10MUs5QXVLdTh3dTRrRkZFYkM2b2NGNTlnMnRMbGJRWVFvS2JyLVhEQS1pVHJndGJzTlNELTNpbk1tNmVJcVNGTURlbTBCODB2bDNTY0tDM3docw?oc=5",
+    "description": "USA Volleyball Buys Irvine Sports Center for $63M Orange County Business Journal",
+    "published": "2026-11-19T15:37:48+00:00",
+    "media": "Orange County Business Journal",
+    "media_domain": "ocbj.com",
+    "country": "États-Unis",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Réglementation & fiscalité"
+    ],
+    "primary_theme": "Réglementation & fiscalité",
+    "dedup_key": "usa volleyball buys irvine sports center for 63m",
+    "collected_at": "2026-11-19T16:42:09.320645+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Du jamais-vu en France, cet immeuble sans chauffage ni clim promet 22 °C l’hiver et 26 °C l’été - Capital.fr",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZGRrTHJrV2ozTVRPRHRPTjJURDVmVWN5b2xOWnRRNmZ1VXdwaktmNHdzQjg4NVNQOTJ1czEtSG5OMG1MOXhpdkI1cmF1VWZkanluWUpMbkxEaFkzWjBTbnM0UW1GLUpiVWJ0aVpkUTVFOVZzamJnN3M1V3F1azZxeXdyYS1qQ2JQU2luaXRnX1lEZVFrVHlvanhVZUo5TWdONEVSUE52bC1WcDN3LTVWR3N0Wm1MTFBkYzdvSHhSX3p1T3VKWTBoVWROVHg?oc=5",
+    "description": "Du jamais-vu en France, cet immeuble sans chauffage ni clim promet 22 °C l’hiver et 26 °C l’été Capital.fr",
+    "published": "2026-11-19T15:31:47+00:00",
+    "media": "Capital.fr",
+    "media_domain": "capital.fr",
+    "country": "France",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "du jamaisvu en france cet immeuble sans chauffage ni clim promet 22 c lhiver et 26 c lété",
+    "collected_at": "2026-11-19T16:42:04.873572+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Aberdeen completes real estate fund merger in response to evolving investor expectations - Investment Week",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNHVoX3V2cDVUOTVfZzd3RjU2MWFEVHdXVDVVTlV6S2hPN3ZBWXZDZExWUGxYWWsxdGpfMTM3Q2FveDZ0ZlpfMDdrTGlPWGxMOE5uV09SN2lCQ2FmYS1EN0NoaWQyRnBFYTUwanR3OVhYTzRXRDBHSEFFQ0NYaGFOeDFRLTE5cmU0VmFVQXF2U0djMEVDSlhmZFBiTnBXMk1VaFNmd1lQNlpkZUhWa3lGQVRsUTNJOTN4VlBiejBlRGlkNWM3M1Vv?oc=5",
+    "description": "Aberdeen completes real estate fund merger in response to evolving investor expectations Investment Week",
+    "published": "2026-11-19T15:29:46+00:00",
+    "media": "Investment Week",
+    "media_domain": "investmentweek.co.uk",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Investissement"
+    ],
+    "primary_theme": "Investissement",
+    "dedup_key": "aberdeen completes real estate fund merger in response to evolving investor expectations",
+    "collected_at": "2026-11-19T16:42:08.783348+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Taxes, fees and condo bylaws: what to know before buying a parking spot - CTV News",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeU55VDRfbUhuOFhnenhSbUpZNVk1a0ZDLWFEU1NEcXpTcjBvRHM4WkhxSnRqUEZ2SVZiRG1XOFc2Uzk1SEZGRXdCbi1ibXV2OHd3RDVmSVRaSEJodUlKeVNDQzk0aTFRaDBCNWU1SmdEN1IxNUswejl2TjNYYkpCOVRjZ3ZsN2dicHBoRDBKN3B0NmlOck1Rb2pBM0VQcEFES2xRS2x3MW04bjR6elBSeXB0blVKb3hzZW4zRk9odw?oc=5",
+    "description": "Taxes, fees and condo bylaws: what to know before buying a parking spot CTV News",
+    "published": "2026-11-19T15:18:48+00:00",
+    "media": "CTV News",
+    "media_domain": "ctvnews.ca",
+    "country": "Canada",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Réglementation & fiscalité"
+    ],
+    "primary_theme": "Réglementation & fiscalité",
+    "dedup_key": "taxes fees and condo bylaws what to know before buying a parking spot",
+    "collected_at": "2026-11-19T16:42:11.019782+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Les loyers poursuivent leur hausse dans toute la Suisse - Batimag",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGJFLU01Zk40d0FZb296bWRocVdVb0l0MVhPUmI3cTFRUG50c21OWURnelgwdEZkdzBPX0RuYktFMHY1aUtTUElITUp2cjFGVGU5dzN5d04xamhPV3BaOVlQcGEwbHN6dGNTQm9yb0IyclFFbWg0dl9aZ0ZHMTBpWE1rZTVWNzlaaG5BSV9FSXFpN1VRODdJ?oc=5",
+    "description": "Les loyers poursuivent leur hausse dans toute la Suisse Batimag",
+    "published": "2026-11-19T15:11:00+00:00",
+    "media": "Batimag",
+    "media_domain": "batimag.ch",
+    "country": "Suisse",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Location & gestion locative"
+    ],
+    "primary_theme": "Location & gestion locative",
+    "dedup_key": "les loyers poursuivent leur hausse dans toute la suisse",
+    "collected_at": "2026-11-19T16:42:05.816849+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Jonathan Rose Cos. looks to bring U.S. investment model to U.K. affordable housing - Institutional Real Estate, Inc.",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONlV5bEJHRl96WHFCQ1YweWI2cmg2dFRIejlSWEE0QVExcHlEdFdHVUpiaTg1U3Ztdm4yZ0t4UU0zelUxSDFzZzRQazhtNXI1TW1aMVhxWHlaUU1ZLXlVdnpCekc0TzV2QTRoNzVfTThQMG1nRUlPUVlxWDBxd1V4T1N4Z01sTzRVbzVZUGVlZXJBZENWcm5melRDeFpNZmJCYlJpWg?oc=5",
+    "description": "Jonathan Rose Cos. looks to bring U.S. investment model to U.K. affordable housing Institutional Real Estate, Inc.",
+    "published": "2026-11-19T15:00:08+00:00",
+    "media": "Institutional Real Estate, Inc.",
+    "media_domain": "irei.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Marché résidentiel",
+      "Investissement"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "jonathan rose cos looks to bring us investment model to uk affordable housing",
+    "collected_at": "2026-11-19T16:42:08.783657+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "News | Spain and UK set for best prime real estate total returns across Europe over next five years - CoStar",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWHFQdThZLXg3NXBnSTQ3cmU5eC1pUVpyVW9rajZxenBkN2Q5bkVzdmhRRmxtMFVRUE43aWJmRlpZS0RvVHdxSXZSVmc0Z2JPMWs2WEJZYVlSNWpHc2hjc2FNSVF6VDdiYXRpc1RZZE44U2pnYmVvdkZBb25vN1RvV3FTVDFZNGtMYzBJWG1yYUVqeWFLZ2E2alk0VVJVUFk3U0g5a0V1NlRldmxQQkY0Y2xENVktbDQ2cHAyVFV5d0FkMmNCa0tYQVVza1RHdw?oc=5",
+    "description": "News | Spain and UK set for best prime real estate total returns across Europe over next five years CoStar",
+    "published": "2026-11-19T14:39:21+00:00",
+    "media": "CoStar",
+    "media_domain": "costar.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "news spain and uk set for best prime real estate total returns across europe over next five years",
+    "collected_at": "2026-11-19T16:42:08.783198+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Canada's housing market recovery on 'shaky' ground - Calgary Herald",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPckpzZEFoRUxMVTNDTzBCbl84eFlINkxBcGdFVGNwdXpFNkc0Yk5Gb1pLWVMtUUVfaVY2cXRmOFRmaXQ3VXQ0TlZ1SEZqdnlEU2hCaUc3TC0yOHRWYmlDTVo0RDhZdDlSQmM1U09QZ3FNWnNyOGR0MzFxTDZqRnJfWHFYQnNHSko3UEdaSA?oc=5",
+    "description": "Canada's housing market recovery on 'shaky' ground Calgary Herald",
+    "published": "2026-11-19T14:25:43+00:00",
+    "media": "Calgary Herald",
+    "media_domain": "calgaryherald.com",
+    "country": "Canada",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "canadas housing market recovery on shaky ground",
+    "collected_at": "2026-11-19T16:42:11.019235+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Pretium Expands Residential Real Estate Debt Platform Into UK With Hilltop Team - citybiz",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNm5TSkQzQmpHdnhCMVc5TXRfTGxPWmpISXR2dENoa0NlcVV6Y1BBMW0wUElQTmRuaWVLTU1TclB0aVBHQ01TdmRERkRlRnphSmhFRnJLU1Y1WlBfTHg4VERwVHVNZldFTV9Ydk9qRWZsZ0ZON005T0k5WWRLU0dZQVptclhoLXNSOXg2Y0FxT3VnMVZJRFBENFE3S2lWdzVpaUFlQXNUaGNFVFpnVVlMVzVKbmlLVVBGX3c?oc=5",
+    "description": "Pretium Expands Residential Real Estate Debt Platform Into UK With Hilltop Team citybiz",
+    "published": "2026-11-19T13:26:11+00:00",
+    "media": "citybiz",
+    "media_domain": "citybiz.co",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Marché résidentiel",
+      "PropTech & innovation"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "pretium expands residential real estate debt platform into uk with hilltop team",
+    "collected_at": "2026-11-19T16:42:08.783465+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Posthaste: Why November could mark a turning point for Canadian real estate and not in a good way - Yahoo! Finance Canada",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUGo1bG1GSTQwSkkyci01SlJ3YVdOejEzM3RhOGp0ZkFoN1RzWkQwY2RwUHFYUmttU3NiOFk5NGk5WDVqSlBsTVp0QkR6MUFUM1dtZGY1OWpJdktYX1FsVmtjalh1REZyUnFDYm5rTjJoMjhWRjZfYnN3NUxYWHBEZkNORUJCdEJla1E?oc=5",
+    "description": "Posthaste: Why November could mark a turning point for Canadian real estate and not in a good way Yahoo! Finance Canada",
+    "published": "2026-11-19T13:08:17+00:00",
+    "media": "Yahoo! Finance Canada",
+    "media_domain": "ca.finance.yahoo.com",
+    "country": "Canada",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "posthaste why november could mark a turning point for canadian real estate and not in a good way",
+    "collected_at": "2026-11-19T16:42:11.019114+00:00",
+    "mentions": 2
+  },
+  {
+    "title": "Canada real estate 2027: where selective investors will win - Wealth Professional",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFYtSkNZZy1VdnZ2Y0ZNd2ZoOEZ5SzdOdWhadG81OWJKX3ZWakF3TjFhZzNXZGk3OVJYQV80bXBPaDJpVl9OaG8zdk9HaVM0QU9fcjVxQURzMTY0YlhPR1BjUklyZkhzeGVnMG9DREFMNXBNTEhLc2FYdk5wajFwOHV5cXo4MUtCMmNVbDdqanUtVkRtbjlaX2xPWWFManFSTWtwVldrN1hKMlJvaHBTUm82enNsSGxrTDFuOThwZFJlZ2R6bWRxTXJwSGNIc2h6?oc=5",
+    "description": "Canada real estate 2027: where selective investors will win Wealth Professional",
+    "published": "2026-11-19T11:44:58+00:00",
+    "media": "Wealth Professional",
+    "media_domain": "wealthprofessional.ca",
+    "country": "Canada",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "canada real estate 2027 where selective investors will win",
+    "collected_at": "2026-11-19T16:42:11.019392+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "CaixaBank prevé una moderación de un 4,4% en el mercado inmobiliario en 2027 - El Conciso",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVFlROG80SHF2RGhqSWJwT2NVNlNsMmUtbkM5STBEajFiQWRIcFI1NFNtQ3k1ZW84MzVhSkFVRXphRGE2anNuaE9TeXhVckx5Z2YwZklNcjA0UmphdUlwNm1JT1I5UG5CTUpIMWVaMHVnLTBVWjJtdjVGWmpCTlhPclF6OXhoM0w4bEprblFWRjQ3c0RzV0RzQXZJa3psVjhMLWtyTE9JRkh5d9IBrwFBVV95cUxQbHdtMmNMYjhmaHpUbW1OekktcktMYURQdVpSVE5zTHNhbHppWkVVNlJCcElja1I1d2xacVNHanlQcU40X1d2RS1jVUF1el9HZ3VjUEVpLTZUTE8wb3h0bWxXaDhrekdwTDN1V3lnSGk5bU55aVA2c2tjcDRkemFZakZTUGlnWEMya19qbFMtc0pGU1ZBSVpHN1BMYWlyalUzMG5wVkI0aDJWeW1Pd0pr?oc=5",
+    "description": "CaixaBank prevé una moderación de un 4,4% en el mercado inmobiliario en 2027 El Conciso",
+    "published": "2026-11-19T11:44:23+00:00",
+    "media": "El Conciso",
+    "media_domain": "elconciso.es",
+    "country": "Espagne",
+    "language": "es",
+    "language_label": "Espagnol",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "caixabank prevé una moderación de un 44 en el mercado inmobiliario en 2027",
+    "collected_at": "2026-11-19T16:42:09.803355+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Taux d'intérêt en hausse, rénovation, crise, marché qui ralentit... enfin une baisse des prix de l'immobilier en Belgique ? - DHnet",
+    "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPRHZSVGtiNU9aM0Q2Z3ZPcFRPcV9idVZ1ZFE5cjBBWEtwbXpSVTQ3cUx4YjJZTl9naUg5cDRkRUVOUENkVXJOQ2VHcEs3QkhHRE5EdzFrWTR1US1raDA5N1B5SWtGWWZpOFU0V2RsUXBoakNEMGlmc1VsbUZxSVJ4UVc2MVhTQ0xIR2Y5c1JWeEZhQTNjOXctTTAzcWFDaU15eWhaN1hfb3oyNWpmWWN4bnBaSFhLRU9ZcnNtZW9qUi0waHh5dXNyZERxSks5cmhIeTFBTkk0eGwyNUlsTGcxQ1BNNXZzWnhBZTBtVHN6dG9yR1R0eXlvX004VDVUZ2Nna21qWVJxeDMtbWZzNVlZYk9XcGp0MC1xLUE?oc=5",
+    "description": "Taux d'intérêt en hausse, rénovation, crise, marché qui ralentit... enfin une baisse des prix de l'immobilier en Belgique ? DHnet",
+    "published": "2026-11-19T10:51:00+00:00",
+    "media": "DHnet",
+    "media_domain": "dhnet.be",
+    "country": "Belgique",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Financement & crédit",
+      "Immobilier durable / ESG"
+    ],
+    "primary_theme": "Financement & crédit",
+    "dedup_key": "taux dintérêt en hausse rénovation crise marché qui ralentit enfin une baisse des prix de limmobilier en belgique",
+    "collected_at": "2026-11-19T16:42:05.403912+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "La FNPI mobilise l’ensemble de l’écosystème pour une nouvelle feuille de route - Aujourd'hui le Maroc",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUkV2TEs0a19MRjdzeTZ4UFhUVkdDVDVNaXhPa3Jhem9VdzZaUmw1Rm9PUHdILVY3ZE53bHB2cHpRVHRYUlRvVG8tYUZ6UUpxOHNTS05MTjk4d2gtSlAyb0lxYlpBWWFsN0JwbUlZdjluMnQ4cDM1RG1INW00SDNyTXhlRXZFMTRYYjg2d2dCMDNoTHZFX0RnRjhFM1VmSzZORmphTUd6Z1R2SGQ3UjRrMlRWdlIyUWpwVWc?oc=5",
+    "description": "La FNPI mobilise l’ensemble de l’écosystème pour une nouvelle feuille de route Aujourd'hui le Maroc",
+    "published": "2026-11-19T10:34:01+00:00",
+    "media": "Aujourd'hui le Maroc",
+    "media_domain": "aujourdhui.ma",
+    "country": "Maroc",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "la fnpi mobilise lensemble de lécosystème pour une nouvelle feuille de route",
+    "collected_at": "2026-11-19T16:42:06.452833+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "حنان رحاب: التضامن مع رمسيس بولعيون ومحمد الورياشي هو دفاع على حرية الصحافة - كود",
+    "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZzQ5aVJ1dzlnY2lXdnVGa2E0SFYxYmhHM3hsRTdBNHlRQWZPclhfckJKOVV4ZFdxcmNNREN3dVB4LXluTEVqaFQyNVJmckJWTEwwTFlKY2lLOFBsQ2R5Zm1kV0JaSFN4TGRZV3lIbWxBTERxSXp3TWxjMXdGNDdFMVRDc1hwZUFiVkxmc0EwcE9GY3BPTlBiTFY2TnJCRFpvdlFBQUtmQWxpeURtaVdHNWp1VVJXMlRld1A1ank2bUY4aTFGS2lINXg2dy1VU0ZMSGR6QkZ6SFQ3TVJNSExiM1daUHFVdW1DalpPLTliX1lESlAwcTgxcUtxTTBuRy15aFRNbElNbXJVM2tMVWc5VWRRZEU3OEc0QWNuYjFUR3FUV0o3Z0dUcUJ1Mk5mb2Fkc1BMbXl6aXdJNFIzVnlESE4tSGJMUnhlUFg4?oc=5",
+    "description": "حنان رحاب: التضامن مع رمسيس بولعيون ومحمد الورياشي هو دفاع على حرية الصحافة كود",
+    "published": "2026-11-19T10:22:00+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "حنان رحاب التضامن مع رمسيس بولعيون ومحمد الورياشي هو دفاع على حرية الصحافة",
+    "collected_at": "2026-11-19T16:42:12.544852+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "UAE real estate: Will AI replace property agents? Experts weigh in - Khaleej Times",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeEJkSU9ET1Zsd1JmeVY0dGV4NUJYc3JqT2RsQ0FqZWlzZjJ0d19xelFZd2txenBFc1UxNGVZNjRwSzk2MmhVakttcllTR1RWUHdTTUpFRmJuWFVfVXJWaFBhTzlnLVR1WVByWTZ3aWR0cFVRR0NYWi03M3BzbGVvd2tLcUFvVzd3VmNkSFFEVHJma3fSAZsBQVVfeXFMUE1lczRHNnd0dEU5NmpoWUgwbjAwdUEtMHhfZ296bk1RU3d5YTdBc0g2X1VyZ2RFY0FmMWhia0JETlVmMWZKN01NSmp3enhBNEhMVGFaSkdDVDBqSGV3dnVSU2RycW1SNFhxMWZHdXRVV2VFNFlyby03ZWZSMXNtWVBWNTZuTy1XRFgxRHZaeFlucEczNEtEaDNLN0k?oc=5",
+    "description": "UAE real estate: Will AI replace property agents? Experts weigh in Khaleej Times",
+    "published": "2026-11-19T10:11:42+00:00",
+    "media": "Khaleej Times",
+    "media_domain": "khaleejtimes.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "uae real estate will ai replace property agents experts weigh in",
+    "collected_at": "2026-11-19T16:42:07.713777+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Le marché des bureaux en Suisse reste globalement stable - allnews.ch",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY1pvRkNLSWZvU1RmRklxX2FBSVhXVGhha2NqUnFNdWoyUDVDN2VHSUpLeVBwbEtDUUNyc1dvcGVwVnNMdjZZRDRUTHpMUldhMVNxem9INUJSVFNIOGZ2RWtpYUhVWjMwQ0l4VjR5eFdpdTduZzM1eGRrd3lBOGhBWndLTnlRN0U1bVYyODQwemt2dFJvbV83VHNZV0dMZ1RRUGtYTV9B?oc=5",
+    "description": "Le marché des bureaux en Suisse reste globalement stable allnews.ch",
+    "published": "2026-11-19T10:02:22+00:00",
+    "media": "allnews.ch",
+    "media_domain": "allnews.ch",
+    "country": "Suisse",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Immobilier commercial / bureaux / retail"
+    ],
+    "primary_theme": "Immobilier commercial / bureaux / retail",
+    "dedup_key": "le marché des bureaux en suisse reste globalement stable",
+    "collected_at": "2026-11-19T16:42:05.816753+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "UK rents rise 3.8% as London’s house prices fall again - Property118",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmRQTFYybDZlaFpndVQyV2NjX1R5cGpjTFJWLV85em12dEdVcnBXN1ZnSk1rb2FTRUFVTVJqVFNHQy1fVFViVUowUjVDYzM2VXZSUmdfc3BnejJxb2MwMk4zUUtwaXlzT0padGlFTExEc0NuRGlqZ251X0JHa2ZwYU5aNk5obWxK?oc=5",
+    "description": "UK rents rise 3.8% as London’s house prices fall again Property118",
+    "published": "2026-11-19T09:38:02+00:00",
+    "media": "Property118",
+    "media_domain": "property118.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Marché résidentiel",
+      "Location & gestion locative"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "uk rents rise 38 as londons house prices fall again",
+    "collected_at": "2026-11-19T16:42:08.783595+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "دراسة.. دواء شائع قد يقلل من خطر الإصابة بالسكتة الدماغية - برلمان.كوم",
+    "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPdFEySzNGTDhYQWZYaGpXdWFVQTE5cUt2OFYzd1pmRk0zY3RmUi1jUzJ4LUpDWDFhUHQ2LTE0NHNKbmJsc2tWNDhDdlkyOWxsLUVMVjc4RHdidEwwakZVYWRUTllnMHJqZ2RsWHh2Vmt1YjNGU2I4UnFlZW9ibUlMTnFlS2JWQTNkNVRyaVY1LXk3Vkh3d1lWcnVOazRRak1UMHd1em9QN1pyVzlBWXBhMzVwSThrWlJwbjYtTnpsbVp2alc3M0NJSFlObkF0c1JrY01PSW9hQjRkWnVmYjd6ckxVM00xdVVGb0g2c2dSUDM2OGQ3Q1RKQVItMkNGU1ZZSE9DaVFOQ3VIell0YVJ5emltbWhzd3AySkM0RTZrdjVFaDFhd3B0Qm5DQXpBLW0za0ZVaVFSVHdpNm1I?oc=5",
+    "description": "دراسة.. دواء شائع قد يقلل من خطر الإصابة بالسكتة الدماغية برلمان.كوم",
+    "published": "2026-11-19T09:14:28+00:00",
+    "media": "برلمان.كوم",
+    "media_domain": "barlamane.com",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "دراسة دواء شائع قد يقلل من خطر الإصابة بالسكتة الدماغية",
+    "collected_at": "2026-11-19T16:42:13.008861+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "The Briefing with Arabian Business: Full agenda and speaker line-up revealed for Abu Dhabi - Arabian Business",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORXhOd3lra2s3MnV6Q3JUSkQ0Tkw4QllRdmk2RTJyV2NMQ0xxdjBFVmR4OXJ5QnNKbTYwb3Z6a1Y0ZVJUN29MVjVSVjZlV3VlVGJHc1hhQmhJUE1ocGVCU0UtX2ZvYWhyM2FRS3RKVFByckRsaU1EMmVMYmVPeFdZRk5pNjlGVnpIUVlCVElxQTVjX0puMkV4MlNVRERBb0RPMlN6ZlhmNnMyS3BFRWwxaVByZ3dYNzVybjdaR2FTbHhyb0F2X001SFBuZTY5TWs?oc=5",
+    "description": "The Briefing with Arabian Business: Full agenda and speaker line-up revealed for Abu Dhabi Arabian Business",
+    "published": "2026-11-19T07:49:24+00:00",
+    "media": "Arabian Business",
+    "media_domain": "arabianbusiness.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "the briefing with arabian business full agenda and speaker lineup revealed for abu dhabi",
+    "collected_at": "2026-11-19T16:42:07.714591+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Karma Developers partners with Emirates Eagles as front and back jersey sponsor for Abu Dhabi T10 2026 - MediaNews4U",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUhCSEZWMUJhalJycjFjRFFMZ1ZhNEgzeHdKWlVkMVNTeGNWM0lZd0JGVjFXWklMdXdKWG5RWTVncy03RjJobl9FUmZzSlhWTHBKNzYtVjl2cjJxZE5SYU9ZbTJDX2J3YXhvSnlPc0ZkNTFMQmltSW92ZmxjRER2bjZEdFhwQzZCdzhjbElMeG05MHc2cnpmVkNOWndNeDJXVWFEZVB6dDBOc0t6Z1Z4SFFqVEY2dURNTElfZERDb2VTckc5b2xVRXU2TQ?oc=5",
+    "description": "Karma Developers partners with Emirates Eagles as front and back jersey sponsor for Abu Dhabi T10 2026 MediaNews4U",
+    "published": "2026-11-19T07:47:33+00:00",
+    "media": "MediaNews4U",
+    "media_domain": "medianews4u.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Construction & promotion"
+    ],
+    "primary_theme": "Construction & promotion",
+    "dedup_key": "karma developers partners with emirates eagles as front and back jersey sponsor for abu dhabi t10 2026",
+    "collected_at": "2026-11-19T16:42:07.714047+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Ile-de-France : un marché foncier contracté, une tendance de fond - Le Moniteur",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcTdWNHk0TmNJa1E5U1I2b2dxYVlPV0RLb0l0ckp5M1RPTGlvaW9PeFdQY2hMNGVzVWFqWjdTdXJIeUtHdnRSM1R1NmsyR1BWVE91M0duTnp3ek5UQTQ4X3cxY2lIUXp6MEtLY2xoRzdBR2xCdkkwWHhZQVdHV25wRXBkSHpfUzNYVUFMYVpCZWR0OVpmdnJZU2RnYWN5eEtPTExXaUpJV0lxai1CY1Y4cFBKOXlPWXZVN2JwMkpULU1oclVpTWl4YUVGSQ?oc=5",
+    "description": "Ile-de-France : un marché foncier contracté, une tendance de fond Le Moniteur",
+    "published": "2026-11-19T07:27:10+00:00",
+    "media": "Le Moniteur",
+    "media_domain": "lemoniteur.fr",
+    "country": "France",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Foncier & urbanisme"
+    ],
+    "primary_theme": "Foncier & urbanisme",
+    "dedup_key": "iledefrance un marché foncier contracté une tendance de fond",
+    "collected_at": "2026-11-19T16:42:04.873362+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Hawthorn Capital acquires Leeds lettings firm in expansion - PropertyWire",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWEVuXzMyckwybERLTU1xTUJUUDVLd3pQZ0llRkl3LXktWWpzLUpSVmJPMFEzYl9fclB2c3V5RWRsdjV1QXA1aEcxN0JPd0hQcDlfM2hOMTVValVwbHA2aHVnMUhwdndtaFJDZkdreEtKSHRnRWxBTU5NSlA1WUtIU2M5STJDZHl6T1ZQa3RWalM3VXJ0YzNtem90R2VPUk44QURJ?oc=5",
+    "description": "Hawthorn Capital acquires Leeds lettings firm in expansion PropertyWire",
+    "published": "2026-11-19T07:03:56+00:00",
+    "media": "PropertyWire",
+    "media_domain": "propertywire.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Location & gestion locative"
+    ],
+    "primary_theme": "Location & gestion locative",
+    "dedup_key": "hawthorn capital acquires leeds lettings firm in expansion",
+    "collected_at": "2026-11-19T16:42:08.783868+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Abu Dhabi's luxury real estate market continues to attract attention from international investors and homebuyers, with new waterfront developments bringing distinctive architectural concepts and premium residential offerings to the capital. - Big News Network.com",
+    "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQcmtYZTBsZVJjbER2cVJiZG9MV1JmTGd3c1hUSi1INFlQTEpKZUZkMkVGZklibGZNWlg1MkJGbGE4akRFSlBHSWRNdHVLVzR2ellTYmNoazRTMlVrOE5IWjBEaFJDeUZKY09oREtZd09NQm12N1p4RUNLX0x0aVA5enl6ajA1QWFmTXdzQi1yRWxwaGE2ZlRnZWU4dkZzcmxYWTc5WGlPb2dJWXlSbUVod3JVRFZacU5uNHlOWkFNUHEySDJ0S2pqYU42bDVoUF9YaXZHZjcySnFtUHdaNG9PNVM3czRrMngtOExHc0VGcGhONFNzZWVJVUZpOFRMaUtjREtJQ2pNTG1yZFl4UnE2TXJNZXlhdnIyVElHU2htczA2N01DTTFrSVBPcDVXcF9LTzRrMkZVcEtjek1pTUlFVWhHNE03Vmg2Y1lFUDR3SnBFSGttVTVoR3R4MEh0a01Ya2t4Y09rLVZBbjVsR0E4QlViWm9xeFhXQThCMWpCeVYzVi0wSm5XNHVCcHZ1MkczZkJLVw?oc=5",
+    "description": "Abu Dhabi's luxury real estate market continues to attract attention from international investors and homebuyers, with new waterfront developments bringing distinctive architectural concepts and premium residential offerings to the capital. Big News Network.com",
+    "published": "2026-11-19T06:50:00+00:00",
+    "media": "Big News Network.com",
+    "media_domain": "bignewsnetwork.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Marché résidentiel",
+      "Immobilier de luxe / haut de gamme",
+      "Construction & promotion"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "abu dhabis luxury real estate market continues to attract attention from international investors and homebuyers with new waterfront developments bringing distinctive architectural concepts and premium residential offerings to the capital",
+    "collected_at": "2026-11-19T16:42:07.717317+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Immobilier de luxe : « Paris sera toujours Paris »… les coups de coeur des fortunes mondiales pour la capitale - Les Echos",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQckdRUXlmdDJfa016LTFIYTRDT2htYVoyaFlXMWRjWGM4d1VDYXRNNzZkYktTb09pYnVQOFJfVkZzTWE4bnZmVHNoRGV1MzZQak5TTDhIMzRHYWlPR3Q5Y2RjTlo4b0VuNWc5X19MX3VnRWpVdkZhRHhld0NsaWM1bC1sYjNtRHJ6R3V6OWhJcThPd3p0U2U2VURFQjFUX2VxRUVNWV8yMnBoVHB4c1ZXNXItelp1cGpNeWoxaWZ5N0lRX0xkSzJVVUVQcG5YZTNIcVlwNzd2RjFhbTd0NEtQQ2xJUEU3d0g4VjFVNzVn?oc=5",
+    "description": "Immobilier de luxe : « Paris sera toujours Paris »… les coups de coeur des fortunes mondiales pour la capitale Les Echos",
+    "published": "2026-11-19T06:22:08+00:00",
+    "media": "Les Echos",
+    "media_domain": "lesechos.fr",
+    "country": "France",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Immobilier de luxe / haut de gamme"
+    ],
+    "primary_theme": "Immobilier de luxe / haut de gamme",
+    "dedup_key": "immobilier de luxe paris sera toujours paris les coups de coeur des fortunes mondiales pour la capitale",
+    "collected_at": "2026-11-19T16:42:04.873277+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Real estate firms rank second for AI use in UK business survey - PrimeResi",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEV5dXYwcEVvb3pOcS05VXNiNmhZRmhHTEVjZ01sYzZrOVBUSVhSWlNzNjlrS01YUFhXYm5fbmNrS210OEFvaVRMTlBvUHNNZndiZ0x5SDVtOFRJQkdETGQ1VzBYb21hamQwTU1aUnowVGdzd0tfTE56SlhsNTVBaFdqbzFxWXVWWFRYdGNB?oc=5",
+    "description": "Real estate firms rank second for AI use in UK business survey PrimeResi",
+    "published": "2026-11-19T06:22:02+00:00",
+    "media": "PrimeResi",
+    "media_domain": "primeresi.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "real estate firms rank second for ai use in uk business survey",
+    "collected_at": "2026-11-19T16:42:08.783288+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "BNW Developments founder Ankur Aggarwal felicitated by UAE minister at Abu Dhabi tolerance festival - Business Today",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTU9TYjFldV83LWIzMzBsbHFVUjE3YmVxRGkyU0FhbUVkLXJ5NXdzVXNVZ0lmZUFxMmRBaGwyNTRmM2RlZm9CeTBEeVljcVNKak9hOGFzS0pWYkVSU2JZQVp5c190UWR0OTJwaXlidkFaOFJrTWdCZ1FEdVZCQ0Jxc2REZE5PU1FGWGpuSXZBeDFrY2xJblFCNmRNT21wRElCSlhDb0FaNnBaSGtkaW5RVVhlcGQ2X3VySmFSdVIwV0FJeEdtTW40MFBzOXVRQndtNDd3b3g0LUFaR0dadVE3VkFYcG1WaE9LMEUzVVJTOTdFZlZWVXlYOVlwUEvSAfwBQVVfeXFMUE1PU2IxZXVfNy1iMzMwbGxxVVIxN2JlcURpMlNBYW1FZC1yeTV3c1VzVWdJZmVBcTJkQWhsMjU0ZjNkZWZvQnkwRHlZY3FTSmpPYThhc0tKVmJFUlNiWUFaeXNfdFFkdDkycGl5YnZBWjhSa01nQmdRRHVWQkNCcXNkRGROT1NRRlhqbkl2QXgxa2NsSW5RQjZkTU9tcERJQkpYQ29BWjZwWkhrZGluUVVYZXBkNl91ckphUnVSMFdBSXhHbU1uNDBQczl1UUJ3bTQ3d294NC1BWkdHWnVRN1ZBWHBtVmhPSzBFM1VSUzk3RWZWVlV5WDlZcFBL?oc=5",
+    "description": "BNW Developments founder Ankur Aggarwal felicitated by UAE minister at Abu Dhabi tolerance festival Business Today",
+    "published": "2026-11-19T06:21:26+00:00",
+    "media": "Business Today",
+    "media_domain": "businesstoday.in",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Construction & promotion"
+    ],
+    "primary_theme": "Construction & promotion",
+    "dedup_key": "bnw developments founder ankur aggarwal felicitated by uae minister at abu dhabi tolerance festival",
+    "collected_at": "2026-11-19T16:42:07.717375+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Le monde de Baylen, Crédit immobilier S03 jeudi 19 novembre 2026 sur TLC France : résumé et diffusions - Programme TV Ouest-France",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbzQ0RmFUUEJ4cFZwRE5RMWp1ZHNPMGdDanBvdURwRWozdFdYSDlWUWl4eW5wUWFfb1Z4UXd1QzFVZl85ZU9EeXh3UmlYOGs4M3ZyQm0wWGNhNmJxeWFOd1NiZTlBdng3WnhZQ2l5S053VGhjcUlNdXFLSkQtQzBZN0xBb1pjS0dmeEtRTUk5UndLYlA1aFdPYjZXWlBRT0dsR3Rib0QzY3VRX3B0R3loTVNCVmZ2blVtU2RHbE81QWNrdw?oc=5",
+    "description": "Le monde de Baylen, Crédit immobilier S03 jeudi 19 novembre 2026 sur TLC France : résumé et diffusions Programme TV Ouest-France",
+    "published": "2026-11-19T05:40:35+00:00",
+    "media": "Programme TV Ouest-France",
+    "media_domain": "programmetv.ouest-france.fr",
+    "country": "France",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Financement & crédit"
+    ],
+    "primary_theme": "Financement & crédit",
+    "dedup_key": "le monde de baylen crédit immobilier s03 jeudi 19 novembre 2026 sur tlc france résumé et diffusions programme tv ouestfrance",
+    "collected_at": "2026-11-19T16:42:04.873641+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Slowdown in UAE property market creates opportunity for developers to reduce leverage: Moody’s - Zawya",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS0VWaUdGLXRLemg5TGhKVW81ZUgxTlRiZ1VtZjVBVzhINnRrS250UmVSUDdUZU84Y3hGU2h1bXJxUE5GWW5aaFZiSVQyTlZpR09zSGJJVFZERUIzWFNCQUNTcVFXc000THBqU00xTVJGZVRjYWxiemtfQngza00xbTFKYWFKU3JfOWVkXzNqVE42NTJ4RGpURVpYT1d6cl9nS0w4OTlWc05MWm9naDN2TXdjT0hld3NvVnNFSWhzS0tBb1ZzQ1lEaEJSdTJZX1E?oc=5",
+    "description": "Slowdown in UAE property market creates opportunity for developers to reduce leverage: Moody’s Zawya",
+    "published": "2026-11-19T05:22:00+00:00",
+    "media": "Zawya",
+    "media_domain": "zawya.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Marché résidentiel",
+      "Construction & promotion"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "slowdown in uae property market creates opportunity for developers to reduce leverage moodys",
+    "collected_at": "2026-11-19T16:42:07.713710+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "El sector inmobiliario reivindica los fondos que Sánchez ataca en campaña para paliar la falta de vivienda - El Español",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNlg5ZzdEVWxDa3pLYUw2TkJ2NHZCZmpFTWZSQ196WFh3Y3NHM3l1anNmcE9QcnpHbmJBS1daOWFzaWQ1YU1IV0g0MFk4UkZzODJ6VFpxRXN4RjJuX0RDbVF2SkxFNVBIYjdPVWZFejhMSWVaZnpZaHZ5YUxzR1lLOU5rNk5iODYyTXFIXzZIcThOYXNEV01EWjUxZk1rU1NvQ1VPYXcwbUV1WXhERnRnQnQxMGhESENEY3AtTkNTRHI5c0drTWtfbGQzOC01VkxfbHdOQ2RGQ2Q5R21PTjh1ZXlPbU5wYUVja013bFZPNUcxTDRqcTVkbVhyanZ1d9IBgwJBVV95cUxOSDF3SkpobE42UFlMZDh5aE1ydk96eWFIUjZnOFE3aXoyTER3cWdGem1pb3ZFLU5BclZSdS1IcUZWRXFKaEo2WWVEOFR0MXVyeE9rcXRRbWF2RGlNckk4M1hRdlVBdm5iTDNTdWk3QXFrMWNBV2x3QzNoSkU2SFZMdzlwX19adFNpbzFxbWwwN1AwSWlWMmJTX2tUb1hjajV1eHRVam0zSnF0dFM4VzMyNGhfTTJ6Zm95VG81Vkl6R04wMVlMcXZPZGFLREV1R0w4ZDhoZHJHXzVvOG9ZeDljTjA1ckU4UzFxSkRQa2ZNTnIzNnl4aDg5bkdkeDFUTVJpclFJ?oc=5",
+    "description": "El sector inmobiliario reivindica los fondos que Sánchez ataca en campaña para paliar la falta de vivienda El Español",
+    "published": "2026-11-19T04:00:00+00:00",
+    "media": "El Español",
+    "media_domain": "elespanol.com",
+    "country": "Espagne",
+    "language": "es",
+    "language_label": "Espagnol",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "el sector inmobiliario reivindica los fondos que sánchez ataca en campaña para paliar la falta de vivienda",
+    "collected_at": "2026-11-19T16:42:09.803507+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "UAE developers struggle to meet handover targets ​ - Arabian Gulf Business Insight | AGBI",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX041TlU1RXo5aUJ1eE5rR2FpVjZmVE5ybjhZRkdhNVR2SThmd1RIOGVtQXpqdXRqWV90Z0k4OW55ckw0cnVoUUNyZVZTSEtMU2xnRXMzcTBnZUhuMDVMUFZhQlhibzRRMDh3TlUtR052alI4WllHSi1lVlEwLVRXY0loV0tiNk5oN0UwelgwUzk0TzI3VkFIcGhudFQ1SWdR?oc=5",
+    "description": "UAE developers struggle to meet handover targets ​ Arabian Gulf Business Insight | AGBI",
+    "published": "2026-11-19T00:00:00+00:00",
+    "media": "Arabian Gulf Business Insight | AGBI",
+    "media_domain": "agbi.com",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Construction & promotion"
+    ],
+    "primary_theme": "Construction & promotion",
+    "dedup_key": "uae developers struggle to meet handover targets",
+    "collected_at": "2026-11-19T16:42:07.713858+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "PANORAMA: LAPD chief says 2028 Games security to cost about $3.5-4 billion; Pochettino’s U.S. teams were very good, except vs. Europe - The Sports Examiner",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZWU2T19wQ3hIbW9jb21PRmkzN2dMOXpMaEhfVEU2MmdnM0FoY09tdWVRWjFrMElEcjIxTGhwNnVlWjVwRjVJM0NxaEFyS0Q3bXVtTGw3aVdhS05abnR6cjNSUmdnWWhVMjJJRk5Kb0FYa0RUOFBTQks4Yk1MWlJneTdyelFLVnlGcTZ5cVc5MEhNVkZuMWlIcGZwemJXZV90eFJNOTlHUVBjNG5TOHVSSzhEa2J5MURKU3J2T0FfbUFZNFl4cWNtMi1GZ3VyR085bGkydnhaZ3drcWRnX0J0QVdSOGhZNnFHekZwRXh3?oc=5",
+    "description": "PANORAMA: LAPD chief says 2028 Games security to cost about $3.5-4 billion; Pochettino’s U.S. teams were very good, except vs. Europe The Sports Examiner",
+    "published": "2026-11-18T23:09:43+00:00",
+    "media": "The Sports Examiner",
+    "media_domain": "thesportsexaminer.com",
+    "country": "États-Unis",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "panorama lapd chief says 2028 games security to cost about 354 billion pochettinos us teams were very good except vs europe",
+    "collected_at": "2026-11-19T16:42:09.320768+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "76 مليار درهم مبيعات عقارات دبي بالربع الثالث - صحيفة الخليج",
+    "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxPTnNVeVNKU0ctOGVhUEJRc29ZSS1rY1NvSGJDQ1BwR0ZESFQ0MFBsMldBVVB3NDBfTG5mNGc4Tk02cmN1MnBWSUNDYXN0Q3d3bGNNZ0NaNjBCSFdXUTM5RTJJb3pEUXBrYnBRVkRkc1ZrQ0xMVG5YWGNGQUJORzdkOWpZQTNLelNPb1puZzNzTU0zSG9odk01VTR4UndqekJTX3ROOTBFQXNQVDVDd2gxWGRQeGdOVHhEVnBmZ0o0OE5nNV9EUVlGYVpOYmlXejB1MFMteFpreHYyelNxMkx3YmdQZk5vcnlFSm9tRUoxY2x3T0t4QURpNmVtSHRlTUJySEtEZGdnNEk0N09SeDRFQThNb2ZYVWxZVG5TaTczcjduckdRT3Q0WFNDSkVjOXhrN2c3N0hDREk1UlFSSE1fYXVLY1h4M0ZMbzFUaGw2MVNjSnRWbmVJZm91S3FFUGlZVGd3cTN3Q0VrOEZFTUhaZkdZbWdqYmJsUGRnM3hKLUxvYU5qX1pweFlPQnNHdmtpMTYzMkkydkY1dDNwLVhrSll0OHY5a2FRckpDN3lFOUVxNEtWa2VVZGxVNVVLTmwtUnZ1Z2NjbDg1UkpweUJ5REc2RElrUENwQlRPRGo1cl82XzRIa1Bscm44ZDFJN0RocXlEUFhnTHRuSDJ2cXhTbkRsN3Z3WWxOQTJFY0twck0teHhu?oc=5",
+    "description": "76 مليار درهم مبيعات عقارات دبي بالربع الثالث صحيفة الخليج",
+    "published": "2026-11-18T20:00:10+00:00",
+    "media": "صحيفة الخليج",
+    "media_domain": "alkhaleej.ae",
+    "country": "Émirats (Dubaï)",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "76 مليار درهم مبيعات عقارات دبي بالربع الثالث",
+    "collected_at": "2026-11-19T16:42:08.216598+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Housing minister won't reaffirm Liberal pledge to double home construction - CTV News",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkdBNUNGMlJjWXB3Y1JpRGhxZzNydk9kVk1WRFcxX3JBNVdhNDMwNlQ0b1UyMFVfWFl5VnIxT2RQY3BNaElPZG1KWm9WaWg5UXR5bllyOV9zbFprZE81MDlPYTZwX3h2WGVFVVhvOHNKdE1mWC1vOVdPemZaUWRlU0sxNnI1S3M4VWpUVWRUVjdDcnhDMWlRcXBYYkZDVjN2REJORGNkSHBna2l3dHZ5QnRqUDc?oc=5",
+    "description": "Housing minister won't reaffirm Liberal pledge to double home construction CTV News",
+    "published": "2026-11-18T19:46:20+00:00",
+    "media": "CTV News",
+    "media_domain": "ctvnews.ca",
+    "country": "Canada",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Marché résidentiel",
+      "Construction & promotion"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "housing minister wont reaffirm liberal pledge to double home construction",
+    "collected_at": "2026-11-19T16:42:11.019288+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Hot Picks: Three Canadian stocks spanning malls and senior care - BNN Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM2NHT1pIS2VTckFBb3JJRWN1RGotZWpmMnU5YkRuS2VBbk9OVzY0NlAxY3BlOGVBYU5IU09mcXNoVHRETG5ENnJOSDFfYk4xZThKN3FFc3ZkU2hpZmh2LW9fTmFRUmpVbDh4SFkzZms4cnJWV3ZjUlloelJ0S1dkREVZTXAyTk1EYURpMmVoRTFhNEM2NGkyY1JPOFplXzNVaURPZ2VEQVUtV09XbFgtUzNUXzJPc1V3d3hmcDM1Zw?oc=5",
+    "description": "Hot Picks: Three Canadian stocks spanning malls and senior care BNN Bloomberg",
+    "published": "2026-11-18T19:43:49+00:00",
+    "media": "BNN Bloomberg",
+    "media_domain": "bnnbloomberg.ca",
+    "country": "Canada",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "hot picks three canadian stocks spanning malls and senior care",
+    "collected_at": "2026-11-19T16:42:11.019183+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Sirius Real Estate (LSE:SRE) Grows Rent Roll and Raises Its Dividend as It Opens the Door to UK Deals Below FTSE 100 - Kalkine Media",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPX25JVllmZ2RKT0tHMDFIbVVSZ3gtVGJtTGdVMW14M0dPdFNvcDRyUXlLWERfamlObDI3aW4zN0NYNEZwVjdQMnFpT0ZpSUQ3VEpiMnRvVThUdFNMVXVjMU9vaVhKMkk3Y2xxSl9vc1RiMV9jb2dNM3ZPUlF2bUJsUzQ0eXMzczAtTjR5bjhkSFR0MVpvRkN3SWxyU0ZFc2hvenhvZ3VoYTdGYUhiallQYmJFR2hiYTlRMUR1NDF1TUZQZ0xldHBQVTRVdUdZMFliQ0IzX0dOdzZjbEVmODRPQ0w5R2FNSW1neTlnX1A0NF9haHBPM0dLOHp4SE0zdHU3NzA2VTFyVjhsalE?oc=5",
+    "description": "Sirius Real Estate (LSE:SRE) Grows Rent Roll and Raises Its Dividend as It Opens the Door to UK Deals Below FTSE 100 Kalkine Media",
+    "published": "2026-11-18T19:27:00+00:00",
+    "media": "Kalkine Media",
+    "media_domain": "kalkinemedia.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Location & gestion locative"
+    ],
+    "primary_theme": "Location & gestion locative",
+    "dedup_key": "sirius real estate lsesre grows rent roll and raises its dividend as it opens the door to uk deals below ftse 100",
+    "collected_at": "2026-11-19T16:42:08.784739+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Aide directe au logement : près de 131.000 bénéficiaires depuis 2024 - Lebrief",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbldTN0s0ZHFnLWNLUnl6MURsU3pKeE1BZ1llSzYySGlUbk1aa1IyMWlBVWRsV1RFNXVMQnMxN1B6bG9vMWlKcE1XSUxZbGh4LVJLaVpiSlhMVjZfamNCR3hmNHJ3WFVFeFh1aDBFMjh3N2l0RmU2b1lwdnJoUUVPa1RoWE80cUk?oc=5",
+    "description": "Aide directe au logement : près de 131.000 bénéficiaires depuis 2024 Lebrief",
+    "published": "2026-11-18T19:13:00+00:00",
+    "media": "Lebrief",
+    "media_domain": "lebrief.ma",
+    "country": "Maroc",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "aide directe au logement près de 131000 bénéficiaires depuis 2024",
+    "collected_at": "2026-11-19T16:42:06.453598+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "UniLodge Canada expands PBSA management footprint to 3,100 beds, 4 cities - RENX",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKYnZLQzFGcXhncmNDYWxJMkl6UFhoQWRsUzJPZEtRdlYxb3htbFgwdlV1SEJ0cE9Cckk3RFdIVnFDZFV0Rk00YmRFZVprQk11QlZtN1dLMGcxQTRrSnhJSTgzMnNmRjlHZ3pnbFUzd2ZuRDFvQkx6MHRB?oc=5",
+    "description": "UniLodge Canada expands PBSA management footprint to 3,100 beds, 4 cities RENX",
+    "published": "2026-11-18T17:05:45+00:00",
+    "media": "RENX",
+    "media_domain": "renx.ca",
+    "country": "Canada",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "unilodge canada expands pbsa management footprint to 3100 beds 4 cities",
+    "collected_at": "2026-11-19T16:42:11.020033+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "‘It’s been a rocky road here in the past four plus years’: Kalmar on Canada’s real estate market - BNN Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNmp0dVVmRjJjTV83UlZCM0YzaE9nMThoMzBabEtKQTJPTHV4VjRSR1pNQ3dRYmFkemdxQkpYMkhOM29Hb1pLdEU3ZGdoYkgzeEdKZXdLTlJ2R2ZGOVlLNFMxWklSS3pkUkphalN0Z0hrQy1QTGU0SFpXRC0yZFdIcjVwbEdlTDQ5MEVwYUJiVnVkS3RaSkFoZEFQekcyamV2ek50MkllUjdVTTNqMEVMbmFHckZBSmVlSWkwdzI5bzREelpzUTlfSTh2S1hQZHNlcjRMek5RNHBsT3pHcFZsYWQycmJKRGM?oc=5",
+    "description": "‘It’s been a rocky road here in the past four plus years’: Kalmar on Canada’s real estate market BNN Bloomberg",
+    "published": "2026-11-18T16:23:46+00:00",
+    "media": "BNN Bloomberg",
+    "media_domain": "bnnbloomberg.ca",
+    "country": "Canada",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Marché résidentiel"
+    ],
+    "primary_theme": "Marché résidentiel",
+    "dedup_key": "its been a rocky road here in the past four plus years kalmar on canadas real estate market",
+    "collected_at": "2026-11-19T16:42:11.019543+00:00",
+    "mentions": 1
+  },
+  {
     "title": "Casavo rachète Weloge et vise jusqu’à dix intégrations en France - Immobilier 2.0",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZHZyc1laRWhhcF9sN3RGRU90WHhtd2VubTd2ZkV2UW5KRWhoX3RJLVdwY2hYTmVOOEh5MVBjeHpaNVBFQWdZMlQ2NUpPLUxsYWtFeGhCMXFPb09NZk5DU3B1QnpjY2Y4T3pNbzk4anhBM01oR1NyLUJ1bmdVQTZ2NE5ZUjJsUU42aEoxQzJhcGhzclUwdHFQNFYxZ1ZScW9aUnFlakNn?oc=5",
     "description": "Casavo rachète Weloge et vise jusqu’à dix intégrations en France Immobilier 2.0",
@@ -53,6 +800,42 @@
     "primary_theme": "Marché résidentiel",
     "dedup_key": "avec lappui des promoteurs qui opèrent en iledefrance le bailleur social adoma muscle son offre de logements pour jeunes actifs",
     "collected_at": "2026-11-18T16:38:28.882713+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "UK Property Sector Leads AI Surge as Adoption Doubles Year-on-Year - FF News",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WRlJmYkw1WkNQaHdfSnJ2U3hUTkl1cHBWYUFhYnZuYUJ3R3RUTW04Y3VNTk1oQUNjQlhxSG84V3NNYks1cXR2Qkc1bm5nT1JVRktDY2Ytd09LM0ljd04zRXRoY003LU1kaG5sUGJwRzl3RmZRTjc3b1hLaUl4UQ?oc=5",
+    "description": "UK Property Sector Leads AI Surge as Adoption Doubles Year-on-Year FF News",
+    "published": "2026-11-18T14:33:55+00:00",
+    "media": "FF News",
+    "media_domain": "ffnews.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "uk property sector leads ai surge as adoption doubles yearonyear",
+    "collected_at": "2026-11-19T16:42:08.784083+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Sharjah launches realty excellence award with focus on sustainability - Gulf Today",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2ZkcHRxbFFmX0tCRm9Ec0VjVl9vY3RzNnhvdGFwSGp3SWxlNVRpVHBNVGpxZDJ3Vy1nbFh2cENONURES2xISFJKbGJndGZfRjluTkRScmhqYmxtbWlXNnd1dVBrQWY5bWJieGgtMm5GYUw1THdSLWFSaGh6MjV4NVdma0RGNEJCZ2xFazRCYU9xLXJ6MF92VHZTMFJHZUpIaGI4WWw0VjhKRVltSnJuNVBWVnI?oc=5",
+    "description": "Sharjah launches realty excellence award with focus on sustainability Gulf Today",
+    "published": "2026-11-18T14:29:29+00:00",
+    "media": "Gulf Today",
+    "media_domain": "gulftoday.ae",
+    "country": "Émirats (Dubaï)",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "sharjah launches realty excellence award with focus on sustainability",
+    "collected_at": "2026-11-19T16:42:07.714809+00:00",
     "mentions": 1
   },
   {
@@ -269,6 +1052,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "del property management one of canadas largest condo managers partners with casa to modernize condo payments",
     "collected_at": "2026-11-18T16:38:37.015382+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "New platform targets UK urban centres with AI hubs - Green Street News",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGU5SXU0bF90ek5OdzlzUkRDUVZqS0VYNjc2ZkJtVXhXSVgtSFh5UHlMSENFN2dYYXg1TlphR0dkMkxORjUxdEI3NWV6a3JocXlocjRmdHNYT0ZSeGFfN3A3SVJmR2dkYzJCSVk5VGtjSUNYYjhkMVA5NDk5dVpRT012QUs0RFJCbFRhVms3VW0?oc=5",
+    "description": "New platform targets UK urban centres with AI hubs Green Street News",
+    "published": "2026-11-18T12:23:16+00:00",
+    "media": "Green Street News",
+    "media_domain": "greenstreetnews.com",
+    "country": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "PropTech & innovation"
+    ],
+    "primary_theme": "PropTech & innovation",
+    "dedup_key": "new platform targets uk urban centres with ai hubs",
+    "collected_at": "2026-11-19T16:42:08.784664+00:00",
     "mentions": 1
   },
   {
@@ -3515,6 +4316,24 @@
     "mentions": 1
   },
   {
+    "title": "Taux immobilier 2027 : prévisions et évolution - Pretto",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZOWxRU3AtOWFHaUpMX3p3U056QjFRbmlnekdsQXAyLVhjWXNTU3JqSjUwYlBMaVgwekcxYkxYSUNfTTRjVmRqZDdDejBGRUx2U2JqeElQTnhHTFJyMHNHZEFZWFBNYzRXakNiMkE0aG4xZHpTakpUYVlR?oc=5",
+    "description": "Taux immobilier 2027 : prévisions et évolution Pretto",
+    "published": "2026-11-16T08:00:00+00:00",
+    "media": "Pretto",
+    "media_domain": "pretto.fr",
+    "country": "France",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Financement & crédit"
+    ],
+    "primary_theme": "Financement & crédit",
+    "dedup_key": "taux immobilier 2027 prévisions et évolution",
+    "collected_at": "2026-11-19T16:42:04.873416+00:00",
+    "mentions": 1
+  },
+  {
     "title": "UK Asking Prices Drop Sharply as London Supply Tests Sellers - https://streamlinefeed.co.ke/",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYVU4eW4zMFc0RDdPbGJIVVIyeXJ3TjFRRXdyNWtyQ05lM243aW5fNVJoWC1RM1hoT0VyZW05SjRod0dkbDk0dEFVWGlrT1lQRzF1cUVONE9YcVIxOHNRU0NKZDRkWWc1VllrS3V2NHRXZzQ2TDZ5NkpiaWdGdHVqMXNycnlydVBxU0pjMExoQjBZZEYyczZrWWlR?oc=5",
     "description": "UK Asking Prices Drop Sharply as London Supply Tests Sellers https://streamlinefeed.co.ke/",
@@ -3692,6 +4511,24 @@
     "primary_theme": "Financement & crédit",
     "dedup_key": "crédit immobilier près dun belge sur trois éprouve des difficultés à rembourser son emprunt",
     "collected_at": "2026-11-17T16:59:09.297479+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "كازا.. ملف البروفيسور شرقاب ولي معاه غادي يدوز فتاني جلسة قدام محكمة الاستئناف … ومطالب بالإفراج عليهم - كود",
+    "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOTE9nOVVQLXdLWFhJVmJOaldqbnBweUJ4anBQQ3l1SnR4RjNMOFhJV284NEJlZlBaX3ZnaUI1WHhBejFBMVlXeHRpVnBRSmtFVFlpT25haDZubDhMUXE1YmhVVm1KR2ZlamdhTXVMYWZGRWd0Mkp3VG1lMENrcTJfOE5aYmVPaXZ4dGZQMHFXNUhFNVRSMXVsZExfWS01OHNvbGNPQi1nZ080WXQ2TWo4NTRmV3J2R2k5ZEJlb2xfcmpEMllTYk96NGE0ZE5JWWtzdzZTMzByQVhPUzdyc0dnWDdZdU5zRE5aV0tnaG13cnhDU3hNWlNRVzFjdnhSbzBXcVNQeFl2dzZMUkFEWTlIdXJmQlRkRWFwOTlhR2VmR2pHeHVYN3dJVGVweGVvZlpxcW1nR2VGaXZPTGQxVFVpRTliMnY5ZklTakRF?oc=5",
+    "description": "كازا.. ملف البروفيسور شرقاب ولي معاه غادي يدوز فتاني جلسة قدام محكمة الاستئناف … ومطالب بالإفراج عليهم كود",
+    "published": "2026-11-16T02:11:14+00:00",
+    "media": "كود",
+    "media_domain": "goud.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "كازا ملف البروفيسور شرقاب ولي معاه غادي يدوز فتاني جلسة قدام محكمة الاستئناف ومطالب بالإفراج عليهم",
+    "collected_at": "2026-11-19T16:42:12.546216+00:00",
     "mentions": 1
   },
   {
@@ -24631,6 +25468,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "beyond sustainability how regenerative buildings could change the future of uae real estate",
     "collected_at": "2026-11-17T16:59:11.694248+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "Canada Commercial Real Estate Report: Fall 2026 - REMAX Canada",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03bXl0SXJZTkdKN0JjNERWUmFaNG5wRWxJcU1DU0c0SURlR2lCU0hJRWFUaHlObm1sM25lV0g1OU1PaV9kZXk2blZlcVFtZk9NSXdLbHFSMzM5bzNwUk1nMThR?oc=5",
+    "description": "Canada Commercial Real Estate Report: Fall 2026 REMAX Canada",
+    "published": "2026-10-27T07:00:00+00:00",
+    "media": "REMAX Canada",
+    "media_domain": "blog.remax.ca",
+    "country": "Canada",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Immobilier commercial / bureaux / retail"
+    ],
+    "primary_theme": "Immobilier commercial / bureaux / retail",
+    "dedup_key": "canada commercial real estate report fall 2026",
+    "collected_at": "2026-11-19T16:42:11.020504+00:00",
     "mentions": 1
   },
   {
@@ -151779,6 +152634,24 @@
     "mentions": 1
   },
   {
+    "title": "2025 U.S. Healthcare Real Estate Outlook - CBRE",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbmFoNTFyMHdYTUwxYnptdmcybWpGQ1dpX21KVHNYN3dQQm45WjRvOFFxd0YtdktGeS1mbWVmNm1DS0NwWHFGQWljUHlzZ0oxZjIwdjFyVEM1VllPVHl1UVlVNXRWV09rUVk1dHo2RUQ4aVFsdWpDSTV3QXZqVGlaU09R?oc=5",
+    "description": "2025 U.S. Healthcare Real Estate Outlook CBRE",
+    "published": "2024-11-12T08:00:00+00:00",
+    "media": "CBRE",
+    "media_domain": "cbre.com",
+    "country": "États-Unis",
+    "language": "en",
+    "language_label": "Anglais",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "2025 us healthcare real estate outlook",
+    "collected_at": "2026-11-19T16:42:09.321538+00:00",
+    "mentions": 1
+  },
+  {
     "title": "بني بوعياش: أفراد من الجالية المغربية يشتكون من \"الإعتداء المادي\" على أراضيهم - هبة بريس",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nUVpQT0pISkdFUng3dkZVU1cwWG1yM3VpNmk4MWw4X0JOUU0zRTJla3N4a1FYWnBrSjN6eVlVeVNMZTBxV3pJUmRCOEVDSHFrNkhUb1hDMA?oc=5",
     "description": "بني بوعياش: أفراد من الجالية المغربية يشتكون من \"الإعتداء المادي\" على أراضيهم هبة بريس",
@@ -154793,6 +155666,24 @@
     "primary_theme": "Financement & crédit",
     "dedup_key": "panorama des prêts à lhabitat des ménages",
     "collected_at": "2026-10-31T13:46:02.370212+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "« La situation dans nos agences est en voie d’amélioration » (Eric Allouche, ERA Immobilier France) - Immo Matin",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMGp6LU8yUEp6S1RadFdMakFEVnluM2tmLTQ4Ulh5czV4Q1EzLVRVc3YtWmE3WHBYTTNmTUxJSW5lajBFbEdhTmVvVWxYWW5Kb1llZE5XcE1DY0FFbHRJMmNlNEl0V2I5TDFkVVZZdlQ1eGlWZG5FWWdfQTlETUw2UVpONE45em1ld050SVpsaThFYXk3Q2Y3ckNvUlRSbEhUc0VLUDBmZlg4SEp3aHp6eHRkcG5GZzJnTlI0aFUzdjl1MXh6cGNTMmlaN0JWUmZhYlc4YndPQTE2LUtqX1piXzJaOEViSUJSR3NEODJ4dw?oc=5",
+    "description": "« La situation dans nos agences est en voie d’amélioration » (Eric Allouche, ERA Immobilier France) Immo Matin",
+    "published": "2024-03-07T08:00:00+00:00",
+    "media": "Immo Matin",
+    "media_domain": "immomatin.com",
+    "country": "France",
+    "language": "fr",
+    "language_label": "Français",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "la situation dans nos agences est en voie damélioration eric allouche era immobilier france",
+    "collected_at": "2026-11-19T16:42:04.877332+00:00",
     "mentions": 1
   },
   {
@@ -158797,6 +159688,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "تحويـلات غيـر مسبوقـة",
     "collected_at": "2026-11-10T15:42:20.722220+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "من معابد الصين إلى محلات “الماساج” - Assabah",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1jdTNUczViN3RKd1pJYmduU3l3TGVHdmx0WC01V1hqSHZ6ZEVNVTJDQ1AwS3RlTG5oUHctYVVKa0pQUTFU?oc=5",
+    "description": "من معابد الصين إلى محلات “الماساج” Assabah",
+    "published": "2022-06-25T07:00:00+00:00",
+    "media": "Assabah",
+    "media_domain": "assabah.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "من معابد الصين إلى محلات الماساج",
+    "collected_at": "2026-11-19T16:42:11.539513+00:00",
     "mentions": 1
   },
   {
@@ -165107,6 +166016,24 @@
     "primary_theme": "Non classé",
     "dedup_key": "ملحقة حي المطار سرعة إنجاز الوثائق",
     "collected_at": "2026-10-31T13:46:08.703712+00:00",
+    "mentions": 1
+  },
+  {
+    "title": "فضائح العمران بأكادير تطيح بمسؤولين - Assabah",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1TV0IwaXZPVl9JV1BHUlRoUTNLVTlhRmNpME1yeDJuejhTal9DUmh1cE5FMlVwZ0Z6RmZaSmNOc2tsYmVR?oc=5",
+    "description": "فضائح العمران بأكادير تطيح بمسؤولين Assabah",
+    "published": "2019-05-30T07:00:00+00:00",
+    "media": "Assabah",
+    "media_domain": "assabah.ma",
+    "country": "Maroc",
+    "language": "ar",
+    "language_label": "Arabe",
+    "themes": [
+      "Non classé"
+    ],
+    "primary_theme": "Non classé",
+    "dedup_key": "فضائح العمران بأكادير تطيح بمسؤولين",
+    "collected_at": "2026-11-19T16:42:11.539983+00:00",
     "mentions": 1
   },
   {
